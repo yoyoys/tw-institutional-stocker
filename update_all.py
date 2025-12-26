@@ -13,6 +13,7 @@ import os
 from io import StringIO
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
+from typing import Optional
 import math
 import requests
 import pandas as pd
@@ -482,7 +483,7 @@ def build_foreign_master(twse: pd.DataFrame, tpex: pd.DataFrame) -> pd.DataFrame
 def build_estimated_holdings(
     flows: pd.DataFrame,
     foreign_master: pd.DataFrame,
-    baseline: pd.DataFrame | None = None,
+    baseline: Optional[pd.DataFrame] = None,
 ) -> pd.DataFrame:
     """建立三大法人持股估計，支援 baseline 校正。"""
     flows = flows.copy()
