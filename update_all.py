@@ -561,7 +561,7 @@ def build_estimated_holdings(
 
         return g
 
-    merged = merged.groupby("code", group_keys=False).apply(accumulate)
+    merged = merged.groupby("code", group_keys=False).apply(accumulate, include_groups=False)
 
     # total_shares 已在前面轉成 float 並 fillna(0.0)
     denom = merged["total_shares"].astype("float64")
@@ -596,7 +596,7 @@ def add_change_metrics(merged: pd.DataFrame, windows: list[int]) -> pd.DataFrame
             g[col] = g["three_inst_ratio_est"].diff(periods=w)
         return g
 
-    merged = merged.groupby("code", group_keys=False).apply(add_all)
+    merged = merged.groupby("code", group_keys=False).apply(add_all, include_groups=False)
     return merged
 
 
