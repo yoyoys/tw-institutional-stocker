@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.14,
     "three_inst_ratio_change_20": 0.17999999999999972
+  },
+  {
+    "date": "2026-01-20",
+    "code": "8213",
+    "name": "志超",
+    "market": "TWSE",
+    "foreign_ratio": 19.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.29,
+    "three_inst_ratio_change_20": 0.25
   }
 ]

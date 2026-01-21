@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.37,
     "three_inst_ratio_change_20": 1.2700000000000005
+  },
+  {
+    "date": "2026-01-20",
+    "code": "3607",
+    "name": "谷崧",
+    "market": "TWSE",
+    "foreign_ratio": 5.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.27,
+    "three_inst_ratio_change_20": 1.0199999999999996
   }
 ]

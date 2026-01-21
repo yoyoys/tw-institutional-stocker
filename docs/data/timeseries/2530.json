@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.541198874269632,
     "three_inst_ratio_change_20": 0.04952823135568618
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2530",
+    "name": "華建",
+    "market": "TWSE",
+    "foreign_ratio": 4.04,
+    "trust_ratio": 0.415841654880784,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.455841654880784,
+    "three_inst_ratio_change_20": 0.004171011966837668
   }
 ]

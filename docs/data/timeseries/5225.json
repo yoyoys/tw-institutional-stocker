@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.213156212421495,
     "three_inst_ratio_change_20": 0.5874495221214175
+  },
+  {
+    "date": "2026-01-20",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.16,
+    "trust_ratio": 0.03315621242149805,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.19315621242149,
+    "three_inst_ratio_change_20": 0.5374495221214204
   }
 ]

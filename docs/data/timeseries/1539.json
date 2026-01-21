@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.07,
     "three_inst_ratio_change_20": -0.1499999999999999
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1539",
+    "name": "巨庭",
+    "market": "TWSE",
+    "foreign_ratio": 1.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.01,
+    "three_inst_ratio_change_20": -0.18999999999999995
   }
 ]

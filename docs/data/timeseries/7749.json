@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.32377994725607,
     "three_inst_ratio_change_20": -0.42063921898781587
+  },
+  {
+    "date": "2026-01-20",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.33,
+    "trust_ratio": 0.053779947256069646,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.38377994725607,
+    "three_inst_ratio_change_20": -0.200639218987817
   }
 ]

@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4825223205505447,
     "three_inst_ratio_change_20": 0.44747767944945505
+  },
+  {
+    "date": "2026-01-20",
+    "code": "8462",
+    "name": "柏文",
+    "market": "TWSE",
+    "foreign_ratio": 3.5,
+    "trust_ratio": 0.0025223205505448885,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5025223205505447,
+    "three_inst_ratio_change_20": 0.47747767944945485
   }
 ]

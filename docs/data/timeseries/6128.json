@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.74,
     "three_inst_ratio_change_20": -0.1200000000000001
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6128",
+    "name": "上福",
+    "market": "TWSE",
+    "foreign_ratio": 4.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.7,
+    "three_inst_ratio_change_20": -0.16000000000000014
   }
 ]

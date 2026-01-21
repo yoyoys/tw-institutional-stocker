@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.39,
     "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2509",
+    "name": "全坤建",
+    "market": "TWSE",
+    "foreign_ratio": 1.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.37,
+    "three_inst_ratio_change_20": -0.08999999999999986
   }
 ]

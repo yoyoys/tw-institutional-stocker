@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.26369017039205,
     "three_inst_ratio_change_20": 0.3200000000000003
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1612",
+    "name": "宏泰",
+    "market": "TWSE",
+    "foreign_ratio": 16.91,
+    "trust_ratio": 0.1736901703920503,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.08369017039205,
+    "three_inst_ratio_change_20": -0.8900000000000006
   }
 ]

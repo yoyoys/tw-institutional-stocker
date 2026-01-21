@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.779026697556741,
     "three_inst_ratio_change_20": -0.7748639125466834
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2211",
+    "name": "長榮鋼",
+    "market": "TWSE",
+    "foreign_ratio": 4.9,
+    "trust_ratio": 5.708853120304695,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.608853120304694,
+    "three_inst_ratio_change_20": -0.7332065004648634
   }
 ]

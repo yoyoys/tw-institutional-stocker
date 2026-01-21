@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
     "three_inst_ratio_change_20": 4.01
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2485",
+    "name": "兆赫",
+    "market": "TWSE",
+    "foreign_ratio": 5.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.69,
+    "three_inst_ratio_change_20": 4.6000000000000005
   }
 ]

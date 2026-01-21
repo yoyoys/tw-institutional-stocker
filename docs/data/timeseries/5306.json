@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.574444478483036,
     "three_inst_ratio_change_20": 0.11444447848303518
+  },
+  {
+    "date": "2026-01-20",
+    "code": "5306",
+    "name": "桂盟",
+    "market": "TWSE",
+    "foreign_ratio": 12.6,
+    "trust_ratio": -0.005555521516963404,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.594444478483036,
+    "three_inst_ratio_change_20": 0.2244444784830364
   }
 ]

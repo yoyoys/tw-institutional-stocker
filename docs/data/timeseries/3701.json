@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94593675962348,
     "three_inst_ratio_change_20": 0.16593675962347998
+  },
+  {
+    "date": "2026-01-20",
+    "code": "3701",
+    "name": "大眾控",
+    "market": "TWSE",
+    "foreign_ratio": 3.88,
+    "trust_ratio": 0.07145073383962393,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.9514507338396236,
+    "three_inst_ratio_change_20": 0.15145073383962382
   }
 ]

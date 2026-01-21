@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.2702871394820234,
     "three_inst_ratio_change_20": 0.030057427896404698
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2258",
+    "name": "鴻華先進-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.26,
+    "trust_ratio": 0.00028713948202334556,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.26028713948202337,
+    "three_inst_ratio_change_20": -0.009942572103595337
   }
 ]

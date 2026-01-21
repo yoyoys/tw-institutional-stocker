@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
     "three_inst_ratio_change_20": -0.1
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00670L",
+    "name": "富邦NASDAQ正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.14,
+    "three_inst_ratio_change_20": -0.09999999999999998
   }
 ]

@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.995965648928451,
     "three_inst_ratio_change_20": 0.40596564892845155
+  },
+  {
+    "date": "2026-01-20",
+    "code": "4949",
+    "name": "有成精密",
+    "market": "TWSE",
+    "foreign_ratio": 5.55,
+    "trust_ratio": 0.005965648928450885,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.555965648928451,
+    "three_inst_ratio_change_20": -0.2540343510715486
   }
 ]

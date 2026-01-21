@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.4,
     "three_inst_ratio_change_20": -0.15999999999999925
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2426",
+    "name": "鼎元",
+    "market": "TWSE",
+    "foreign_ratio": 7.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.35,
+    "three_inst_ratio_change_20": -0.2400000000000002
   }
 ]

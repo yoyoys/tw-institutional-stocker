@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7,
     "three_inst_ratio_change_20": -0.32000000000000006
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00851",
+    "name": "台新全球AI",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.68,
+    "three_inst_ratio_change_20": -0.31999999999999995
   }
 ]

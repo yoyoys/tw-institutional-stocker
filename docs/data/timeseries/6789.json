@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9183319127879837,
     "three_inst_ratio_change_20": 0.09256679570011617
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6789",
+    "name": "采鈺",
+    "market": "TWSE",
+    "foreign_ratio": 3.37,
+    "trust_ratio": 0.5086460826804864,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.8786460826804863,
+    "three_inst_ratio_change_20": -0.007747374192387024
   }
 ]

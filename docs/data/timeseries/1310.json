@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.91,
     "three_inst_ratio_change_20": 1.0300000000000002
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1310",
+    "name": "台苯",
+    "market": "TWSE",
+    "foreign_ratio": 6.66,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.66,
+    "three_inst_ratio_change_20": 0.8700000000000001
   }
 ]

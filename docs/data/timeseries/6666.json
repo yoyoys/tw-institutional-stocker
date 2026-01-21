@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.16,
     "three_inst_ratio_change_20": -0.020000000000010232
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6666",
+    "name": "羅麗芬-KY",
+    "market": "TWSE",
+    "foreign_ratio": 75.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.14,
+    "three_inst_ratio_change_20": -0.04000000000000625
   }
 ]

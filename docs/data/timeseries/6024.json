@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0087997003283826,
     "three_inst_ratio_change_20": 0.10759940065676554
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6024",
+    "name": "群益期",
+    "market": "TWSE",
+    "foreign_ratio": 2.94,
+    "trust_ratio": -0.0012002996716172147,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.938799700328383,
+    "three_inst_ratio_change_20": 0.017599400656765685
   }
 ]

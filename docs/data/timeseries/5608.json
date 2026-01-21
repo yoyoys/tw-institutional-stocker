@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.95,
     "three_inst_ratio_change_20": 0.5499999999999998
+  },
+  {
+    "date": "2026-01-20",
+    "code": "5608",
+    "name": "四維航",
+    "market": "TWSE",
+    "foreign_ratio": 4.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.97,
+    "three_inst_ratio_change_20": 0.47999999999999954
   }
 ]

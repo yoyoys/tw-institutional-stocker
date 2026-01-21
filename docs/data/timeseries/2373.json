@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7440300132617552,
     "three_inst_ratio_change_20": 0.0040300132617552276
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2373",
+    "name": "震旦行",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.04403001326175532,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7340300132617552,
+    "three_inst_ratio_change_20": -0.005969986738244781
   }
 ]

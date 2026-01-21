@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.76029197080292,
     "three_inst_ratio_change_20": 1.25029197080292
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2399",
+    "name": "映泰",
+    "market": "TWSE",
+    "foreign_ratio": 3.84,
+    "trust_ratio": 0.15833801235261089,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.998338012352611,
+    "three_inst_ratio_change_20": 0.9783380123526109
   }
 ]

@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.426140033511217,
     "three_inst_ratio_change_20": -0.7276249160761807
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.49,
+    "trust_ratio": -0.18393066358802856,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.306069336411971,
+    "three_inst_ratio_change_20": -0.9181197957708971
   }
 ]

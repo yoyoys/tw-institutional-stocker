@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.35,
     "three_inst_ratio_change_20": 0.19000000000000017
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00703",
+    "name": "台新MSCI中國",
+    "market": "TWSE",
+    "foreign_ratio": 1.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.35,
+    "three_inst_ratio_change_20": 0.19000000000000017
   }
 ]

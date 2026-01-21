@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.28,
     "three_inst_ratio_change_20": 0.20000000000000018
+  },
+  {
+    "date": "2026-01-20",
+    "code": "7740",
+    "name": "熙特爾-創",
+    "market": "TWSE",
+    "foreign_ratio": 5.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.23,
+    "three_inst_ratio_change_20": 0.08000000000000007
   }
 ]

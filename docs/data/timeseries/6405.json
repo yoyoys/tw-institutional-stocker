@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.68,
     "three_inst_ratio_change_20": 0.2200000000000002
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6405",
+    "name": "悅城",
+    "market": "TWSE",
+    "foreign_ratio": 2.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.74,
+    "three_inst_ratio_change_20": 0.2100000000000004
   }
 ]

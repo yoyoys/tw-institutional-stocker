@@ -790,5 +790,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.27,
     "three_inst_ratio_change_20": 0.04000000000000001
+  },
+  {
+    "date": "2026-01-20",
+    "code": "3054",
+    "name": "立萬利",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.05000000000000002
   }
 ]

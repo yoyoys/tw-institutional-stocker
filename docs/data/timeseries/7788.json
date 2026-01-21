@@ -724,5 +724,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.24,
     "three_inst_ratio_change_20": 0.33000000000000007
+  },
+  {
+    "date": "2026-01-20",
+    "code": "7788",
+    "name": "松川精密",
+    "market": "TWSE",
+    "foreign_ratio": 4.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.42,
+    "three_inst_ratio_change_20": 0.48999999999999977
   }
 ]

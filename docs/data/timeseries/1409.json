@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.602696245379798,
     "three_inst_ratio_change_20": 0.833489674378944
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1409",
+    "name": "新纖",
+    "market": "TWSE",
+    "foreign_ratio": 12.42,
+    "trust_ratio": 0.042696245379798194,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.462696245379798,
+    "three_inst_ratio_change_20": 0.5334896743789432
   }
 ]

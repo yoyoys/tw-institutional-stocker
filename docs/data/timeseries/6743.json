@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.14,
     "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6743",
+    "name": "安普新",
+    "market": "TWSE",
+    "foreign_ratio": 4.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.15,
+    "three_inst_ratio_change_20": 0.07000000000000028
   }
 ]

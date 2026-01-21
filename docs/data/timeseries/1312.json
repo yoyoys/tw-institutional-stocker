@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.3,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1312",
+    "name": "國喬",
+    "market": "TWSE",
+    "foreign_ratio": 6.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.27,
+    "three_inst_ratio_change_20": -0.020000000000000462
   }
 ]

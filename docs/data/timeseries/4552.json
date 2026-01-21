@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.141724137931035,
     "three_inst_ratio_change_20": 0.16172413793103857
+  },
+  {
+    "date": "2026-01-20",
+    "code": "4552",
+    "name": "力達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.06,
+    "trust_ratio": 0.05172413793103448,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.111724137931034,
+    "three_inst_ratio_change_20": 0.12172413793103232
   }
 ]

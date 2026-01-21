@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.381262757960541,
     "three_inst_ratio_change_20": -2.8561767567159864
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2520",
+    "name": "冠德",
+    "market": "TWSE",
+    "foreign_ratio": 12.3,
+    "trust_ratio": -6.754627017460632,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.5453729825393685,
+    "three_inst_ratio_change_20": -2.259840936094613
   }
 ]

@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.22,
     "three_inst_ratio_change_20": 0.05999999999999961
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1449",
+    "name": "佳和",
+    "market": "TWSE",
+    "foreign_ratio": 5.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.92,
+    "three_inst_ratio_change_20": -0.5600000000000005
   }
 ]

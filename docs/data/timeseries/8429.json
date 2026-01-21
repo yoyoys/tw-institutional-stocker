@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.07,
     "three_inst_ratio_change_20": -0.16999999999999815
+  },
+  {
+    "date": "2026-01-20",
+    "code": "8429",
+    "name": "金麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 31.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.02,
+    "three_inst_ratio_change_20": -0.21999999999999886
   }
 ]

@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6262673677076815,
     "three_inst_ratio_change_20": -0.10433281107259407
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.2014008054931628,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6114008054931628,
+    "three_inst_ratio_change_20": -0.11919937328711283
   }
 ]

@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
     "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2748",
+    "name": "雲品",
+    "market": "TWSE",
+    "foreign_ratio": 0.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.74,
+    "three_inst_ratio_change_20": -0.010000000000000009
   }
 ]

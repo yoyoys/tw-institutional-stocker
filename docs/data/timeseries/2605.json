@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 38.55490639110554,
     "three_inst_ratio_change_20": 4.231425615665408
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2605",
+    "name": "新興",
+    "market": "TWSE",
+    "foreign_ratio": 37.74,
+    "trust_ratio": 1.0749063911055412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.814906391105545,
+    "three_inst_ratio_change_20": 4.211839717099949
   }
 ]
