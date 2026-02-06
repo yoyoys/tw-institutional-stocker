@@ -339,5 +339,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.042333333333333334,
     "three_inst_ratio_change_20": 0.00966666666666667
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.029,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.059,
+    "three_inst_ratio_change_20": 0.025999999999999995
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.029333333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.059333333333333335,
+    "three_inst_ratio_change_20": 0.02566666666666667
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.046,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.076,
+    "three_inst_ratio_change_20": 0.032
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.046,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.076,
+    "three_inst_ratio_change_20": 0.03166666666666666
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.04633333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.07633333333333334,
+    "three_inst_ratio_change_20": 0.03166666666666667
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.047,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.077,
+    "three_inst_ratio_change_20": 0.032
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.02,
+    "trust_ratio": 0.04733333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.06733333333333333,
+    "three_inst_ratio_change_20": 0.02266666666666666
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.05566666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.08566666666666667,
+    "three_inst_ratio_change_20": 0.04133333333333333
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.02,
+    "trust_ratio": 0.05566666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.07566666666666667,
+    "three_inst_ratio_change_20": 0.031666666666666676
   }
 ]

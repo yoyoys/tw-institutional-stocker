@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.64,
     "three_inst_ratio_change_20": 0.9300000000000002
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.81
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 2.91,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.91,
+    "three_inst_ratio_change_20": 1.09
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 3.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.59,
+    "three_inst_ratio_change_20": 1.7799999999999998
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 4.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.0,
+    "three_inst_ratio_change_20": 2.1
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 4.62,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.62,
+    "three_inst_ratio_change_20": 2.68
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 4.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.83,
+    "three_inst_ratio_change_20": 2.83
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 6.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.18,
+    "three_inst_ratio_change_20": 4.18
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 7.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.61,
+    "three_inst_ratio_change_20": 5.6000000000000005
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 8.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.43,
+    "three_inst_ratio_change_20": 6.85
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 8.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.77,
+    "three_inst_ratio_change_20": 7.14
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 8.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.46,
+    "three_inst_ratio_change_20": 6.750000000000001
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.16,
+    "three_inst_ratio_change_20": 7.050000000000001
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 8.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.85,
+    "three_inst_ratio_change_20": 7.09
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.07,
+    "three_inst_ratio_change_20": 7.430000000000001
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.13,
+    "three_inst_ratio_change_20": 7.440000000000001
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.24,
+    "three_inst_ratio_change_20": 7.550000000000001
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.39,
+    "three_inst_ratio_change_20": 7.33
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.45,
+    "three_inst_ratio_change_20": 6.9399999999999995
   }
 ]

@@ -669,5 +669,170 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.28,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-25",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.28
+  },
+  {
+    "date": "2025-12-26",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-29",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": -0.009999999999999953
+  },
+  {
+    "date": "2025-12-30",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-31",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.27,
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-01-02",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-05",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-01-06",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-07",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-09",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-01-13",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-14",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-15",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.29,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-19",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0015460729746444033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28154607297464446,
+    "three_inst_ratio_change_20": -0.02845392702535554
+  },
+  {
+    "date": "2026-01-20",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0015460729746444033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28154607297464446,
+    "three_inst_ratio_change_20": -0.008453927025355523
   }
 ]

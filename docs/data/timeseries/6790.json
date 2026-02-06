@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7206001787802756,
     "three_inst_ratio_change_20": 0.07850259624168654
+  },
+  {
+    "date": "2025-12-25",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.6413488806594323
+  },
+  {
+    "date": "2025-12-26",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.48,
+    "trust_ratio": 0.23022582784069726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7102258278406972,
+    "three_inst_ratio_change_20": 0.058876947181264905
+  },
+  {
+    "date": "2025-12-29",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.48,
+    "trust_ratio": 0.23022582784069726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7102258278406972,
+    "three_inst_ratio_change_20": 0.058876947181264905
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.49,
+    "trust_ratio": 0.23022582784069726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7202258278406972,
+    "three_inst_ratio_change_20": 0.058876947181264905
+  },
+  {
+    "date": "2025-12-31",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.49,
+    "trust_ratio": 0.23022582784069726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7202258278406972,
+    "three_inst_ratio_change_20": 0.028876947181264878
+  },
+  {
+    "date": "2026-01-02",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.45,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6794771259615404,
+    "three_inst_ratio_change_20": -0.011123052818735157
+  },
+  {
+    "date": "2026-01-05",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6394771259615404,
+    "three_inst_ratio_change_20": -0.05112305281873519
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.4,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6294771259615404,
+    "three_inst_ratio_change_20": -0.0611230528187352
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6194771259615404,
+    "three_inst_ratio_change_20": -0.07112305281873521
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.4,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6294771259615404,
+    "three_inst_ratio_change_20": -0.08112305281873522
+  },
+  {
+    "date": "2026-01-09",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.22910277502196214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.619102775021962,
+    "three_inst_ratio_change_20": -0.09149740375831361
+  },
+  {
+    "date": "2026-01-12",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.22910277502196214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.619102775021962,
+    "three_inst_ratio_change_20": -0.12149740375831364
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.22910277502196214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.619102775021962,
+    "three_inst_ratio_change_20": -0.12149740375831364
+  },
+  {
+    "date": "2026-01-14",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.22835407314280542,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6383540731428052,
+    "three_inst_ratio_change_20": -0.09224610563747038
+  },
+  {
+    "date": "2026-01-15",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.22835407314280542,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6483540731428055,
+    "three_inst_ratio_change_20": -0.08224610563747015
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.22161575623039476,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6416157562303946,
+    "three_inst_ratio_change_20": -0.08898442254988104
+  },
+  {
+    "date": "2026-01-19",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.20626736770768161,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6262673677076815,
+    "three_inst_ratio_change_20": -0.10433281107259407
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.2014008054931628,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6114008054931628,
+    "three_inst_ratio_change_20": -0.11919937328711283
   }
 ]

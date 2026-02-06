@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 41.65570669030007,
     "three_inst_ratio_change_20": -0.9600000000000009
+  },
+  {
+    "date": "2025-12-25",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -42.66570669030008
+  },
+  {
+    "date": "2025-12-26",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.58,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.61570669030007,
+    "three_inst_ratio_change_20": -0.6799999999999997
+  },
+  {
+    "date": "2025-12-29",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.68,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.715706690300074,
+    "three_inst_ratio_change_20": -0.509999999999998
+  },
+  {
+    "date": "2025-12-30",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.69,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.72570669030007,
+    "three_inst_ratio_change_20": -0.4100000000000037
+  },
+  {
+    "date": "2025-12-31",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.66,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.69570669030007,
+    "three_inst_ratio_change_20": -0.5700000000000003
+  },
+  {
+    "date": "2026-01-02",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.77,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.80570669030008,
+    "three_inst_ratio_change_20": -0.4399999999999977
+  },
+  {
+    "date": "2026-01-05",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.49,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.525706690300076,
+    "three_inst_ratio_change_20": -0.5899999999999963
+  },
+  {
+    "date": "2026-01-06",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.43,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.465706690300074,
+    "three_inst_ratio_change_20": -0.3299999999999983
+  },
+  {
+    "date": "2026-01-07",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.45,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.48570669030008,
+    "three_inst_ratio_change_20": -0.00999999999999801
+  },
+  {
+    "date": "2026-01-08",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.42,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.455706690300076,
+    "three_inst_ratio_change_20": -0.10999999999999943
+  },
+  {
+    "date": "2026-01-09",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.48,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.51570669030007,
+    "three_inst_ratio_change_20": -0.04000000000000625
+  },
+  {
+    "date": "2026-01-12",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.64,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.675706690300075,
+    "three_inst_ratio_change_20": 0.10000000000000142
+  },
+  {
+    "date": "2026-01-13",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.67,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.705706690300076,
+    "three_inst_ratio_change_20": 0.240000000000002
+  },
+  {
+    "date": "2026-01-14",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.04,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.07570669030007,
+    "three_inst_ratio_change_20": 0.8200000000000003
+  },
+  {
+    "date": "2026-01-15",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.08,
+    "trust_ratio": 0.03570669030007482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.11570669030007,
+    "three_inst_ratio_change_20": 0.769999999999996
+  },
+  {
+    "date": "2026-01-16",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.08,
+    "trust_ratio": 0.03443145136078643,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.11443145136079,
+    "three_inst_ratio_change_20": 0.7687247610607102
+  },
+  {
+    "date": "2026-01-19",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.18,
+    "trust_ratio": 0.03315621242149805,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.213156212421495,
+    "three_inst_ratio_change_20": 0.5874495221214175
+  },
+  {
+    "date": "2026-01-20",
+    "code": "5225",
+    "name": "東科-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.16,
+    "trust_ratio": 0.03315621242149805,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.19315621242149,
+    "three_inst_ratio_change_20": 0.5374495221214204
   }
 ]

@@ -768,5 +768,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.181202482115484,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2025-12-25",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.221202482115484
+  },
+  {
+    "date": "2025-12-26",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.18,
+    "trust_ratio": 0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.181202482115484,
+    "three_inst_ratio_change_20": -0.04999999999999982
+  },
+  {
+    "date": "2025-12-29",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.21,
+    "trust_ratio": 0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2112024821154836,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2025-12-30",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.21,
+    "trust_ratio": 0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2112024821154836,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2025-12-31",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.22,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2187975178845165,
+    "three_inst_ratio_change_20": -0.0024049642309673658
+  },
+  {
+    "date": "2026-01-02",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.22,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2187975178845165,
+    "three_inst_ratio_change_20": 0.027595035769032883
+  },
+  {
+    "date": "2026-01-05",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.23,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2287975178845163,
+    "three_inst_ratio_change_20": 0.05759503576903269
+  },
+  {
+    "date": "2026-01-06",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.22,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2187975178845165,
+    "three_inst_ratio_change_20": 0.0475950357690329
+  },
+  {
+    "date": "2026-01-07",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.23,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2287975178845163,
+    "three_inst_ratio_change_20": 0.06759503576903247
+  },
+  {
+    "date": "2026-01-08",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.26,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.258797517884516,
+    "three_inst_ratio_change_20": 0.09759503576903228
+  },
+  {
+    "date": "2026-01-09",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.28,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.278797517884516,
+    "three_inst_ratio_change_20": 0.07759503576903226
+  },
+  {
+    "date": "2026-01-12",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.29,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2887975178845164,
+    "three_inst_ratio_change_20": 0.08759503576903249
+  },
+  {
+    "date": "2026-01-13",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.29,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2887975178845164,
+    "three_inst_ratio_change_20": 0.08759503576903249
+  },
+  {
+    "date": "2026-01-14",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.33,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.3287975178845164,
+    "three_inst_ratio_change_20": 0.13759503576903276
+  },
+  {
+    "date": "2026-01-15",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.38,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.378797517884516,
+    "three_inst_ratio_change_20": 0.2075950357690326
+  },
+  {
+    "date": "2026-01-16",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.45,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.4487975178845165,
+    "three_inst_ratio_change_20": 0.2775950357690329
+  },
+  {
+    "date": "2026-01-19",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.41,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.4087975178845165,
+    "three_inst_ratio_change_20": 0.22759503576903262
+  },
+  {
+    "date": "2026-01-20",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.4,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.3987975178845162,
+    "three_inst_ratio_change_20": 0.21759503576903239
   }
 ]

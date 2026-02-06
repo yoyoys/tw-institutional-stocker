@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.126113443993939,
     "three_inst_ratio_change_20": -0.094975918542481
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.245018987148521
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.11,
+    "trust_ratio": -0.08388655600606174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.026113443993937,
+    "three_inst_ratio_change_20": -0.21890554315458388
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.08,
+    "trust_ratio": -0.08388655600606174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.996113443993938,
+    "three_inst_ratio_change_20": -0.23342638080682931
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.04,
+    "trust_ratio": -0.08404725975994073,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.955952740240058,
+    "three_inst_ratio_change_20": -0.2603214075077602
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.05,
+    "trust_ratio": -0.0843686672676987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.965631332732302,
+    "three_inst_ratio_change_20": -0.26064281501551534
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.04,
+    "trust_ratio": -0.0843686672676987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.9556313327323,
+    "three_inst_ratio_change_20": -0.2706428150155169
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.94,
+    "trust_ratio": -0.0843686672676987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.855631332732301,
+    "three_inst_ratio_change_20": -0.31064281501551605
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.94,
+    "trust_ratio": -0.0843686672676987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.855631332732301,
+    "three_inst_ratio_change_20": -0.31064281501551605
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.97,
+    "trust_ratio": -0.0843686672676987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.885631332732302,
+    "three_inst_ratio_change_20": -0.2906428150155147
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.91,
+    "trust_ratio": -0.0843686672676987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.825631332732302,
+    "three_inst_ratio_change_20": -0.3506428150155152
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.9,
+    "trust_ratio": -0.08452937102157769,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.815470628978423,
+    "three_inst_ratio_change_20": -0.37064281501551477
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.93,
+    "trust_ratio": -0.08452937102157769,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.845470628978422,
+    "three_inst_ratio_change_20": -0.360642815015515
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.93,
+    "trust_ratio": -0.08452937102157769,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.845470628978422,
+    "three_inst_ratio_change_20": -0.37064281501551655
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.99,
+    "trust_ratio": -0.08452937102157769,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.905470628978422,
+    "three_inst_ratio_change_20": -0.21064281501551463
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.93,
+    "trust_ratio": -0.08452937102157769,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.845470628978422,
+    "three_inst_ratio_change_20": -0.2206428150155162
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 9.95,
+    "trust_ratio": -0.08469007477545668,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.865309925224542,
+    "three_inst_ratio_change_20": -0.19080351876939616
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.0,
+    "trust_ratio": -0.08452937102157769,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.915470628978422,
+    "three_inst_ratio_change_20": -0.18064281501551527
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.0,
+    "trust_ratio": -0.08469007477545668,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.915309925224543,
+    "three_inst_ratio_change_20": -0.2508035187693949
   }
 ]

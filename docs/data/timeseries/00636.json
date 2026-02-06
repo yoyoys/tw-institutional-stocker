@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8857641459545215,
     "three_inst_ratio_change_20": -0.016051567603937777
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.9118157135584593
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 0.10576414595452141,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9157641459545215,
+    "three_inst_ratio_change_20": 0.00394843239606224
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 0.10576414595452141,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9157641459545215,
+    "three_inst_ratio_change_20": -0.12709887478952087
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.62,
+    "trust_ratio": 0.10613833362816204,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.726138333628162,
+    "three_inst_ratio_change_20": 0.27327531288411955
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.29,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.39651517841292383,
+    "three_inst_ratio_change_20": 0.06365215766888133
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.31,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.41651517841292385,
+    "three_inst_ratio_change_20": 0.12365215766888132
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.46651517841292384,
+    "three_inst_ratio_change_20": 0.15365215766888135
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.38,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.48651517841292385,
+    "three_inst_ratio_change_20": 0.06365215766888133
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.38,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.48651517841292385,
+    "three_inst_ratio_change_20": 0.06329825083680135
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.37,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.47651517841292385,
+    "three_inst_ratio_change_20": 0.05329825083680134
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5265151784129238,
+    "three_inst_ratio_change_20": 0.05329825083680134
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5665151784129239,
+    "three_inst_ratio_change_20": 0.013298250836801362
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.10651517841292384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5665151784129239,
+    "three_inst_ratio_change_20": -0.16670174916319858
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.41,
+    "trust_ratio": 0.10689470871191875,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5168947087119187,
+    "three_inst_ratio_change_20": -0.21632221886420377
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.10689470871191875,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5668947087119187,
+    "three_inst_ratio_change_20": -0.27667856938233293
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.10689470871191875,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5668947087119187,
+    "three_inst_ratio_change_20": -0.3766785693823329
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.10689470871191875,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5568947087119187,
+    "three_inst_ratio_change_20": -0.3770373889842531
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.10689470871191875,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5568947087119187,
+    "three_inst_ratio_change_20": -0.3888694372426027
   }
 ]

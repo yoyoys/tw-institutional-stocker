@@ -537,5 +537,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.86,
     "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2025-12-29",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2026-01-02",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2026-01-05",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-06",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-09",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.84,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.84,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.85,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-15",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.85,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-16",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.82,
+    "three_inst_ratio_change_20": -0.050000000000000266
+  },
+  {
+    "date": "2026-01-19",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.81,
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-01-20",
+    "code": "3432",
+    "name": "台端",
+    "market": "TWSE",
+    "foreign_ratio": 2.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.79,
+    "three_inst_ratio_change_20": -0.08000000000000007
   }
 ]

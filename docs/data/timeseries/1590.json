@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 78.21539250575393,
     "three_inst_ratio_change_20": 0.37908650069086036
+  },
+  {
+    "date": "2025-12-25",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -77.88730600507306
+  },
+  {
+    "date": "2025-12-26",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.64,
+    "trust_ratio": 0.615892506158925,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 78.25589250615893,
+    "three_inst_ratio_change_20": 0.3085865010858697
+  },
+  {
+    "date": "2025-12-29",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.64,
+    "trust_ratio": 0.615892506158925,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 78.25589250615893,
+    "three_inst_ratio_change_20": 0.3085865010858697
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.67,
+    "trust_ratio": 0.616392506163925,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.28689250616893,
+    "three_inst_ratio_change_20": 0.33950050109500296
+  },
+  {
+    "date": "2025-12-31",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.67,
+    "trust_ratio": 0.615392506153925,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.28589250615893,
+    "three_inst_ratio_change_20": 0.2260005010600139
+  },
+  {
+    "date": "2026-01-02",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.74,
+    "trust_ratio": 0.615392506153925,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.35589250615892,
+    "three_inst_ratio_change_20": 0.22250050062500293
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.71,
+    "trust_ratio": 0.615392506153925,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.32589250615892,
+    "three_inst_ratio_change_20": 0.1570005005700068
+  },
+  {
+    "date": "2026-01-06",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.8,
+    "trust_ratio": 0.615306506153065,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.41580650615806,
+    "three_inst_ratio_change_20": 0.3269145005691456
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.87,
+    "trust_ratio": 0.6151535061515351,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.48565350615654,
+    "three_inst_ratio_change_20": 0.3567615005676288
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.94,
+    "trust_ratio": 0.6151535061515351,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.55565350615653,
+    "three_inst_ratio_change_20": 0.4767610005676062
+  },
+  {
+    "date": "2026-01-09",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.14,
+    "trust_ratio": 0.6151535061515351,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.75565350615653,
+    "three_inst_ratio_change_20": 0.676761000567609
+  },
+  {
+    "date": "2026-01-12",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.11,
+    "trust_ratio": 0.6146610061466101,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.72516100615161,
+    "three_inst_ratio_change_20": 0.4217685005176861
+  },
+  {
+    "date": "2026-01-13",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.12,
+    "trust_ratio": 0.6146610061466101,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.73516100615161,
+    "three_inst_ratio_change_20": 0.45176850051768724
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.19,
+    "trust_ratio": 0.61666100616661,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.80716100617161,
+    "three_inst_ratio_change_20": 0.5932685005326874
+  },
+  {
+    "date": "2026-01-15",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.24,
+    "trust_ratio": 0.61666100616661,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.85716100617161,
+    "three_inst_ratio_change_20": 0.6342685005426887
+  },
+  {
+    "date": "2026-01-16",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.24,
+    "trust_ratio": 0.61666100616661,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.85716100617161,
+    "three_inst_ratio_change_20": 0.6542685005426847
+  },
+  {
+    "date": "2026-01-19",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.24,
+    "trust_ratio": 0.6151610061516101,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.85566100615661,
+    "three_inst_ratio_change_20": 0.6197685003976829
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.26,
+    "trust_ratio": 0.6151610061516101,
+    "dealer_ratio": 0.000500000005,
+    "three_inst_ratio": 78.87566100615662,
+    "three_inst_ratio_change_20": 0.609768500397692
   }
 ]

@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
     "three_inst_ratio_change_20": -0.10000000000000009
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.15
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2,
+    "three_inst_ratio_change_20": -0.3400000000000001
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.53,
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.78,
+    "three_inst_ratio_change_20": 0.19999999999999996
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.97,
+    "three_inst_ratio_change_20": 0.7
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.98,
+    "three_inst_ratio_change_20": 0.8699999999999999
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.78,
+    "three_inst_ratio_change_20": 0.5
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.47,
+    "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.66,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.66,
+    "three_inst_ratio_change_20": 0.5799999999999998
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.62,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.62,
+    "three_inst_ratio_change_20": 0.43000000000000016
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": 0.2999999999999998
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.22,
+    "three_inst_ratio_change_20": 0.050000000000000044
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": -0.72
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.37,
+    "three_inst_ratio_change_20": -0.68
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.32,
+    "three_inst_ratio_change_20": -0.6399999999999999
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.33,
+    "three_inst_ratio_change_20": -0.6199999999999999
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.23,
+    "three_inst_ratio_change_20": -0.73
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.22,
+    "three_inst_ratio_change_20": -0.75
   }
 ]

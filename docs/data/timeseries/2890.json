@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.76145876590306,
     "three_inst_ratio_change_20": 0.2207393517946059
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -27.511513868371125
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.79,
+    "trust_ratio": 0.9715346158241404,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.751439680873453,
+    "three_inst_ratio_change_20": 0.24056179497293684
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.75,
+    "trust_ratio": 0.9763434318659836,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.7162484969153,
+    "three_inst_ratio_change_20": 0.1752464929621098
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.76,
+    "trust_ratio": 0.9699996202849519,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.719904685334267,
+    "three_inst_ratio_change_20": 0.08187461919784056
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.74,
+    "trust_ratio": 0.9706896201215471,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.70059468517086,
+    "three_inst_ratio_change_20": 0.10084605132663071
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.71,
+    "trust_ratio": 0.9695769707338131,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.669482035783126,
+    "three_inst_ratio_change_20": 0.07511185088803174
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.73,
+    "trust_ratio": 0.9662621843783291,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.686167249427644,
+    "three_inst_ratio_change_20": 0.052148732348456406
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.72,
+    "trust_ratio": 0.9629385787456581,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.67284364379497,
+    "three_inst_ratio_change_20": 0.061054459327959165
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.7,
+    "trust_ratio": 0.9600155089644082,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.64992057401372,
+    "three_inst_ratio_change_20": 0.022915228709461388
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.77,
+    "trust_ratio": 0.9570463706992749,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.716951435748587,
+    "three_inst_ratio_change_20": 0.11120026199390054
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.76,
+    "trust_ratio": 0.9509624140524073,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.700867479101724,
+    "three_inst_ratio_change_20": -0.032294710865539145
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.68,
+    "trust_ratio": 0.9456853971340945,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.61559046218341,
+    "three_inst_ratio_change_20": -0.22038086408819524
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.68,
+    "trust_ratio": 0.924896774851185,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.594801839900498,
+    "three_inst_ratio_change_20": -0.29462041268146066
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.67,
+    "trust_ratio": 0.9024949695513507,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.562400034600667,
+    "three_inst_ratio_change_20": -0.3618782142427577
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.8,
+    "trust_ratio": 0.9104441240256467,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.700349189074963,
+    "three_inst_ratio_change_20": -0.35075925019394916
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.84,
+    "trust_ratio": 0.9205817073183199,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.750486772367633,
+    "three_inst_ratio_change_20": -0.22052673195059214
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.88,
+    "trust_ratio": 0.9127386461972691,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.782643711246582,
+    "three_inst_ratio_change_20": -0.24134881094414595
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2890",
+    "name": "永豐金",
+    "market": "TWSE",
+    "foreign_ratio": 26.85,
+    "trust_ratio": 0.9103283908369773,
+    "dealer_ratio": -0.010094934950685338,
+    "three_inst_ratio": 27.750233455886292,
+    "three_inst_ratio_change_20": -0.22237197497391747
   }
 ]

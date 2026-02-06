@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.23,
     "three_inst_ratio_change_20": 0.010000000000005116
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -66.23
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.24,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.23065944330281,
+    "three_inst_ratio_change_20": 0.010659443302813543
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.28,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.27065944330282,
+    "three_inst_ratio_change_20": 0.050659443302819795
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.29,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.28065944330282,
+    "three_inst_ratio_change_20": 0.07065944330283003
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.29,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.28065944330282,
+    "three_inst_ratio_change_20": 0.08065944330282093
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.3,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.29065944330281,
+    "three_inst_ratio_change_20": 0.10065944330281695
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.29,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.28065944330282,
+    "three_inst_ratio_change_20": 0.09065944330282605
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.3,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.29065944330281,
+    "three_inst_ratio_change_20": 0.10065944330281695
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.32,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.31065944330281,
+    "three_inst_ratio_change_20": 0.12065944330281297
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.3,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.29065944330281,
+    "three_inst_ratio_change_20": 0.10065944330281695
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.3,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.29065944330281,
+    "three_inst_ratio_change_20": 0.11065944330280786
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.27,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.26065944330281,
+    "three_inst_ratio_change_20": 0.08065944330280672
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.27,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.26065944330281,
+    "three_inst_ratio_change_20": 0.09065944330281184
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.27,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.26065944330281,
+    "three_inst_ratio_change_20": 0.12065944330281297
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.29,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.28065944330282,
+    "three_inst_ratio_change_20": 0.1306594433028181
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.28,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.27065944330282,
+    "three_inst_ratio_change_20": 0.09065944330281184
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.28,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.27065944330282,
+    "three_inst_ratio_change_20": 0.09065944330281184
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.27,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.26065944330281,
+    "three_inst_ratio_change_20": 0.08065944330280672
   }
 ]

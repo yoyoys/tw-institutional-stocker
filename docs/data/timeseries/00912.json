@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.62,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.63
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.62,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.62,
+    "three_inst_ratio_change_20": -0.18000000000000005
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.95,
+    "three_inst_ratio_change_20": 0.15999999999999992
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.04,
+    "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 1.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.06,
+    "three_inst_ratio_change_20": 0.27
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 1.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.21,
+    "three_inst_ratio_change_20": 0.39
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 1.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.15,
+    "three_inst_ratio_change_20": 0.29999999999999993
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.75,
+    "three_inst_ratio_change_20": -0.10999999999999999
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.69,
+    "three_inst_ratio_change_20": -0.17000000000000004
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.39,
+    "three_inst_ratio_change_20": -0.48
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.38,
+    "three_inst_ratio_change_20": -0.48
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.33,
+    "three_inst_ratio_change_20": -0.47000000000000003
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": -0.2
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45,
+    "three_inst_ratio_change_20": -0.15999999999999998
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.51,
+    "three_inst_ratio_change_20": -0.05999999999999994
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.48,
+    "three_inst_ratio_change_20": -0.12
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.52,
+    "three_inst_ratio_change_20": -0.07999999999999996
   }
 ]

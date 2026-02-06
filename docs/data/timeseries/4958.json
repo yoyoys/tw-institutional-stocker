@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.19939770023642,
     "three_inst_ratio_change_20": -1.1269784183046596
+  },
+  {
+    "date": "2025-12-25",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -69.99505176115103
+  },
+  {
+    "date": "2025-12-26",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.06,
+    "trust_ratio": 4.542880888425078,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.60288088842508,
+    "three_inst_ratio_change_20": -0.37112511711397644
+  },
+  {
+    "date": "2025-12-29",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.11,
+    "trust_ratio": 4.413065935940591,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.5230659359406,
+    "three_inst_ratio_change_20": -0.4534142697889507
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.36,
+    "trust_ratio": 4.017829947488279,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.37782994748828,
+    "three_inst_ratio_change_20": -0.5668732284587605
+  },
+  {
+    "date": "2025-12-31",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.28,
+    "trust_ratio": 3.8799074534178635,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.15990745341786,
+    "three_inst_ratio_change_20": -0.7122174351502224
+  },
+  {
+    "date": "2026-01-02",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.45,
+    "trust_ratio": 3.570181615443816,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.02018161544382,
+    "three_inst_ratio_change_20": -0.8722568666152881
+  },
+  {
+    "date": "2026-01-05",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.73,
+    "trust_ratio": 2.9911834998386024,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.7211834998386,
+    "three_inst_ratio_change_20": -1.3430320120030075
+  },
+  {
+    "date": "2026-01-06",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.64,
+    "trust_ratio": 2.9890928765650684,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.62909287656507,
+    "three_inst_ratio_change_20": -1.4221848652257023
+  },
+  {
+    "date": "2026-01-07",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.52,
+    "trust_ratio": 2.992868751259398,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.51286875125939,
+    "three_inst_ratio_change_20": -1.5892452398408068
+  },
+  {
+    "date": "2026-01-08",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.24,
+    "trust_ratio": 2.9975726536248493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.23757265362484,
+    "three_inst_ratio_change_20": -1.6717548240183504
+  },
+  {
+    "date": "2026-01-09",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.19,
+    "trust_ratio": 2.9987481065603934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.1887481065604,
+    "three_inst_ratio_change_20": -1.5749692359820102
+  },
+  {
+    "date": "2026-01-12",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.37,
+    "trust_ratio": 2.915123175619038,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.28512317561905,
+    "three_inst_ratio_change_20": -1.2448779015955012
+  },
+  {
+    "date": "2026-01-13",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.34,
+    "trust_ratio": 2.984531868300363,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.32453186830037,
+    "three_inst_ratio_change_20": -1.289998596690026
+  },
+  {
+    "date": "2026-01-14",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.39,
+    "trust_ratio": 3.170492808481204,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.5604928084812,
+    "three_inst_ratio_change_20": -0.9075212886730668
+  },
+  {
+    "date": "2026-01-15",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.04,
+    "trust_ratio": 3.189726542597716,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.22972654259772,
+    "three_inst_ratio_change_20": -1.3529896810211568
+  },
+  {
+    "date": "2026-01-16",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.28,
+    "trust_ratio": 3.359589683572345,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.63958968357235,
+    "three_inst_ratio_change_20": -0.8866097282351859
+  },
+  {
+    "date": "2026-01-19",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 64.34,
+    "trust_ratio": 3.392935124785211,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 67.73293512478521,
+    "three_inst_ratio_change_20": -1.8062146079627297
+  },
+  {
+    "date": "2026-01-20",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 64.56,
+    "trust_ratio": 3.392001975087069,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 67.95200197508707,
+    "three_inst_ratio_change_20": -1.5962658612334195
   }
 ]

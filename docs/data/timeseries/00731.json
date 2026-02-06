@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4955754475703325,
     "three_inst_ratio_change_20": 1.292306216801102
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.4332692307692305
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.47,
+    "trust_ratio": 0.025575447570332477,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.4955754475703325,
+    "three_inst_ratio_change_20": 1.0478625521932037
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.49,
+    "trust_ratio": 0.025575447570332477,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.515575447570333,
+    "three_inst_ratio_change_20": 0.581244547327024
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.59,
+    "trust_ratio": 0.026246719160104987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6162467191601047,
+    "three_inst_ratio_change_20": 0.5719158189167954
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.63,
+    "trust_ratio": 0.026595744680851064,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.656595744680851,
+    "three_inst_ratio_change_20": 0.602264844437542
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.61,
+    "trust_ratio": 0.026595744680851064,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.636595744680851,
+    "three_inst_ratio_change_20": 0.5719652028089297
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.79,
+    "trust_ratio": 0.026954177897574125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.816954177897574,
+    "three_inst_ratio_change_20": 0.7523236360256527
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 3.04,
+    "trust_ratio": 0.026954177897574125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.066954177897574,
+    "three_inst_ratio_change_20": 1.012323636025653
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 4.27,
+    "trust_ratio": 0.026954177897574125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.2969541778975735,
+    "three_inst_ratio_change_20": 2.2623236360256525
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 4.5,
+    "trust_ratio": 0.026954177897574125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.526954177897574,
+    "three_inst_ratio_change_20": 2.5023236360256527
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 4.56,
+    "trust_ratio": 0.026954177897574125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.5869541778975735,
+    "three_inst_ratio_change_20": 2.5623236360256523
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 4.64,
+    "trust_ratio": 0.026954177897574125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.666954177897574,
+    "three_inst_ratio_change_20": 2.6523236360256526
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.17,
+    "trust_ratio": 0.02770083102493075,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.197700831024931,
+    "three_inst_ratio_change_20": 0.38307028915300956
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.18,
+    "trust_ratio": 0.02770083102493075,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.207700831024931,
+    "three_inst_ratio_change_20": 0.3627631751645819
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.41,
+    "trust_ratio": 0.02808988764044944,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.4380898876404498,
+    "three_inst_ratio_change_20": 0.4128373623879247
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.02808988764044944,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8880898876404495,
+    "three_inst_ratio_change_20": 0.8728373623879242
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 3.35,
+    "trust_ratio": 0.028490028490028487,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.3784900284900288,
+    "three_inst_ratio_change_20": 1.2832375032375039
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.5,
+    "trust_ratio": 0.02932551319648094,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.529325513196481,
+    "three_inst_ratio_change_20": 0.22375006562614885
   }
 ]

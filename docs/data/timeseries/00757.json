@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6002945750817203,
     "three_inst_ratio_change_20": 0.21212280819392504
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.3881717668877953
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.12,
+    "trust_ratio": -0.3397054249182797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7802945750817205,
+    "three_inst_ratio_change_20": 0.4021228081939252
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.24,
+    "trust_ratio": -0.3401695109755898,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8998304890244104,
+    "three_inst_ratio_change_20": 0.29165872213661515
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.27,
+    "trust_ratio": -0.43443335136641587,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8355666486335842,
+    "three_inst_ratio_change_20": 0.14739488174578907
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.27,
+    "trust_ratio": -0.5218664786854429,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.748133521314557,
+    "three_inst_ratio_change_20": -0.06067253295719577
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.93,
+    "trust_ratio": -0.6054894053052926,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.3245105946947078,
+    "three_inst_ratio_change_20": -0.16334272156874707
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.44,
+    "trust_ratio": -0.8471864361892887,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5928135638107113,
+    "three_inst_ratio_change_20": -0.6961323855696648
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.43,
+    "trust_ratio": -0.8771929824561403,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5528070175438597,
+    "three_inst_ratio_change_20": -0.8157778552341117
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.41,
+    "trust_ratio": -0.8771929824561403,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5328070175438597,
+    "three_inst_ratio_change_20": -0.8357778552341117
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.44,
+    "trust_ratio": -0.8771929824561403,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5628070175438595,
+    "three_inst_ratio_change_20": -0.8357778552341122
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 1.99,
+    "trust_ratio": -0.883301670780013,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.106698329219987,
+    "three_inst_ratio_change_20": -0.9611613855048073
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 1.38,
+    "trust_ratio": -0.9162618979590694,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.46373810204093047,
+    "three_inst_ratio_change_20": -1.7244846939058167
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.85,
+    "trust_ratio": -0.9214240240680124,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9285759759319876,
+    "three_inst_ratio_change_20": -0.11964682001475957
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.16,
+    "trust_ratio": -0.925333951919976,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2346660480800242,
+    "three_inst_ratio_change_20": -0.5546399818128842
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 1.53,
+    "trust_ratio": -0.9590490876088924,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5709509123911076,
+    "three_inst_ratio_change_20": -1.0565399952992531
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 1.55,
+    "trust_ratio": -0.964537302500186,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.585462697499814,
+    "three_inst_ratio_change_20": -0.9834358049413219
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 0.94,
+    "trust_ratio": -0.964537302500186,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.024537302500186042,
+    "three_inst_ratio_change_20": -1.6039024357171472
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": -0.96730503251132,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0026949674886799224,
+    "three_inst_ratio_change_20": -1.6766701657282814
   }
 ]

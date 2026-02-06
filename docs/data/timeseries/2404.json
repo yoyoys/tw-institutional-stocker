@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.632853707765065,
     "three_inst_ratio_change_20": -1.3443336532332353
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -36.904942723127505
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.09,
+    "trust_ratio": 3.8056926722136715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.89569267221368,
+    "three_inst_ratio_change_20": -1.002490575811322
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.19,
+    "trust_ratio": 3.7763097191599386,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.96630971915994,
+    "three_inst_ratio_change_20": -0.6986932002987984
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.32,
+    "trust_ratio": 3.3386716212481944,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.658671621248196,
+    "three_inst_ratio_change_20": -1.0443420384984066
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.77,
+    "trust_ratio": 3.289562212783601,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.059562212783604,
+    "three_inst_ratio_change_20": -0.8410513111465932
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.69,
+    "trust_ratio": 3.2113825698370615,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.90138256983706,
+    "three_inst_ratio_change_20": -0.785588868746764
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.75,
+    "trust_ratio": 3.1604383008933814,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.91043830089338,
+    "three_inst_ratio_change_20": -0.4951871251791147
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.84,
+    "trust_ratio": 3.1460086474660467,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.98600864746605,
+    "three_inst_ratio_change_20": -0.41392346028262494
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.75,
+    "trust_ratio": 3.0672607591952716,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.81726075919527,
+    "three_inst_ratio_change_20": -0.510256803651636
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.13,
+    "trust_ratio": 3.0834817233677034,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.21348172336771,
+    "three_inst_ratio_change_20": 0.06525777659467735
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.07,
+    "trust_ratio": 2.985798620636158,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.05579862063616,
+    "three_inst_ratio_change_20": 0.10220996787509762
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.66,
+    "trust_ratio": 2.9679154208338296,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.62791542083383,
+    "three_inst_ratio_change_20": -0.6108757027733347
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.35,
+    "trust_ratio": 2.7248932136911255,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.07489321369113,
+    "three_inst_ratio_change_20": 0.3016383413075374
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.32,
+    "trust_ratio": 3.181816498022333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.501816498022336,
+    "three_inst_ratio_change_20": 0.6014786063400948
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.73,
+    "trust_ratio": 3.148716601407303,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.8787166014073,
+    "three_inst_ratio_change_20": 1.13275049804367
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.39,
+    "trust_ratio": 2.8527011890410106,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.242701189041014,
+    "three_inst_ratio_change_20": 0.34778447685788194
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.27,
+    "trust_ratio": 3.1092773326709295,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.37927733267093,
+    "three_inst_ratio_change_20": 0.29352808704414457
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 33.05,
+    "trust_ratio": 3.259251073230725,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.30925107323072,
+    "three_inst_ratio_change_20": 0.7821047069087612
   }
 ]

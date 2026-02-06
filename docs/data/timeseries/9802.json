@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 45.88347767850064,
     "three_inst_ratio_change_20": -1.4754210444330198
+  },
+  {
+    "date": "2025-12-25",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -47.37417008748417
+  },
+  {
+    "date": "2025-12-26",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.43,
+    "trust_ratio": 2.458502348005233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.88850234800523,
+    "three_inst_ratio_change_20": -1.3001990188916892
+  },
+  {
+    "date": "2025-12-29",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.44,
+    "trust_ratio": 2.458502348005233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.89850234800523,
+    "three_inst_ratio_change_20": -1.1401990188916926
+  },
+  {
+    "date": "2025-12-30",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.26,
+    "trust_ratio": 2.458502348005233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.71850234800523,
+    "three_inst_ratio_change_20": -1.1601990188916957
+  },
+  {
+    "date": "2025-12-31",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.29,
+    "trust_ratio": 2.4435763565190083,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.73357635651901,
+    "three_inst_ratio_change_20": -1.1610460679632268
+  },
+  {
+    "date": "2026-01-02",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.17,
+    "trust_ratio": 2.4236750345373763,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.59367503453738,
+    "three_inst_ratio_change_20": -1.4655773473759766
+  },
+  {
+    "date": "2026-01-05",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.04,
+    "trust_ratio": 2.4236750345373763,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.463675034537374,
+    "three_inst_ratio_change_20": -1.4805033388622064
+  },
+  {
+    "date": "2026-01-06",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.17,
+    "trust_ratio": 2.4236750345373763,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.59367503453738,
+    "three_inst_ratio_change_20": -1.3304539998530203
+  },
+  {
+    "date": "2026-01-07",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.01,
+    "trust_ratio": 2.373921729583295,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.38392172958329,
+    "three_inst_ratio_change_20": -1.199812592733629
+  },
+  {
+    "date": "2026-01-08",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.86,
+    "trust_ratio": 2.3241684246292134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.18416842462921,
+    "three_inst_ratio_change_20": -1.3295658976877078
+  },
+  {
+    "date": "2026-01-09",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.83,
+    "trust_ratio": 2.3241684246292134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.15416842462921,
+    "three_inst_ratio_change_20": -1.2995165586785262
+  },
+  {
+    "date": "2026-01-12",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.65,
+    "trust_ratio": 2.3241684246292134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.97416842462921,
+    "three_inst_ratio_change_20": -1.5044918891739414
+  },
+  {
+    "date": "2026-01-13",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.07,
+    "trust_ratio": 2.3241684246292134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.394168424629214,
+    "three_inst_ratio_change_20": -2.0444918891739405
+  },
+  {
+    "date": "2026-01-14",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.13,
+    "trust_ratio": 2.3241684246292134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.454168424629216,
+    "three_inst_ratio_change_20": -1.9644918891739351
+  },
+  {
+    "date": "2026-01-15",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.06,
+    "trust_ratio": 2.287350978963193,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.34735097896319,
+    "three_inst_ratio_change_20": -1.9513093348399622
+  },
+  {
+    "date": "2026-01-16",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.17,
+    "trust_ratio": 2.287350978963193,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.45735097896319,
+    "three_inst_ratio_change_20": -1.8063340043445493
+  },
+  {
+    "date": "2026-01-19",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.17,
+    "trust_ratio": 2.287350978963193,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.45735097896319,
+    "three_inst_ratio_change_20": -1.7160280215190795
+  },
+  {
+    "date": "2026-01-20",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 41.76,
+    "trust_ratio": 2.1470466589926835,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.907046658992684,
+    "three_inst_ratio_change_20": -2.236332341489586
   }
 ]

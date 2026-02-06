@@ -10,6 +10,7 @@
 """
 import json
 import os
+import csv
 from io import StringIO
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
@@ -26,6 +27,10 @@ TIMESERIES_DIR = os.path.join(DOCS_DIR, "timeseries")
 INST_BASELINE_PATH = os.path.join(DATA_DIR, "inst_baseline.csv")
 
 WINDOWS = [5, 20, 60, 120]
+FLOW_COLUMNS = ["date", "code", "name", "foreign_net", "trust_net", "dealer_net", "market"]
+FOREIGN_COLUMNS = ["date", "code", "name", "market", "total_shares", "foreign_shares", "foreign_ratio"]
+INIT_FETCH_DAYS = 60
+BACKFILL_LOOKBACK_DAYS = 120
 
 
 # ---------- generic helpers ----------
@@ -98,6 +103,156 @@ def numeric_series(series: pd.Series, to_float: bool = False) -> pd.Series:
     return pd.to_numeric(s, errors="coerce").fillna(0).astype("Int64")
 
 
+def empty_flows_df() -> pd.DataFrame:
+    return pd.DataFrame(columns=FLOW_COLUMNS)
+
+
+def empty_foreign_df() -> pd.DataFrame:
+    return pd.DataFrame(columns=FOREIGN_COLUMNS)
+
+
+def ensure_columns(df: pd.DataFrame, columns: list[str]) -> pd.DataFrame:
+    out = df.copy()
+    for col in columns:
+        if col not in out.columns:
+            out[col] = pd.NA
+    return out
+
+
+def restore_column_from_index(df: pd.DataFrame, col: str) -> pd.DataFrame:
+    if col in df.columns:
+        return df
+    if isinstance(df.index, pd.MultiIndex) and col in df.index.names:
+        return df.reset_index(level=col)
+    if df.index.name == col:
+        return df.reset_index()
+    return df
+
+
+def read_csv_table_with_header(text: str) -> pd.DataFrame:
+    lines = [ln for ln in text.splitlines() if ln.strip()]
+    rows: list[list[str]] = []
+    for line in lines:
+        try:
+            row = next(csv.reader([line]))
+        except csv.Error:
+            continue
+        rows.append([str(x).replace("\ufeff", "").strip() for x in row])
+
+    if not rows:
+        return pd.DataFrame()
+
+    header_idx = 0
+    for idx, row in enumerate(rows[:40]):
+        joined = "".join(row)
+        has_code = ("代號" in joined) or ("證券代號" in joined)
+        has_name = ("名稱" in joined) or ("證券名稱" in joined)
+        if has_code and has_name:
+            header_idx = idx
+            break
+
+    header = rows[header_idx]
+    width = len(header)
+    if width == 0:
+        return pd.DataFrame()
+
+    body: list[list[str]] = []
+    for row in rows[header_idx + 1:]:
+        if not any(str(x).strip() for x in row):
+            continue
+        if len(row) < width:
+            row = row + [""] * (width - len(row))
+        elif len(row) > width:
+            row = row[:width]
+        body.append(row)
+
+    return pd.DataFrame(body, columns=header)
+
+
+def read_first_html_table(text: str) -> pd.DataFrame:
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(text, "html.parser")
+    table = soup.find("table")
+    if table is None:
+        return pd.DataFrame()
+
+    rows: list[list[str]] = []
+    for tr in table.find_all("tr"):
+        cells = tr.find_all(["th", "td"])
+        if not cells:
+            continue
+        rows.append([cell.get_text(" ", strip=True) for cell in cells])
+
+    if not rows:
+        return pd.DataFrame()
+
+    header_idx = 0
+    for idx, row in enumerate(rows[:20]):
+        joined = "".join(row)
+        has_code = ("代號" in joined) or ("證券代號" in joined)
+        has_name = ("名稱" in joined) or ("證券名稱" in joined)
+        if has_code and has_name:
+            header_idx = idx
+            break
+
+    header = [str(x).strip() for x in rows[header_idx]]
+    width = len(header)
+    if width == 0:
+        return pd.DataFrame()
+
+    body: list[list[str]] = []
+    for row in rows[header_idx + 1:]:
+        if not any(str(x).strip() for x in row):
+            continue
+        if len(row) < width:
+            row = row + [""] * (width - len(row))
+        elif len(row) > width:
+            row = row[:width]
+        body.append([str(x).strip() for x in row])
+
+    return pd.DataFrame(body, columns=header)
+
+
+def get_existing_dates(path: str) -> set[date]:
+    if not os.path.exists(path):
+        return set()
+    try:
+        df = pd.read_csv(path, usecols=["date"])
+    except Exception as e:  # noqa: BLE001
+        print(f"[WARN] failed reading date column from {path}: {e}")
+        return set()
+
+    if df.empty:
+        return set()
+
+    d = pd.to_datetime(df["date"], errors="coerce").dt.date.dropna()
+    return set(d.tolist())
+
+
+def calc_fetch_dates(
+    path: str,
+    target_date: date,
+    init_fetch_days: int = INIT_FETCH_DAYS,
+    lookback_days: int = BACKFILL_LOOKBACK_DAYS,
+) -> list[date]:
+    existing = get_existing_dates(path)
+
+    if not existing:
+        start = target_date - timedelta(days=init_fetch_days)
+        while is_weekend(start):
+            start += timedelta(days=1)
+        return list(iter_trading_days(start, target_date))
+
+    last_date = max(existing)
+    forward_dates = set(iter_trading_days(last_date + timedelta(days=1), target_date))
+
+    min_existing = min(existing)
+    repair_start = max(min_existing, target_date - timedelta(days=lookback_days))
+    missing_dates = {d for d in iter_trading_days(repair_start, target_date) if d not in existing}
+
+    return sorted(forward_dates | missing_dates)
+
 
 # ---------- TWSE: T86 (daily flows) ----------
 
@@ -123,9 +278,7 @@ def fetch_twse_t86(trade_date: date) -> pd.DataFrame:
     df = normalize_columns(df)
 
     if df.empty or len(df.columns) == 0:
-        return pd.DataFrame(
-            columns=["date", "code", "name", "foreign_net", "trust_net", "dealer_net", "market"]
-        )
+        return empty_flows_df()
 
     code_col = find_col_any(df, ["證券代號"])
     name_col = find_col_any(df, ["證券名稱"])
@@ -171,7 +324,7 @@ def fetch_twse_t86(trade_date: date) -> pd.DataFrame:
 
     mask = out["code"].str.match(r"^\d{4,5}[A-Z]*$")
     out = out[mask]
-    return out
+    return out[FLOW_COLUMNS]
 
 
 # ---------- TWSE: MI_QFIIS (foreign holdings) ----------
@@ -196,34 +349,14 @@ def fetch_twse_mi_qfiis(trade_date: date) -> pd.DataFrame:
     try:
         df = pd.read_csv(StringIO(csv_text), header=1)
     except Exception:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "market",
-                "total_shares",
-                "foreign_shares",
-                "foreign_ratio",
-            ]
-        )
+        return empty_foreign_df()
 
     df = df.dropna(how="all", axis=0)
     df = df.dropna(how="all", axis=1)
     df = normalize_columns(df)
 
     if df.empty or len(df.columns) == 0:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "market",
-                "total_shares",
-                "foreign_shares",
-                "foreign_ratio",
-            ]
-        )
+        return empty_foreign_df()
 
     code_col = find_col_any(df, ["證券代號"])
     name_col = find_col_any(df, ["證券名稱"])
@@ -239,17 +372,7 @@ def fetch_twse_mi_qfiis(trade_date: date) -> pd.DataFrame:
     out = out[mask]
 
     if out.empty:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "market",
-                "total_shares",
-                "foreign_shares",
-                "foreign_ratio",
-            ]
-        )
+        return empty_foreign_df()
 
     out["total_shares"] = numeric_series(df.loc[mask, issued_col])
     out["foreign_shares"] = numeric_series(df.loc[mask, foreign_shares_col])
@@ -257,16 +380,7 @@ def fetch_twse_mi_qfiis(trade_date: date) -> pd.DataFrame:
     out["date"] = trade_date
     out["market"] = "TWSE"
 
-    cols = [
-        "date",
-        "code",
-        "name",
-        "market",
-        "total_shares",
-        "foreign_shares",
-        "foreign_ratio",
-    ]
-    return out[cols]
+    return out[FOREIGN_COLUMNS]
 
 
 # ---------- TPEX helpers ----------
@@ -292,37 +406,18 @@ def fetch_tpex_flows(trade_date: date) -> pd.DataFrame:
     }
     resp = requests.get(url, params=params, timeout=20)
     resp.encoding = "utf-8"
+    try:
+        df = read_first_html_table(resp.text)
+    except Exception:
+        # fallback: 某些頁面結構可直接被 read_html 讀出
+        tables = pd.read_html(StringIO(resp.text))
+        if not tables:
+            return empty_flows_df()
+        df = tables[0]
 
-    from io import StringIO as _SIO
-    tables = pd.read_html(_SIO(resp.text))
-    if not tables:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "foreign_net",
-                "trust_net",
-                "dealer_net",
-                "market",
-            ]
-        )
-
-    df = tables[0]
     df = normalize_columns(df)
-
     if df.empty or len(df.columns) == 0:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "foreign_net",
-                "trust_net",
-                "dealer_net",
-                "market",
-            ]
-        )
+        return empty_flows_df()
 
     code_col = find_col_any(df, ["代號"])
     name_col = find_col_any(df, ["名稱"])
@@ -367,7 +462,7 @@ def fetch_tpex_flows(trade_date: date) -> pd.DataFrame:
 
     mask = out["code"].str.match(r"^\d{4,5}[A-Z]*$")
     out = out[mask]
-    return out
+    return out[FLOW_COLUMNS]
 
 
 # ---------- TPEX: 外資持股比例 (QFII) ----------
@@ -376,29 +471,28 @@ def fetch_tpex_qfii(trade_date: date) -> pd.DataFrame:
     """僑外資及陸資持股統計 (上櫃)."""
     url = "https://www.tpex.org.tw/web/stock/3insti/qfii/qfii_result.php"
     params = {
+        "d": roc_date(trade_date),
         "l": "zh-tw",
         "o": "data",
     }
     resp = requests.get(url, params=params, timeout=20)
     resp.encoding = "utf-8"
+    try:
+        df = read_csv_table_with_header(resp.text)
+        if df.empty:
+            df = pd.read_csv(
+                StringIO(resp.text),
+                engine="python",
+                on_bad_lines="skip",
+            )
+    except Exception:
+        return empty_foreign_df()
 
-    df = pd.read_csv(StringIO(resp.text))
     df = df.dropna(how="all", axis=0)
     df = df.dropna(how="all", axis=1)
     df = normalize_columns(df)
-
     if df.empty or len(df.columns) == 0:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "market",
-                "total_shares",
-                "foreign_shares",
-                "foreign_ratio",
-            ]
-        )
+        return empty_foreign_df()
 
     code_col = find_col_any(df, ["證券代號", "代號"])
     name_col = find_col_any(df, ["證券名稱", "名稱"])
@@ -414,17 +508,7 @@ def fetch_tpex_qfii(trade_date: date) -> pd.DataFrame:
     out = out[mask]
 
     if out.empty:
-        return pd.DataFrame(
-            columns=[
-                "date",
-                "code",
-                "name",
-                "market",
-                "total_shares",
-                "foreign_shares",
-                "foreign_ratio",
-            ]
-        )
+        return empty_foreign_df()
 
     out["total_shares"] = numeric_series(df.loc[mask, shares_col])
     out["foreign_shares"] = numeric_series(df.loc[mask, foreign_shares_col])
@@ -432,30 +516,30 @@ def fetch_tpex_qfii(trade_date: date) -> pd.DataFrame:
     out["date"] = trade_date
     out["market"] = "TPEX"
 
-    cols = [
-        "date",
-        "code",
-        "name",
-        "market",
-        "total_shares",
-        "foreign_shares",
-        "foreign_ratio",
-    ]
-    return out[cols]
+    return out[FOREIGN_COLUMNS]
 
 
 # ---------- history append helpers ----------
 
 def append_history(df_new: pd.DataFrame, path: str, key_cols: list[str]) -> pd.DataFrame:
+    if df_new.empty:
+        if os.path.exists(path):
+            return pd.read_csv(path)
+        return df_new.copy()
+
+    df_new = ensure_columns(df_new, key_cols)
+    df_new = df_new.copy()
+    df_new["date"] = pd.to_datetime(df_new["date"], errors="coerce").dt.date
+    df_new = df_new.dropna(subset=["date"])
+
     if os.path.exists(path):
-        df_old = pd.read_csv(path, parse_dates=["date"])
-        df_old["date"] = pd.to_datetime(df_old["date"]).dt.date
-        df_new = df_new.copy()
-        df_new["date"] = pd.to_datetime(df_new["date"]).dt.date
+        df_old = pd.read_csv(path)
+        df_old = ensure_columns(df_old, key_cols)
+        df_old["date"] = pd.to_datetime(df_old["date"], errors="coerce").dt.date
+        df_old = df_old.dropna(subset=["date"])
         df_all = pd.concat([df_old, df_new], ignore_index=True)
     else:
-        df_all = df_new.copy()
-        df_all["date"] = pd.to_datetime(df_all["date"]).dt.date
+        df_all = df_new
 
     df_all = df_all.drop_duplicates(subset=key_cols).sort_values(["date", "code"])
     df_all.to_csv(path, index=False, date_format="%Y-%m-%d")
@@ -468,8 +552,16 @@ def build_foreign_master(twse: pd.DataFrame, tpex: pd.DataFrame) -> pd.DataFrame
     all_df = pd.concat([twse, tpex], ignore_index=True)
     if all_df.empty:
         return all_df
+    all_df = restore_column_from_index(all_df, "code")
+    all_df = ensure_columns(all_df, ["code", "date"])
+    all_df = all_df.dropna(subset=["code", "date"])
+    if all_df.empty:
+        return all_df
     all_df = all_df.sort_values(["code", "date"])
-    all_df["date"] = pd.to_datetime(all_df["date"]).dt.date
+    all_df["date"] = pd.to_datetime(all_df["date"], errors="coerce").dt.date
+    all_df = all_df.dropna(subset=["date"])
+    if all_df.empty:
+        return all_df
     all_df = (
         all_df.set_index(["code", "date"])
         .sort_index()
@@ -486,10 +578,20 @@ def build_estimated_holdings(
     baseline: Optional[pd.DataFrame] = None,
 ) -> pd.DataFrame:
     """建立三大法人持股估計，支援 baseline 校正。"""
-    flows = flows.copy()
-    flows["date"] = pd.to_datetime(flows["date"]).dt.date
-    foreign_master = foreign_master.copy()
-    foreign_master["date"] = pd.to_datetime(foreign_master["date"]).dt.date
+    flows = restore_column_from_index(flows.copy(), "code")
+    foreign_master = restore_column_from_index(foreign_master.copy(), "code")
+
+    flows = ensure_columns(flows, ["date", "code", "market", "trust_net", "dealer_net"])
+    foreign_master = ensure_columns(
+        foreign_master, ["date", "code", "market", "total_shares", "foreign_ratio"]
+    )
+
+    flows["date"] = pd.to_datetime(flows["date"], errors="coerce").dt.date
+    foreign_master["date"] = pd.to_datetime(foreign_master["date"], errors="coerce").dt.date
+    flows = flows.dropna(subset=["date", "code", "market"])
+    foreign_master = foreign_master.dropna(subset=["date", "code", "market"])
+    if flows.empty:
+        return flows
 
     merged = flows.merge(
         foreign_master[
@@ -506,7 +608,8 @@ def build_estimated_holdings(
     )
 
     if baseline is not None and not baseline.empty and "date" in baseline.columns:
-        base = baseline.copy()
+        base = restore_column_from_index(baseline.copy(), "code")
+        base = ensure_columns(base, ["date", "code", "trust_shares_base", "dealer_shares_base"])
         base["date"] = pd.to_datetime(
             base["date"], format="%Y-%m-%d", errors="coerce"
         )
@@ -525,43 +628,68 @@ def build_estimated_holdings(
         merged["trust_shares_base"] = pd.NA
         merged["dealer_shares_base"] = pd.NA
 
-    merged = merged.sort_values(["code", "date"])
+    merged = restore_column_from_index(merged, "code")
+    merged = ensure_columns(
+        merged,
+        [
+            "code",
+            "date",
+            "trust_net",
+            "dealer_net",
+            "total_shares",
+            "foreign_ratio",
+            "trust_shares_base",
+            "dealer_shares_base",
+        ],
+    )
+    merged = merged.dropna(subset=["code", "date"])
+    if merged.empty:
+        return merged
+
+    merged["code"] = merged["code"].astype(str).str.strip()
+    merged = merged.sort_values(["code", "date"]).reset_index(drop=True)
 
     # total_shares 先轉 float，避免後面 replace/where 中 extension array 爆炸
     merged["total_shares"] = pd.to_numeric(
         merged["total_shares"], errors="coerce"
     ).fillna(0.0)
+    merged["trust_net"] = pd.to_numeric(merged["trust_net"], errors="coerce").fillna(0.0)
+    merged["dealer_net"] = pd.to_numeric(merged["dealer_net"], errors="coerce").fillna(0.0)
 
-    def accumulate(group: pd.DataFrame) -> pd.DataFrame:
-        g = group.copy()
-        g["trust_net"] = g["trust_net"].astype(float)
-        g["dealer_net"] = g["dealer_net"].astype(float)
+    merged["trust_cum"] = merged.groupby("code")["trust_net"].cumsum()
+    merged["dealer_cum"] = merged.groupby("code")["dealer_net"].cumsum()
 
-        g["trust_cum"] = g["trust_net"].cumsum()
-        g["dealer_cum"] = g["dealer_net"].cumsum()
+    # baseline 轉數值，避免 NAType
+    base_trust = pd.to_numeric(merged["trust_shares_base"], errors="coerce")
+    base_dealer = pd.to_numeric(merged["dealer_shares_base"], errors="coerce")
 
-        # baseline 轉數值，避免 NAType
-        base_trust = pd.to_numeric(g["trust_shares_base"], errors="coerce").fillna(0.0)
-        base_dealer = pd.to_numeric(g["dealer_shares_base"], errors="coerce").fillna(0.0)
+    base_trust_ff = base_trust.groupby(merged["code"]).ffill().fillna(0.0)
+    base_dealer_ff = base_dealer.groupby(merged["code"]).ffill().fillna(0.0)
 
-        base_trust_ff = base_trust.ffill().fillna(0.0)
-        base_dealer_ff = base_dealer.ffill().fillna(0.0)
+    trust_cum_at_base = (
+        merged["trust_cum"]
+        .where(base_trust.notna())
+        .groupby(merged["code"])
+        .ffill()
+        .fillna(0.0)
+    )
+    dealer_cum_at_base = (
+        merged["dealer_cum"]
+        .where(base_dealer.notna())
+        .groupby(merged["code"])
+        .ffill()
+        .fillna(0.0)
+    )
 
-        trust_cum_at_base = g["trust_cum"].where(g["trust_shares_base"].notna()).ffill().fillna(0.0)
-        dealer_cum_at_base = g["dealer_cum"].where(g["dealer_shares_base"].notna()).ffill().fillna(0.0)
+    merged["trust_shares_est"] = base_trust_ff + (merged["trust_cum"] - trust_cum_at_base)
+    merged["dealer_shares_est"] = base_dealer_ff + (merged["dealer_cum"] - dealer_cum_at_base)
 
-        g["trust_shares_est"] = base_trust_ff + (g["trust_cum"] - trust_cum_at_base)
-        g["dealer_shares_est"] = base_dealer_ff + (g["dealer_cum"] - dealer_cum_at_base)
-
-        # 若沒有任何 baseline，退化為純 cumsum 模型
-        mask_no_base = (base_trust_ff == 0.0) & (base_dealer_ff == 0.0)
-        if mask_no_base.all():
-            g["trust_shares_est"] = g["trust_cum"]
-            g["dealer_shares_est"] = g["dealer_cum"]
-
-        return g
-
-    merged = merged.groupby("code", group_keys=False).apply(accumulate, include_groups=False)
+    # 若沒有任何 baseline，退化為純 cumsum 模型
+    no_base_by_code = (
+        (base_trust_ff == 0.0) & (base_dealer_ff == 0.0)
+    ).groupby(merged["code"]).transform("all")
+    merged.loc[no_base_by_code, "trust_shares_est"] = merged.loc[no_base_by_code, "trust_cum"]
+    merged.loc[no_base_by_code, "dealer_shares_est"] = merged.loc[no_base_by_code, "dealer_cum"]
 
     # total_shares 已在前面轉成 float 並 fillna(0.0)
     denom = merged["total_shares"].astype("float64")
@@ -587,16 +715,30 @@ def build_estimated_holdings(
 
 
 def add_change_metrics(merged: pd.DataFrame, windows: list[int]) -> pd.DataFrame:
-    merged = merged.sort_values(["code", "date"])
-
-    def add_all(group: pd.DataFrame) -> pd.DataFrame:
-        g = group.copy()
+    merged = restore_column_from_index(merged.copy(), "code")
+    merged = ensure_columns(merged, ["code", "date", "three_inst_ratio_est"])
+    merged["date"] = pd.to_datetime(merged["date"], errors="coerce").dt.date
+    merged = merged.dropna(subset=["date"])
+    if merged.empty:
         for w in windows:
-            col = f"three_inst_ratio_change_{w}"
-            g[col] = g["three_inst_ratio_est"].diff(periods=w)
-        return g
+            merged[f"three_inst_ratio_change_{w}"] = pd.NA
+        return merged
 
-    merged = merged.groupby("code", group_keys=False).apply(add_all, include_groups=False)
+    merged["code"] = merged["code"].astype(str).str.strip()
+    if (merged["code"] == "").all():
+        for w in windows:
+            merged[f"three_inst_ratio_change_{w}"] = pd.NA
+        return merged
+
+    merged["three_inst_ratio_est"] = pd.to_numeric(
+        merged["three_inst_ratio_est"], errors="coerce"
+    ).fillna(0.0)
+    merged = merged.sort_values(["code", "date"]).reset_index(drop=True)
+    by_code = merged.groupby("code")["three_inst_ratio_est"]
+
+    for w in windows:
+        col = f"three_inst_ratio_change_{w}"
+        merged[col] = by_code.diff(periods=w)
     return merged
 
 
@@ -605,7 +747,11 @@ def add_change_metrics(merged: pd.DataFrame, windows: list[int]) -> pd.DataFrame
 def export_change_rankings(
     merged: pd.DataFrame, windows: list[int], out_dir: str = DOCS_DIR
 ):
+    if merged.empty or "date" not in merged.columns:
+        return
     latest_date = pd.to_datetime(merged["date"]).dt.date.max()
+    if pd.isna(latest_date):
+        return
     latest = merged[merged["date"] == latest_date].copy()
 
     import json
@@ -668,6 +814,12 @@ def export_timeseries_by_code(
 ):
     os.makedirs(out_root, exist_ok=True)
 
+    merged = restore_column_from_index(merged.copy(), "code")
+    merged = ensure_columns(merged, ["code", "date"])
+    merged = merged.dropna(subset=["code", "date"])
+    if merged.empty:
+        return
+
     merged = merged.sort_values(["code", "date"])
     col_change = f"three_inst_ratio_change_{primary_window}"
 
@@ -714,55 +866,55 @@ def main():
     target_date = get_target_trade_date()
     print(f"[INFO] target trade date (Taipei): {target_date}")
 
-    last_twse_flow = get_last_date_from_csv(twse_flows_path)
-    last_tpex_flow = get_last_date_from_csv(tpex_flows_path)
-    last_twse_foreign = get_last_date_from_csv(twse_foreign_path)
-    last_tpex_foreign = get_last_date_from_csv(tpex_foreign_path)
+    flow_days_twse = calc_fetch_dates(twse_flows_path, target_date)
+    flow_days_tpex = calc_fetch_dates(tpex_flows_path, target_date)
+    flow_days_twse_set = set(flow_days_twse)
+    flow_days_tpex_set = set(flow_days_tpex)
+    flow_days = sorted(flow_days_twse_set | flow_days_tpex_set)
 
-    def calc_start(last_date):
-        if last_date is None:
-            approx_start = target_date - timedelta(days=60)
-            while is_weekend(approx_start):
-                approx_start += timedelta(days=1)
-            return approx_start
-        else:
-            return last_date + timedelta(days=1)
+    foreign_days_twse = calc_fetch_dates(twse_foreign_path, target_date)
+    foreign_days_tpex = calc_fetch_dates(tpex_foreign_path, target_date)
+    foreign_days_twse_set = set(foreign_days_twse)
+    foreign_days_tpex_set = set(foreign_days_tpex)
+    foreign_days = sorted(foreign_days_twse_set | foreign_days_tpex_set)
 
-    start_flows_candidates = [
-        calc_start(last_twse_flow),
-        calc_start(last_tpex_flow),
-    ]
-    start_foreign_candidates = [
-        calc_start(last_twse_foreign),
-        calc_start(last_tpex_foreign),
-    ]
+    if flow_days:
+        print(
+            f"[INFO] flows fetch plan: {flow_days[0]} -> {flow_days[-1]} "
+            f"(TWSE={len(flow_days_twse_set)}, TPEX={len(flow_days_tpex_set)}, union={len(flow_days)})"
+        )
+    else:
+        print("[INFO] flows fetch plan: no missing/new trade date.")
 
-    start_flows = min([d for d in start_flows_candidates if d is not None])
-    start_foreign = min([d for d in start_foreign_candidates if d is not None])
-
-    print(f"[INFO] flows update range:   {start_flows} -> {target_date}")
-    print(f"[INFO] foreign update range: {start_foreign} -> {target_date}")
+    if foreign_days:
+        print(
+            f"[INFO] foreign fetch plan: {foreign_days[0]} -> {foreign_days[-1]} "
+            f"(TWSE={len(foreign_days_twse_set)}, TPEX={len(foreign_days_tpex_set)}, union={len(foreign_days)})"
+        )
+    else:
+        print("[INFO] foreign fetch plan: no missing/new trade date.")
 
     # --- update flows ---
     flows_new_list = []
-    for d in iter_trading_days(start_flows, target_date):
+    for d in flow_days:
         print(f"[INFO] fetching flows for {d} ...")
-        try:
-            twse_df = fetch_twse_t86(d)
-        except Exception as e:  # noqa: BLE001
-            print(f"[WARN] TWSE T86 fetch failed at {d}: {e}")
-            twse_df = pd.DataFrame()
+        if d in flow_days_twse_set:
+            try:
+                twse_df = fetch_twse_t86(d)
+            except Exception as e:  # noqa: BLE001
+                print(f"[WARN] TWSE T86 fetch failed at {d}: {e}")
+                twse_df = empty_flows_df()
+            if not twse_df.empty:
+                flows_new_list.append(twse_df)
 
-        try:
-            tpex_df = fetch_tpex_flows(d)
-        except Exception as e:  # noqa: BLE001
-            print(f"[WARN] TPEX flows fetch failed at {d}: {e}")
-            tpex_df = pd.DataFrame()
-
-        if not twse_df.empty:
-            flows_new_list.append(twse_df)
-        if not tpex_df.empty:
-            flows_new_list.append(tpex_df)
+        if d in flow_days_tpex_set:
+            try:
+                tpex_df = fetch_tpex_flows(d)
+            except Exception as e:  # noqa: BLE001
+                print(f"[WARN] TPEX flows fetch failed at {d}: {e}")
+                tpex_df = empty_flows_df()
+            if not tpex_df.empty:
+                flows_new_list.append(tpex_df)
 
     if flows_new_list:
         flows_new = pd.concat(flows_new_list, ignore_index=True)
@@ -775,7 +927,7 @@ def main():
             )
         else:
             twse_flows_all = (
-                pd.read_csv(twse_flows_path) if os.path.exists(twse_flows_path) else pd.DataFrame()
+                pd.read_csv(twse_flows_path) if os.path.exists(twse_flows_path) else empty_flows_df()
             )
 
         if not tpex_new.empty:
@@ -784,39 +936,40 @@ def main():
             )
         else:
             tpex_flows_all = (
-                pd.read_csv(tpex_flows_path) if os.path.exists(tpex_flows_path) else pd.DataFrame()
+                pd.read_csv(tpex_flows_path) if os.path.exists(tpex_flows_path) else empty_flows_df()
             )
     else:
         print("[INFO] no new flows fetched.")
         twse_flows_all = (
-            pd.read_csv(twse_flows_path) if os.path.exists(twse_flows_path) else pd.DataFrame()
+            pd.read_csv(twse_flows_path) if os.path.exists(twse_flows_path) else empty_flows_df()
         )
         tpex_flows_all = (
-            pd.read_csv(tpex_flows_path) if os.path.exists(tpex_flows_path) else pd.DataFrame()
+            pd.read_csv(tpex_flows_path) if os.path.exists(tpex_flows_path) else empty_flows_df()
         )
 
     # --- update foreign holdings ---
     foreign_new_list_twse = []
     foreign_new_list_tpex = []
 
-    for d in iter_trading_days(start_foreign, target_date):
+    for d in foreign_days:
         print(f"[INFO] fetching foreign holdings for {d} ...")
-        try:
-            twse_f = fetch_twse_mi_qfiis(d)
-        except Exception as e:  # noqa: BLE001
-            print(f"[WARN] TWSE MI_QFIIS fetch failed at {d}: {e}")
-            twse_f = pd.DataFrame()
+        if d in foreign_days_twse_set:
+            try:
+                twse_f = fetch_twse_mi_qfiis(d)
+            except Exception as e:  # noqa: BLE001
+                print(f"[WARN] TWSE MI_QFIIS fetch failed at {d}: {e}")
+                twse_f = empty_foreign_df()
+            if not twse_f.empty:
+                foreign_new_list_twse.append(twse_f)
 
-        try:
-            tpex_f = fetch_tpex_qfii(d)
-        except Exception as e:  # noqa: BLE001
-            print(f"[WARN] TPEX QFII fetch failed at {d}: {e}")
-            tpex_f = pd.DataFrame()
-
-        if not twse_f.empty:
-            foreign_new_list_twse.append(twse_f)
-        if not tpex_f.empty:
-            foreign_new_list_tpex.append(tpex_f)
+        if d in foreign_days_tpex_set:
+            try:
+                tpex_f = fetch_tpex_qfii(d)
+            except Exception as e:  # noqa: BLE001
+                print(f"[WARN] TPEX QFII fetch failed at {d}: {e}")
+                tpex_f = empty_foreign_df()
+            if not tpex_f.empty:
+                foreign_new_list_tpex.append(tpex_f)
 
     if foreign_new_list_twse:
         twse_foreign_new = pd.concat(foreign_new_list_twse, ignore_index=True)
@@ -825,7 +978,7 @@ def main():
         )
     else:
         twse_foreign_all = (
-            pd.read_csv(twse_foreign_path) if os.path.exists(twse_foreign_path) else pd.DataFrame()
+            pd.read_csv(twse_foreign_path) if os.path.exists(twse_foreign_path) else empty_foreign_df()
         )
 
     if foreign_new_list_tpex:
@@ -835,8 +988,13 @@ def main():
         )
     else:
         tpex_foreign_all = (
-            pd.read_csv(tpex_foreign_path) if os.path.exists(tpex_foreign_path) else pd.DataFrame()
+            pd.read_csv(tpex_foreign_path) if os.path.exists(tpex_foreign_path) else empty_foreign_df()
         )
+
+    twse_flows_all = ensure_columns(restore_column_from_index(twse_flows_all, "code"), FLOW_COLUMNS)
+    tpex_flows_all = ensure_columns(restore_column_from_index(tpex_flows_all, "code"), FLOW_COLUMNS)
+    twse_foreign_all = ensure_columns(restore_column_from_index(twse_foreign_all, "code"), FOREIGN_COLUMNS)
+    tpex_foreign_all = ensure_columns(restore_column_from_index(tpex_foreign_all, "code"), FOREIGN_COLUMNS)
 
     if twse_flows_all.empty and tpex_flows_all.empty:
         print("[WARN] no flows history available, aborting model/export.")

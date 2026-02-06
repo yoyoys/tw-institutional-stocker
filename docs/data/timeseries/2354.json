@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.101700175536374,
     "three_inst_ratio_change_20": 0.024464985420646457
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.060174351319755
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.98,
+    "trust_ratio": 0.14367969431524458,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.123679694315245,
+    "three_inst_ratio_change_20": 0.09166721841510928
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 13.02,
+    "trust_ratio": 0.14360899721599915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.163608997215999,
+    "three_inst_ratio_change_20": 0.13742539246038277
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.91,
+    "trust_ratio": 0.14410387691071708,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.054103876910718,
+    "three_inst_ratio_change_20": -0.04295262492928131
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.99,
+    "trust_ratio": 0.14403317981147165,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.134033179811471,
+    "three_inst_ratio_change_20": 0.006693889574490797
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 13.07,
+    "trust_ratio": 0.0988577333936487,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.168857733393649,
+    "three_inst_ratio_change_20": -0.008835042339558896
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 13.08,
+    "trust_ratio": 0.025898326972375967,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.105898326972376,
+    "three_inst_ratio_change_20": -0.04179444876083238
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 13.19,
+    "trust_ratio": -0.18032511152651218,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.009674888473487,
+    "three_inst_ratio_change_20": -0.16874444134866629
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 13.16,
+    "trust_ratio": -0.1909296764133251,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.969070323586674,
+    "three_inst_ratio_change_20": -0.2700805091213727
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.74,
+    "trust_ratio": -0.1902934025201163,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.549706597479885,
+    "three_inst_ratio_change_20": -0.7003862033785069
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.74,
+    "trust_ratio": -0.18909155183294418,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.550908448167055,
+    "three_inst_ratio_change_20": -0.6700556237424369
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.77,
+    "trust_ratio": -0.18902085473369876,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.580979145266301,
+    "three_inst_ratio_change_20": -0.6011160802311171
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.68,
+    "trust_ratio": -0.18887946053520793,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.491120539464792,
+    "three_inst_ratio_change_20": -0.6520581190785641
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.78,
+    "trust_ratio": -0.18675854755784535,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.593241452442154,
+    "three_inst_ratio_change_20": -0.4355747001980639
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.61,
+    "trust_ratio": -0.1847790287789736,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.425220971221027,
+    "three_inst_ratio_change_20": -0.6640193640146634
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.61,
+    "trust_ratio": -0.18421345198501024,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.425786548014988,
+    "three_inst_ratio_change_20": -0.6154333059995736
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.61,
+    "trust_ratio": -0.18385996648878314,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.426140033511217,
+    "three_inst_ratio_change_20": -0.7276249160761807
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2354",
+    "name": "鴻準",
+    "market": "TWSE",
+    "foreign_ratio": 12.49,
+    "trust_ratio": -0.18393066358802856,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.306069336411971,
+    "three_inst_ratio_change_20": -0.9181197957708971
   }
 ]

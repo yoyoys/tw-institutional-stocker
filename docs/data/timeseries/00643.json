@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.02,
     "three_inst_ratio_change_20": 0.019999999999999574
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.03
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.06,
+    "three_inst_ratio_change_20": -0.009999999999999787
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 12.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.98,
+    "three_inst_ratio_change_20": -0.6600000000000001
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.03,
+    "three_inst_ratio_change_20": -0.41000000000000014
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 12.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.96,
+    "three_inst_ratio_change_20": -0.5699999999999985
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.05,
+    "three_inst_ratio_change_20": -0.10999999999999943
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.08,
+    "three_inst_ratio_change_20": 0.16000000000000014
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.46,
+    "three_inst_ratio_change_20": 0.5100000000000016
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.18,
+    "three_inst_ratio_change_20": 0.1999999999999993
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.08,
+    "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.27,
+    "three_inst_ratio_change_20": 0.20999999999999908
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.59,
+    "three_inst_ratio_change_20": 0.5299999999999994
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.55,
+    "three_inst_ratio_change_20": 0.5300000000000011
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.56,
+    "three_inst_ratio_change_20": 0.6799999999999997
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.39,
+    "three_inst_ratio_change_20": 0.3800000000000008
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.18,
+    "three_inst_ratio_change_20": 0.15000000000000036
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.35,
+    "three_inst_ratio_change_20": 0.41999999999999993
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00643",
+    "name": "群益深証中小",
+    "market": "TWSE",
+    "foreign_ratio": 13.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.5,
+    "three_inst_ratio_change_20": 0.5600000000000005
   }
 ]

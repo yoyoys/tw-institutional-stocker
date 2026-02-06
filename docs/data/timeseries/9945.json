@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.482703037624498,
     "three_inst_ratio_change_20": 0.2399851450364423
+  },
+  {
+    "date": "2025-12-25",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.302717892588054
+  },
+  {
+    "date": "2025-12-26",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.47,
+    "trust_ratio": 0.030945089554702,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.500945089554703,
+    "three_inst_ratio_change_20": 0.17900069411735764
+  },
+  {
+    "date": "2025-12-29",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.44,
+    "trust_ratio": 0.030945089554702,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.470945089554702,
+    "three_inst_ratio_change_20": 0.1990006941173572
+  },
+  {
+    "date": "2025-12-30",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.5,
+    "trust_ratio": -0.04658042032331614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.453419579676684,
+    "three_inst_ratio_change_20": 0.1514400252779442
+  },
+  {
+    "date": "2025-12-31",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.7,
+    "trust_ratio": -0.34402523373285515,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.355974766267144,
+    "three_inst_ratio_change_20": 0.04353814537025613
+  },
+  {
+    "date": "2026-01-02",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.99,
+    "trust_ratio": -0.70088869190151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.28911130809849,
+    "three_inst_ratio_change_20": -0.033571425528169385
+  },
+  {
+    "date": "2026-01-05",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 10.17,
+    "trust_ratio": -0.9975248491989428,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.172475150801057,
+    "three_inst_ratio_change_20": -0.06077012620793809
+  },
+  {
+    "date": "2026-01-06",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 10.16,
+    "trust_ratio": -1.0068419739688634,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.153158026031136,
+    "three_inst_ratio_change_20": 0.019033774987244456
+  },
+  {
+    "date": "2026-01-07",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 10.23,
+    "trust_ratio": -1.0149636940513223,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.215036305948678,
+    "three_inst_ratio_change_20": 0.1722129364764342
+  },
+  {
+    "date": "2026-01-08",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 10.07,
+    "trust_ratio": -1.0149636940513223,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.055036305948677,
+    "three_inst_ratio_change_20": 0.04397088454622988
+  },
+  {
+    "date": "2026-01-09",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.95,
+    "trust_ratio": -1.0149988530127183,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.93500114698728,
+    "three_inst_ratio_change_20": -0.09084589316501201
+  },
+  {
+    "date": "2026-01-12",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.87,
+    "trust_ratio": -1.0149988530127183,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.85500114698728,
+    "three_inst_ratio_change_20": -0.24084589316501237
+  },
+  {
+    "date": "2026-01-13",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.84,
+    "trust_ratio": -1.0203078561835033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.819692143816496,
+    "three_inst_ratio_change_20": -0.3361197373744016
+  },
+  {
+    "date": "2026-01-14",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 10.02,
+    "trust_ratio": -1.0203078561835033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.999692143816496,
+    "three_inst_ratio_change_20": -0.14497979564617403
+  },
+  {
+    "date": "2026-01-15",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 10.06,
+    "trust_ratio": -1.0205539689132748,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.039446031086726,
+    "three_inst_ratio_change_20": -0.1549797956461738
+  },
+  {
+    "date": "2026-01-16",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.96,
+    "trust_ratio": -1.0205539689132748,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.939446031086726,
+    "three_inst_ratio_change_20": -0.2732218475763766
+  },
+  {
+    "date": "2026-01-19",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.97,
+    "trust_ratio": -1.0206594457974625,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.949340554202537,
+    "three_inst_ratio_change_20": -0.39519074941454946
+  },
+  {
+    "date": "2026-01-20",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.9,
+    "trust_ratio": -1.0211868302184013,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.8788131697816,
+    "three_inst_ratio_change_20": -0.5038898678428989
   }
 ]

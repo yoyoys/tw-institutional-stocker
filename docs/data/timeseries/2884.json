@@ -768,5 +768,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 34.05665668356622,
     "three_inst_ratio_change_20": 0.8830357796463417
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.16574191912947
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 31.04,
+    "trust_ratio": 2.7778772227031037,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.90187623346111,
+    "three_inst_ratio_change_20": 0.7965609249412609
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.96,
+    "trust_ratio": 2.853117793990355,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.897116804748364,
+    "three_inst_ratio_change_20": 0.7433781006553701
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.81,
+    "trust_ratio": 3.0547871398540867,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.948786150612094,
+    "three_inst_ratio_change_20": 0.7294179423766494
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.67,
+    "trust_ratio": 3.2779293866699644,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 34.031928397427976,
+    "three_inst_ratio_change_20": 0.8879577408185995
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.54,
+    "trust_ratio": 3.524525163843205,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 34.148524174601214,
+    "three_inst_ratio_change_20": 1.0100809076295292
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.42,
+    "trust_ratio": 3.651731056015828,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 34.155730066773835,
+    "three_inst_ratio_change_20": 1.0646838568072212
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.37,
+    "trust_ratio": 3.696042914554223,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 34.15004192531223,
+    "three_inst_ratio_change_20": 0.6875816866575946
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.28,
+    "trust_ratio": 3.7388492518857426,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 34.10284826264375,
+    "three_inst_ratio_change_20": 0.5905759799678449
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.19,
+    "trust_ratio": 3.7241769753926053,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.99817598615061,
+    "three_inst_ratio_change_20": 0.4878674230246034
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.16,
+    "trust_ratio": 3.718199826882651,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.962198837640656,
+    "three_inst_ratio_change_20": 0.42084459626561
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.11,
+    "trust_ratio": 3.7011056448621247,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.89510465562013,
+    "three_inst_ratio_change_20": 0.279207258563126
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.07,
+    "trust_ratio": 3.685039155434648,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.83903816619265,
+    "three_inst_ratio_change_20": 0.17519591937677603
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.02,
+    "trust_ratio": 3.6796831396067766,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.78368215036478,
+    "three_inst_ratio_change_20": 0.11628357858291594
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.02,
+    "trust_ratio": 3.6564162421169777,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.760415252874985,
+    "three_inst_ratio_change_20": -0.06399845430938456
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 29.99,
+    "trust_ratio": 3.6717892358105604,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.745788246568566,
+    "three_inst_ratio_change_20": -0.09262447137381002
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.09,
+    "trust_ratio": 3.65281627303079,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.8268152837888,
+    "three_inst_ratio_change_20": -0.1725640596018252
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 30.11,
+    "trust_ratio": 3.650229219735378,
+    "dealer_ratio": 0.08399901075800668,
+    "three_inst_ratio": 33.844228230493385,
+    "three_inst_ratio_change_20": -0.08622708668232804
   }
 ]

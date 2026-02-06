@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4,
     "three_inst_ratio_change_20": -4.619999999999999
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.2
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.86,
+    "three_inst_ratio_change_20": -3.0699999999999994
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.31,
+    "three_inst_ratio_change_20": -5.869999999999999
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.37,
+    "three_inst_ratio_change_20": -3.99
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.75,
+    "three_inst_ratio_change_20": -3.88
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.18,
+    "three_inst_ratio_change_20": -3.5200000000000005
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.43222040452111843,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0622204045211183,
+    "three_inst_ratio_change_20": -3.057779595478882
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.4404076375208365,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0504076375208364,
+    "three_inst_ratio_change_20": -1.8395923624791637
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.44,
+    "trust_ratio": 0.4467545444064409,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8867545444064406,
+    "three_inst_ratio_change_20": -0.05324545559355931
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.4489110287303058,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.468911028730306,
+    "three_inst_ratio_change_20": -0.531088971269694
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.68,
+    "trust_ratio": 0.4532870623099119,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.133287062309912,
+    "three_inst_ratio_change_20": -0.01671293769008786
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.4600134541569388,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.810013454156939,
+    "three_inst_ratio_change_20": 0.3900134541569389
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.07,
+    "trust_ratio": 0.617394416607015,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.687394416607015,
+    "three_inst_ratio_change_20": 0.8673944166070149
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.71,
+    "trust_ratio": 0.6356442802056556,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3456442802056556,
+    "three_inst_ratio_change_20": -1.2943557197943445
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.67,
+    "trust_ratio": 0.626211863400736,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.296211863400736,
+    "three_inst_ratio_change_20": -0.5137881365992643
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.67,
+    "trust_ratio": 0.6677614657116854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.337761465711685,
+    "three_inst_ratio_change_20": 0.907761465711685
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.5,
+    "trust_ratio": 0.6677614657116854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1677614657116853,
+    "three_inst_ratio_change_20": -0.3022385342883147
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.6778197300771208,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.777819730077121,
+    "three_inst_ratio_change_20": 0.31781973007712105
   }
 ]

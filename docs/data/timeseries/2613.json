@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
     "three_inst_ratio_change_20": -0.30000000000000004
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.41
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.22,
+    "three_inst_ratio_change_20": -0.24
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.39,
+    "three_inst_ratio_change_20": -0.1100000000000001
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.37,
+    "three_inst_ratio_change_20": -0.10999999999999988
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.41,
+    "three_inst_ratio_change_20": -0.14000000000000012
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6,
+    "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.47,
+    "three_inst_ratio_change_20": 0.18999999999999995
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.48,
+    "three_inst_ratio_change_20": 0.22999999999999998
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.58,
+    "three_inst_ratio_change_20": 0.3600000000000001
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.59,
+    "three_inst_ratio_change_20": 0.4500000000000002
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.68,
+    "three_inst_ratio_change_20": 0.54
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.75,
+    "three_inst_ratio_change_20": 0.6299999999999999
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.73,
+    "three_inst_ratio_change_20": 0.6299999999999999
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.88,
+    "three_inst_ratio_change_20": 0.7899999999999998
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.99,
+    "three_inst_ratio_change_20": 0.8799999999999999
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 1.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.95,
+    "three_inst_ratio_change_20": 0.97
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 2.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.12,
+    "three_inst_ratio_change_20": 1.04
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 2.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.11,
+    "three_inst_ratio_change_20": 0.96
   }
 ]

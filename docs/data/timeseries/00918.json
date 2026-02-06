@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.52,
     "three_inst_ratio_change_20": 0.14
+  },
+  {
+    "date": "2025-12-25",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.39
+  },
+  {
+    "date": "2025-12-26",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": 0.31999999999999995
+  },
+  {
+    "date": "2025-12-29",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.82,
+    "three_inst_ratio_change_20": 0.6699999999999999
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.92,
+    "three_inst_ratio_change_20": 0.76
+  },
+  {
+    "date": "2025-12-31",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.94,
+    "three_inst_ratio_change_20": 0.7799999999999999
+  },
+  {
+    "date": "2026-01-02",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.07,
+    "three_inst_ratio_change_20": 0.91
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.34,
+    "three_inst_ratio_change_20": 1.1800000000000002
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.52,
+    "three_inst_ratio_change_20": 1.34
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.94,
+    "three_inst_ratio_change_20": 1.72
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.93,
+    "three_inst_ratio_change_20": 1.72
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8,
+    "three_inst_ratio_change_20": 1.6500000000000001
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.83,
+    "three_inst_ratio_change_20": 1.6800000000000002
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5,
+    "three_inst_ratio_change_20": 1.3599999999999999
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.29,
+    "three_inst_ratio_change_20": 1.1600000000000001
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.31,
+    "three_inst_ratio_change_20": 1.1300000000000001
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3,
+    "three_inst_ratio_change_20": 1.1
+  },
+  {
+    "date": "2026-01-19",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.34,
+    "three_inst_ratio_change_20": 1.07
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.22,
+    "three_inst_ratio_change_20": 0.82
   }
 ]

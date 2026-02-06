@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.88,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.88
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.88,
+    "three_inst_ratio_change_20": 0.00999999999999801
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.85,
+    "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.86,
+    "three_inst_ratio_change_20": -0.010000000000001563
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.86,
+    "three_inst_ratio_change_20": -0.030000000000001137
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.85,
+    "three_inst_ratio_change_20": 0.010000000000001563
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.81,
+    "three_inst_ratio_change_20": -0.030000000000001137
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.79,
+    "three_inst_ratio_change_20": -0.060000000000002274
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.78,
+    "three_inst_ratio_change_20": -0.16000000000000014
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.72,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.72,
+    "three_inst_ratio_change_20": -0.20000000000000284
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.69,
+    "three_inst_ratio_change_20": -0.14999999999999858
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.67,
+    "three_inst_ratio_change_20": -0.22999999999999687
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.65,
+    "three_inst_ratio_change_20": -0.25
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.67,
+    "three_inst_ratio_change_20": -0.1999999999999993
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.67,
+    "three_inst_ratio_change_20": -0.1999999999999993
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.67,
+    "three_inst_ratio_change_20": -0.1999999999999993
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.66,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.66,
+    "three_inst_ratio_change_20": -0.21000000000000085
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.61,
+    "three_inst_ratio_change_20": -0.26000000000000156
   }
 ]

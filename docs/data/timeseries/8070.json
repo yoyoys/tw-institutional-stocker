@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6361002664161948,
     "three_inst_ratio_change_20": -1.1925207484938412
+  },
+  {
+    "date": "2025-12-25",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.708621014910037
+  },
+  {
+    "date": "2025-12-26",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 3.64,
+    "trust_ratio": 0.4261002664161946,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.0661002664161945,
+    "three_inst_ratio_change_20": -0.6025207484938422
+  },
+  {
+    "date": "2025-12-29",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 3.96,
+    "trust_ratio": 0.28195333234741055,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.241953332347411,
+    "three_inst_ratio_change_20": -0.2673567214444086
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 4.25,
+    "trust_ratio": 0.13987351492397238,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.3898735149239725,
+    "three_inst_ratio_change_20": -0.17874749998606365
+  },
+  {
+    "date": "2025-12-31",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 4.46,
+    "trust_ratio": -0.005540423840632307,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.454459576159367,
+    "three_inst_ratio_change_20": -0.2841614387506688
+  },
+  {
+    "date": "2026-01-02",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 4.72,
+    "trust_ratio": -0.16274767649026414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.5572523235097355,
+    "three_inst_ratio_change_20": -0.24026622918945062
+  },
+  {
+    "date": "2026-01-05",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 4.89,
+    "trust_ratio": -0.30303599282106924,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.58696400717893,
+    "three_inst_ratio_change_20": 0.0494454544797458
+  },
+  {
+    "date": "2026-01-06",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 5.09,
+    "trust_ratio": -0.44871355786184375,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.641286442138156,
+    "three_inst_ratio_change_20": -0.004578417244752053
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 5.49,
+    "trust_ratio": -0.60002649630116,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.88997350369884,
+    "three_inst_ratio_change_20": 0.5149354909740698
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 5.68,
+    "trust_ratio": -0.6175280838984215,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.062471916101578,
+    "three_inst_ratio_change_20": 0.8491372074925723
+  },
+  {
+    "date": "2026-01-09",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 5.91,
+    "trust_ratio": -0.6362699414828907,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.27373005851711,
+    "three_inst_ratio_change_20": 0.9908087732371733
+  },
+  {
+    "date": "2026-01-12",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 6.26,
+    "trust_ratio": -0.6561142612782108,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.603885738721789,
+    "three_inst_ratio_change_20": 1.4009644534418522
+  },
+  {
+    "date": "2026-01-13",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 6.41,
+    "trust_ratio": -0.6169915982250662,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.793008401774934,
+    "three_inst_ratio_change_20": 1.7200871164949971
+  },
+  {
+    "date": "2026-01-14",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 6.77,
+    "trust_ratio": -0.6863089097323304,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.083691090267669,
+    "three_inst_ratio_change_20": 2.252252065430222
+  },
+  {
+    "date": "2026-01-15",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 6.83,
+    "trust_ratio": -0.7246340791837006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.1053659208163,
+    "three_inst_ratio_change_20": 2.2339268959788527
+  },
+  {
+    "date": "2026-01-16",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 6.97,
+    "trust_ratio": -0.7695594142758838,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.200440585724116,
+    "three_inst_ratio_change_20": 2.379001560886669
+  },
+  {
+    "date": "2026-01-19",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 7.12,
+    "trust_ratio": -0.7811942492181011,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.338805750781899,
+    "three_inst_ratio_change_20": 2.7983313803789467
+  },
+  {
+    "date": "2026-01-20",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 6.94,
+    "trust_ratio": -0.8368814069892838,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.103118593010716,
+    "three_inst_ratio_change_20": 2.4026442226077642
   }
 ]

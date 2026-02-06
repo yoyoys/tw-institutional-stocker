@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6500024591269534,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-25",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.6500024591269534
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6505489317832582,
+    "three_inst_ratio_change_20": -0.0094535273436952
+  },
+  {
+    "date": "2025-12-29",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6505489317832582,
+    "three_inst_ratio_change_20": 0.0005464726563048083
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.64,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6405489317832582,
+    "three_inst_ratio_change_20": -0.0094535273436952
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.64,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6405489317832582,
+    "three_inst_ratio_change_20": -0.0094535273436952
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.64,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6405489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.62,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6205489317832582,
+    "three_inst_ratio_change_20": -0.02945352734369522
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.0094535273436952
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6505489317832582,
+    "three_inst_ratio_change_20": 0.020546472656304826
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.64,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6405489317832582,
+    "three_inst_ratio_change_20": -0.059453527343695134
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.059453527343695134
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6505489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6305489317832582,
+    "three_inst_ratio_change_20": -0.01945352734369521
   }
 ]

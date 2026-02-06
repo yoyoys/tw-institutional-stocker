@@ -108,5 +108,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-26",
+    "code": "3018",
+    "name": "隆銘綠能",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.24,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-16",
+    "code": "3018",
+    "name": "隆銘綠能",
+    "market": "TWSE",
+    "foreign_ratio": 0.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.23,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

@@ -625,5 +625,115 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.97,
     "three_inst_ratio_change_20": -0.13000000000000012
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.97,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.926655468889736,
+    "three_inst_ratio_change_20": -0.17334453111026416
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.96,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.916655468889736,
+    "three_inst_ratio_change_20": -0.18334453111026416
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.94,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.896655468889736,
+    "three_inst_ratio_change_20": -0.19334453111026395
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.93,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.886655468889736,
+    "three_inst_ratio_change_20": -0.20334453111026396
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.91,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8666554688897359,
+    "three_inst_ratio_change_20": -0.2333445311102642
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.88,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8366554688897359,
+    "three_inst_ratio_change_20": -0.26334453111026423
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.88,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8366554688897359,
+    "three_inst_ratio_change_20": -0.26334453111026423
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.86,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.816655468889736,
+    "three_inst_ratio_change_20": -0.263344531110264
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.85,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.806655468889736,
+    "three_inst_ratio_change_20": -0.253344531110264
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.84,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.796655468889736,
+    "three_inst_ratio_change_20": -0.243344531110264
   }
 ]

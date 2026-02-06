@@ -779,5 +779,203 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.64,
     "three_inst_ratio_change_20": 0.02999999999999936
+  },
+  {
+    "date": "2025-12-25",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.64
+  },
+  {
+    "date": "2025-12-26",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.63,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.5632733455064205,
+    "three_inst_ratio_change_20": -0.10672665449357943
+  },
+  {
+    "date": "2025-12-29",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.64,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.57327334550642,
+    "three_inst_ratio_change_20": -0.20672665449357996
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.59,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.5232733455064205,
+    "three_inst_ratio_change_20": -0.6267266544935799
+  },
+  {
+    "date": "2025-12-31",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.62,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.553273345506421,
+    "three_inst_ratio_change_20": -0.5667266544935794
+  },
+  {
+    "date": "2026-01-02",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.56,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.49327334550642,
+    "three_inst_ratio_change_20": -0.5967266544935796
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.53,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.463273345506421,
+    "three_inst_ratio_change_20": -0.5667266544935794
+  },
+  {
+    "date": "2026-01-06",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.54,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.473273345506421,
+    "three_inst_ratio_change_20": -0.5267266544935794
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.77,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.70327334550642,
+    "three_inst_ratio_change_20": -0.28672665449358004
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.74,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.673273345506421,
+    "three_inst_ratio_change_20": -0.2667266544935796
+  },
+  {
+    "date": "2026-01-09",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.63,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.5632733455064205,
+    "three_inst_ratio_change_20": -0.3667266544935792
+  },
+  {
+    "date": "2026-01-12",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.63,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.5632733455064205,
+    "three_inst_ratio_change_20": -0.3667266544935792
+  },
+  {
+    "date": "2026-01-13",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.59,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.5232733455064205,
+    "three_inst_ratio_change_20": -0.40672665449357925
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.7,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.633273345506421,
+    "three_inst_ratio_change_20": -0.22672665449357954
+  },
+  {
+    "date": "2026-01-15",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.8,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.73327334550642,
+    "three_inst_ratio_change_20": -0.03672665449357915
+  },
+  {
+    "date": "2026-01-16",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.75,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.683273345506421,
+    "three_inst_ratio_change_20": -0.0667266544935794
+  },
+  {
+    "date": "2026-01-19",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.8,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.73327334550642,
+    "three_inst_ratio_change_20": -0.016726654493579574
+  },
+  {
+    "date": "2026-01-20",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 5.74,
+    "trust_ratio": -0.0667266544935797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.673273345506421,
+    "three_inst_ratio_change_20": -0.0667266544935794
   }
 ]
