@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.7462836041442,
     "three_inst_ratio_change_20": -3.7224039233526867
+  },
+  {
+    "date": "2026-01-21",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.24,
+    "trust_ratio": 7.3233520778451755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.56335207784517,
+    "three_inst_ratio_change_20": -3.632509715076722
+  },
+  {
+    "date": "2026-01-22",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.15,
+    "trust_ratio": 7.372521593026733,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.52252159302674,
+    "three_inst_ratio_change_20": -3.2838364045939272
+  },
+  {
+    "date": "2026-01-23",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.01,
+    "trust_ratio": 7.332717699784521,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.34271769978453,
+    "three_inst_ratio_change_20": 75.34271769978453
+  },
+  {
+    "date": "2026-01-26",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.96,
+    "trust_ratio": 7.312815753163414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.27281575316341,
+    "three_inst_ratio_change_20": -3.9905144653201603
+  },
+  {
+    "date": "2026-01-27",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.86,
+    "trust_ratio": 7.316327861390668,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.17632786139066,
+    "three_inst_ratio_change_20": -3.875975765516685
+  },
+  {
+    "date": "2026-01-28",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.98,
+    "trust_ratio": 7.415837594496198,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.3958375944962,
+    "three_inst_ratio_change_20": -3.5839805157601177
+  },
+  {
+    "date": "2026-01-29",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.63,
+    "trust_ratio": 7.113796286952353,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 74.74379628695235,
+    "three_inst_ratio_change_20": -3.7757641820686274
+  },
+  {
+    "date": "2026-01-30",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.76,
+    "trust_ratio": 6.894874874120188,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 74.6548748741202,
+    "three_inst_ratio_change_20": -3.6608849786896798
+  },
+  {
+    "date": "2026-02-02",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.94,
+    "trust_ratio": 6.564736700758312,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 74.50473670075831,
+    "three_inst_ratio_change_20": -3.673658717673092
+  },
+  {
+    "date": "2026-02-03",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.16,
+    "trust_ratio": 6.520249996546427,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 74.68024999654642,
+    "three_inst_ratio_change_20": -3.4016575301122316
+  },
+  {
+    "date": "2026-02-04",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.2,
+    "trust_ratio": 6.258715003890246,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 74.45871500389025,
+    "three_inst_ratio_change_20": -3.1746603545496725
+  },
+  {
+    "date": "2026-02-05",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.3,
+    "trust_ratio": 6.238813057269139,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 74.53881305726914,
+    "three_inst_ratio_change_20": -2.847688133686759
   }
 ]

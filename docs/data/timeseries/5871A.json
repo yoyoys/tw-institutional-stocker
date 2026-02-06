@@ -240,5 +240,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1653333333333333,
     "three_inst_ratio_change_20": 1.1653333333333333
+  },
+  {
+    "date": "2026-01-22",
+    "code": "5871A",
+    "name": "中租-KY甲特",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": -0.024666666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1653333333333333,
+    "three_inst_ratio_change_20": 1.1653333333333333
+  },
+  {
+    "date": "2026-02-05",
+    "code": "5871A",
+    "name": "中租-KY甲特",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": -0.024666666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1653333333333333,
+    "three_inst_ratio_change_20": 1.1653333333333333
   }
 ]

@@ -328,5 +328,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.233333333333333,
     "three_inst_ratio_change_20": 0.5199999999999996
+  },
+  {
+    "date": "2026-01-22",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.51,
+    "trust_ratio": 0.7233333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.233333333333333,
+    "three_inst_ratio_change_20": 0.5299999999999994
+  },
+  {
+    "date": "2026-01-26",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.51,
+    "trust_ratio": 0.8,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.31,
+    "three_inst_ratio_change_20": 0.6100000000000012
+  },
+  {
+    "date": "2026-01-27",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.51,
+    "trust_ratio": 0.8033333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.313333333333333,
+    "three_inst_ratio_change_20": 0.6166666666666671
+  },
+  {
+    "date": "2026-01-28",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.51,
+    "trust_ratio": 0.9066666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.416666666666666,
+    "three_inst_ratio_change_20": 0.7166666666666668
+  },
+  {
+    "date": "2026-01-29",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.5,
+    "trust_ratio": 1.08,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.58,
+    "three_inst_ratio_change_20": 0.8766666666666669
+  },
+  {
+    "date": "2026-01-30",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.5,
+    "trust_ratio": 1.1400000000000001,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.64,
+    "three_inst_ratio_change_20": 0.9033333333333342
+  },
+  {
+    "date": "2026-02-02",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.5,
+    "trust_ratio": 1.16,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.66,
+    "three_inst_ratio_change_20": 12.66
+  },
+  {
+    "date": "2026-02-04",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.5,
+    "trust_ratio": 1.1733333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.673333333333334,
+    "three_inst_ratio_change_20": 0.9300000000000015
+  },
+  {
+    "date": "2026-02-05",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.5,
+    "trust_ratio": 1.1766666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.676666666666666,
+    "three_inst_ratio_change_20": 0.9533333333333331
   }
 ]

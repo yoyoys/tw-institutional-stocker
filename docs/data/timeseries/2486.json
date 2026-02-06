@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.83,
     "three_inst_ratio_change_20": -1.5299999999999994
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 9.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.12,
+    "three_inst_ratio_change_20": 0.29999999999999893
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 10.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.13,
+    "three_inst_ratio_change_20": 1.5200000000000014
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 14.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.33,
+    "three_inst_ratio_change_20": 14.33
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 17.62,
+    "trust_ratio": 0.42101469593897645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.041014695938976,
+    "three_inst_ratio_change_20": 9.601014695938977
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 20.38,
+    "trust_ratio": 0.8792154614685022,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.2592154614685,
+    "three_inst_ratio_change_20": 11.9792154614685
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 21.55,
+    "trust_ratio": 1.306641548716194,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.856641548716194,
+    "three_inst_ratio_change_20": 14.376641548716194
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 20.53,
+    "trust_ratio": 1.306641548716194,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.836641548716194,
+    "three_inst_ratio_change_20": 13.166641548716195
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 19.59,
+    "trust_ratio": 1.306641548716194,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.896641548716193,
+    "three_inst_ratio_change_20": 12.206641548716194
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 19.52,
+    "trust_ratio": 1.306641548716194,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.826641548716193,
+    "three_inst_ratio_change_20": 12.366641548716192
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 19.39,
+    "trust_ratio": 1.306641548716194,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.696641548716194,
+    "three_inst_ratio_change_20": 11.316641548716193
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 19.39,
+    "trust_ratio": 1.3092061052396802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.699206105239682,
+    "three_inst_ratio_change_20": 12.599206105239682
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 19.19,
+    "trust_ratio": 1.3092061052396802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.499206105239683,
+    "three_inst_ratio_change_20": 12.469206105239683
   }
 ]

@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.25657685894786,
     "three_inst_ratio_change_20": -0.7922177915203825
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.95,
+    "trust_ratio": 0.022264355307955792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.972264355307956,
+    "three_inst_ratio_change_20": -1.0862282831363146
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.94,
+    "trust_ratio": -0.00771286688016966,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.932287133119832,
+    "three_inst_ratio_change_20": -1.0652994692525226
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.85,
+    "trust_ratio": -0.043412060895695916,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.806587939104304,
+    "three_inst_ratio_change_20": 19.806587939104304
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.87,
+    "trust_ratio": -0.04676742893237113,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.82323257106763,
+    "three_inst_ratio_change_20": -1.0476283215402518
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.86,
+    "trust_ratio": -0.05043221479025783,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.80956778520974,
+    "three_inst_ratio_change_20": -1.0603899613934367
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.8,
+    "trust_ratio": -0.05235374822986544,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.747646251770135,
+    "three_inst_ratio_change_20": -1.067615135608584
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.81,
+    "trust_ratio": -0.053791556669353736,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.756208443330646,
+    "three_inst_ratio_change_20": -1.0008624935606143
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.76,
+    "trust_ratio": -0.05842993392031104,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.70157006607969,
+    "three_inst_ratio_change_20": -1.0428519435797732
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.75,
+    "trust_ratio": -0.060283731409565874,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.689716268590434,
+    "three_inst_ratio_change_20": -0.9614390372599431
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.77,
+    "trust_ratio": -0.0644952818587002,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.7055047181413,
+    "three_inst_ratio_change_20": -0.8458214691106853
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.81,
+    "trust_ratio": -0.06467591105964095,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.745324088940357,
+    "three_inst_ratio_change_20": -0.7373378574301057
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 19.82,
+    "trust_ratio": -0.0656941178653439,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.754305882134656,
+    "three_inst_ratio_change_20": -0.6857674671571239
   }
 ]

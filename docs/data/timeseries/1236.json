@@ -955,5 +955,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-21",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.43,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-22",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45,
+    "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-01-23",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.44
+  },
+  {
+    "date": "2026-01-26",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-27",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-01-28",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5,
+    "three_inst_ratio_change_20": 0.06
+  },
+  {
+    "date": "2026-01-29",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-30",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-02",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4,
+    "three_inst_ratio_change_20": -0.03999999999999998
+  },
+  {
+    "date": "2026-02-03",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.38,
+    "three_inst_ratio_change_20": -0.06
+  },
+  {
+    "date": "2026-02-04",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-02-05",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

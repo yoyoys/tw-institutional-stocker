@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
     "three_inst_ratio_change_20": 0.10000000000000009
+  },
+  {
+    "date": "2026-01-21",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.54,
+    "three_inst_ratio_change_20": 0.30000000000000004
+  },
+  {
+    "date": "2026-01-22",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.53,
+    "three_inst_ratio_change_20": 0.29000000000000004
+  },
+  {
+    "date": "2026-01-23",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.51,
+    "three_inst_ratio_change_20": 1.51
+  },
+  {
+    "date": "2026-01-26",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.46,
+    "three_inst_ratio_change_20": 0.15999999999999992
+  },
+  {
+    "date": "2026-01-27",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 0.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.98,
+    "three_inst_ratio_change_20": -0.44999999999999996
+  },
+  {
+    "date": "2026-01-28",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 0.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.93,
+    "three_inst_ratio_change_20": -0.47999999999999987
+  },
+  {
+    "date": "2026-01-29",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": -0.16999999999999993
+  },
+  {
+    "date": "2026-01-30",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.45,
+    "three_inst_ratio_change_20": 0.10999999999999988
+  },
+  {
+    "date": "2026-02-02",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.52,
+    "three_inst_ratio_change_20": 0.3900000000000001
+  },
+  {
+    "date": "2026-02-03",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4,
+    "three_inst_ratio_change_20": 0.18999999999999995
+  },
+  {
+    "date": "2026-02-04",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.48,
+    "three_inst_ratio_change_20": 0.3999999999999999
+  },
+  {
+    "date": "2026-02-05",
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.34,
+    "three_inst_ratio_change_20": -0.53
   }
 ]

@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.21,
     "three_inst_ratio_change_20": 0.13000000000000078
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.87,
+    "three_inst_ratio_change_20": -0.13999999999999968
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.65,
+    "three_inst_ratio_change_20": -0.23999999999999932
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.68,
+    "three_inst_ratio_change_20": 7.68
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.88,
+    "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.8,
+    "three_inst_ratio_change_20": -0.020000000000000462
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.85,
+    "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.51,
+    "three_inst_ratio_change_20": -0.15000000000000036
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.43,
+    "three_inst_ratio_change_20": -0.28000000000000025
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.37,
+    "three_inst_ratio_change_20": -0.3600000000000003
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.43,
+    "three_inst_ratio_change_20": -0.3200000000000003
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.46,
+    "three_inst_ratio_change_20": -0.28000000000000025
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 7.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.5,
+    "three_inst_ratio_change_20": 0.05999999999999961
   }
 ]

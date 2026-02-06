@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.570815877572816,
     "three_inst_ratio_change_20": -0.598102411316388
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.56,
+    "trust_ratio": -0.09939197749313188,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.460608022506868,
+    "three_inst_ratio_change_20": -0.4695617632653928
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.74,
+    "trust_ratio": -0.10038867167322665,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.639611328326774,
+    "three_inst_ratio_change_20": -0.2111696305758688
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.7,
+    "trust_ratio": -0.10922678566442214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.590773214335577,
+    "three_inst_ratio_change_20": 11.590773214335577
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.8,
+    "trust_ratio": -0.12216255386023422,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.677837446139767,
+    "three_inst_ratio_change_20": -0.11363011259411593
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.81,
+    "trust_ratio": -0.14753764048103213,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.662462359518969,
+    "three_inst_ratio_change_20": -0.042442730119621075
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 12.08,
+    "trust_ratio": -0.17227967034708505,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.907720329652914,
+    "three_inst_ratio_change_20": 0.290361415136994
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 12.08,
+    "trust_ratio": -0.1795410040880362,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.900458995911963,
+    "three_inst_ratio_change_20": 0.2958644429968569
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 12.06,
+    "trust_ratio": -0.1886683127195328,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.871331687280467,
+    "three_inst_ratio_change_20": 0.30240144647718026
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 12.09,
+    "trust_ratio": -0.18995484940502858,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.900045150594972,
+    "three_inst_ratio_change_20": 0.39438293692438187
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.89,
+    "trust_ratio": -0.19228506591572034,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.69771493408428,
+    "three_inst_ratio_change_20": 0.21911193070804202
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.92,
+    "trust_ratio": -0.21634862676859828,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.703651373231402,
+    "three_inst_ratio_change_20": 0.022996759573747028
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 12.01,
+    "trust_ratio": -0.2361853923069492,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.773814607693051,
+    "three_inst_ratio_change_20": 0.15135725319729687
   }
 ]

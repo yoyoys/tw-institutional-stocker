@@ -361,5 +361,71 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0825925925925926,
     "three_inst_ratio_change_20": -0.3088888888888889
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3036A",
+    "name": "文曄甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.17,
+    "trust_ratio": -0.0874074074074074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0825925925925926,
+    "three_inst_ratio_change_20": -0.31888888888888883
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3036A",
+    "name": "文曄甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.18,
+    "trust_ratio": -0.0874074074074074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.09259259259259259,
+    "three_inst_ratio_change_20": -0.2977777777777778
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3036A",
+    "name": "文曄甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.21,
+    "trust_ratio": -0.0874074074074074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.12259259259259259,
+    "three_inst_ratio_change_20": -0.24185185185185187
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3036A",
+    "name": "文曄甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": -0.0874074074074074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.15259259259259259,
+    "three_inst_ratio_change_20": -0.18962962962962962
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3036A",
+    "name": "文曄甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": -0.09111111111111111,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.14888888888888888,
+    "three_inst_ratio_change_20": -0.17111111111111107
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3036A",
+    "name": "文曄甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.27,
+    "trust_ratio": -0.13185185185185186,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13814814814814816,
+    "three_inst_ratio_change_20": -0.1374074074074074
   }
 ]

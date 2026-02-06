@@ -900,5 +900,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.878530201197222,
     "three_inst_ratio_change_20": -0.33319700364770455
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.64,
+    "trust_ratio": 0.1486943218647546,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.788694321864754,
+    "three_inst_ratio_change_20": -0.39303288298017236
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.65,
+    "trust_ratio": 0.11004168647285552,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.760041686472856,
+    "three_inst_ratio_change_20": -0.39168551837207044
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.65,
+    "trust_ratio": 0.07391330482083557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.723913304820836,
+    "three_inst_ratio_change_20": 4.723913304820836
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.65,
+    "trust_ratio": 0.07391330482083557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.723913304820836,
+    "three_inst_ratio_change_20": -0.4078139000240908
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.64,
+    "trust_ratio": 0.07391330482083557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.713913304820835,
+    "three_inst_ratio_change_20": -0.4078139000240917
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.61,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.677287138753653,
+    "three_inst_ratio_change_20": -0.45444006609127374
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.61,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.677287138753653,
+    "three_inst_ratio_change_20": -0.4532568221507054
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.61,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.677287138753653,
+    "three_inst_ratio_change_20": -0.4532568221507054
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.58,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.6472871387536525,
+    "three_inst_ratio_change_20": -0.5085238463884325
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.56,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.627287138753652,
+    "three_inst_ratio_change_20": -0.5053685292135839
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.53,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.597287138753653,
+    "three_inst_ratio_change_20": -0.4822132120387339
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.52,
+    "trust_ratio": 0.06728713875365287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.587287138753652,
+    "three_inst_ratio_change_20": -0.5014243827450224
   }
 ]

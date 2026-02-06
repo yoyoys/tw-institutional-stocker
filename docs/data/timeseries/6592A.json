@@ -416,5 +416,60 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": -0.05,
     "three_inst_ratio_change_20": 0.029999999999999985
+  },
+  {
+    "date": "2026-01-23",
+    "code": "6592A",
+    "name": "和潤企業甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.05,
+    "trust_ratio": -0.098,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.048,
+    "three_inst_ratio_change_20": 0.041999999999999996
+  },
+  {
+    "date": "2026-01-26",
+    "code": "6592A",
+    "name": "和潤企業甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.05,
+    "trust_ratio": -0.076,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.025999999999999995,
+    "three_inst_ratio_change_20": 0.066
+  },
+  {
+    "date": "2026-01-28",
+    "code": "6592A",
+    "name": "和潤企業甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.05,
+    "trust_ratio": -0.048,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0020000000000000018,
+    "three_inst_ratio_change_20": 0.11399999999999999
+  },
+  {
+    "date": "2026-01-29",
+    "code": "6592A",
+    "name": "和潤企業甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.05,
+    "trust_ratio": -0.024,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.026000000000000002,
+    "three_inst_ratio_change_20": 0.13999999999999999
+  },
+  {
+    "date": "2026-02-03",
+    "code": "6592A",
+    "name": "和潤企業甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.05,
+    "trust_ratio": -0.02,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.030000000000000002,
+    "three_inst_ratio_change_20": 0.15
   }
 ]

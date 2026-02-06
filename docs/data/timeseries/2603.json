@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.00338529295425,
     "three_inst_ratio_change_20": 0.36853061103827045
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.03,
+    "trust_ratio": 1.1556311374058275,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.185631137405828,
+    "three_inst_ratio_change_20": 0.4232280184795023
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.2,
+    "trust_ratio": 1.083540698422231,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.28354069842223,
+    "three_inst_ratio_change_20": 0.3527453717136204
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.11,
+    "trust_ratio": 1.0825962368093311,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.19259623680933,
+    "three_inst_ratio_change_20": 18.19259623680933
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.03,
+    "trust_ratio": 1.0527747043412528,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.082774704341254,
+    "three_inst_ratio_change_20": 0.0317014525100916
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 16.98,
+    "trust_ratio": 0.8953565834865295,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.87535658348653,
+    "three_inst_ratio_change_20": -0.24320361898254106
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.3,
+    "trust_ratio": 0.8464514115358474,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.14645141153585,
+    "three_inst_ratio_change_20": -0.1553419830744076
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.38,
+    "trust_ratio": 0.7828384023464446,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.162838402346445,
+    "three_inst_ratio_change_20": -0.17418614025529422
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.14,
+    "trust_ratio": 0.7509269344783026,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.890926934478305,
+    "three_inst_ratio_change_20": -0.6524647199385178
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.03,
+    "trust_ratio": 0.7440079032961616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.774007903296162,
+    "three_inst_ratio_change_20": -0.675176795371133
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.03,
+    "trust_ratio": 0.7331378651290305,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.763137865129032,
+    "three_inst_ratio_change_20": -0.6876643025153086
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.04,
+    "trust_ratio": 0.7173044613290441,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.757304461329042,
+    "three_inst_ratio_change_20": -1.1640349702874921
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 17.09,
+    "trust_ratio": 0.6934217023743579,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.78342170237436,
+    "three_inst_ratio_change_20": -0.9093701206661855
   }
 ]

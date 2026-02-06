@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.69229991892681,
     "three_inst_ratio_change_20": 0.9471656645377848
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 33.22,
+    "trust_ratio": 4.393032263684111,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.61303226368411,
+    "three_inst_ratio_change_20": 0.04799719023817062
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 33.16,
+    "trust_ratio": 4.539363013135529,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.699363013135525,
+    "three_inst_ratio_change_20": 1.3650830869057842
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 33.38,
+    "trust_ratio": 4.883122807001616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.26312280700162,
+    "three_inst_ratio_change_20": 38.26312280700162
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.87,
+    "trust_ratio": 5.182412820357813,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.052412820357816,
+    "three_inst_ratio_change_20": 1.4818705520533655
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.21,
+    "trust_ratio": 4.669667860554136,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.879667860554136,
+    "three_inst_ratio_change_20": 1.0418028111947635
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.27,
+    "trust_ratio": 4.653558053275081,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.92355805327508,
+    "three_inst_ratio_change_20": 1.285891143629165
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.43,
+    "trust_ratio": 4.526525510460031,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.95652551046003,
+    "three_inst_ratio_change_20": 1.674731968051276
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.94,
+    "trust_ratio": 3.6018057915930166,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.54180579159302,
+    "three_inst_ratio_change_20": 1.3369230307700377
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.93,
+    "trust_ratio": 3.623872871355472,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.55387287135547,
+    "three_inst_ratio_change_20": 1.4887990532356952
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.87,
+    "trust_ratio": 3.77582527230531,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.64582527230531,
+    "three_inst_ratio_change_20": 0.001201531810423262
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 31.68,
+    "trust_ratio": 3.8450471004575,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.5250471004575,
+    "three_inst_ratio_change_20": -0.7945416587445777
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 30.52,
+    "trust_ratio": 4.121011455357565,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 34.641011455357564,
+    "three_inst_ratio_change_20": -1.3112850741832531
   }
 ]

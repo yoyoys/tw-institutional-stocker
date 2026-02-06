@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.85231104392901,
     "three_inst_ratio_change_20": 0.13000000000000078
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.17,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.89231104392901,
+    "three_inst_ratio_change_20": 0.02999999999999936
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.22,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.94231104392901,
+    "three_inst_ratio_change_20": 0.10000000000000142
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.15,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.87231104392901,
+    "three_inst_ratio_change_20": 10.87231104392901
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.44,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.162311043929009,
+    "three_inst_ratio_change_20": 0.16999999999999993
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.04,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.762311043929008,
+    "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.02,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.742311043929009,
+    "three_inst_ratio_change_20": -0.41999999999999993
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.18,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.902311043929009,
+    "three_inst_ratio_change_20": -0.2599999999999998
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.24,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.96231104392901,
+    "three_inst_ratio_change_20": -0.03999999999999915
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.19,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.912311043929009,
+    "three_inst_ratio_change_20": 0.3699999999999992
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 10.94,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.662311043929009,
+    "three_inst_ratio_change_20": -0.2900000000000009
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.26,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.982311043929009,
+    "three_inst_ratio_change_20": -0.040000000000000924
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 10.72,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.44231104392901,
+    "three_inst_ratio_change_20": 0.2900000000000009
   }
 ]

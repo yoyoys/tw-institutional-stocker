@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.876414021765636,
     "three_inst_ratio_change_20": 0.3500000000000001
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.89,
+    "trust_ratio": 0.08641402176563603,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9764140217656359,
+    "three_inst_ratio_change_20": 0.33999999999999986
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 2.1,
+    "trust_ratio": 0.08641402176563603,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.186414021765636,
+    "three_inst_ratio_change_20": 0.8900000000000001
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.08641402176563603,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.106414021765636,
+    "three_inst_ratio_change_20": 2.106414021765636
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.12,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2660098988453852,
+    "three_inst_ratio_change_20": -0.0004041229202507157
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.08,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2260098988453851,
+    "three_inst_ratio_change_20": -0.30040412292025076
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.68,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.826009898845385,
+    "three_inst_ratio_change_20": 0.059595877079749116
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.76,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.906009898845385,
+    "three_inst_ratio_change_20": 0.22959587707974904
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2460098988453852,
+    "three_inst_ratio_change_20": -0.5604041229202508
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.84,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9860098988453851,
+    "three_inst_ratio_change_20": 0.969595877079749
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.366009898845385,
+    "three_inst_ratio_change_20": -0.030404122920250964
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 2.1,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.246009898845385,
+    "three_inst_ratio_change_20": 0.6695958770797492
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.52,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.666009898845385,
+    "three_inst_ratio_change_20": 0.3895958770797492
   }
 ]

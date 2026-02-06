@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.171637857142859,
     "three_inst_ratio_change_20": -0.13520408163265074
+  },
+  {
+    "date": "2026-01-21",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.76,
+    "trust_ratio": -0.6286682653061224,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.131331734693877,
+    "three_inst_ratio_change_20": -0.15551020408163296
+  },
+  {
+    "date": "2026-01-22",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.79,
+    "trust_ratio": -0.6286682653061224,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.161331734693876,
+    "three_inst_ratio_change_20": -0.15551020408163474
+  },
+  {
+    "date": "2026-01-23",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.79,
+    "trust_ratio": -0.6286682653061224,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.161331734693876,
+    "three_inst_ratio_change_20": 8.161331734693876
+  },
+  {
+    "date": "2026-01-26",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 9.06,
+    "trust_ratio": -0.6288723469387755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.431127653061225,
+    "three_inst_ratio_change_20": 0.27091836734693864
+  },
+  {
+    "date": "2026-01-27",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 9.0,
+    "trust_ratio": -0.6288723469387755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.371127653061224,
+    "three_inst_ratio_change_20": 0.08091836734693736
+  },
+  {
+    "date": "2026-01-28",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.93,
+    "trust_ratio": -0.6288723469387755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.301127653061224,
+    "three_inst_ratio_change_20": -0.23887755102040842
+  },
+  {
+    "date": "2026-01-29",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.92,
+    "trust_ratio": -0.6288723469387755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.291127653061224,
+    "three_inst_ratio_change_20": -0.33826530612244987
+  },
+  {
+    "date": "2026-01-30",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.7,
+    "trust_ratio": -0.6290764285714285,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.07092357142857,
+    "three_inst_ratio_change_20": -0.5305102040816347
+  },
+  {
+    "date": "2026-02-02",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.59,
+    "trust_ratio": -0.6294845918367347,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.960515408163265,
+    "three_inst_ratio_change_20": -0.6929591836734685
+  },
+  {
+    "date": "2026-02-03",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.56,
+    "trust_ratio": -0.6294845918367347,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.930515408163266,
+    "three_inst_ratio_change_20": -0.6029591836734687
+  },
+  {
+    "date": "2026-02-04",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.62,
+    "trust_ratio": -0.6297907142857143,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.990209285714285,
+    "three_inst_ratio_change_20": -0.3832653061224489
+  },
+  {
+    "date": "2026-02-05",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.71,
+    "trust_ratio": -0.6297907142857143,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.080209285714286,
+    "three_inst_ratio_change_20": -0.30326530612244795
   }
 ]

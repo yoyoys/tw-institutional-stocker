@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.3800748844804485,
     "three_inst_ratio_change_20": 0.05999999999999961
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.35,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.350074884480448,
+    "three_inst_ratio_change_20": 0.0699999999999994
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.33,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.330074884480449,
+    "three_inst_ratio_change_20": -0.05999999999999961
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.38,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.3800748844804485,
+    "three_inst_ratio_change_20": 4.3800748844804485
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.82,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.820074884480449,
+    "three_inst_ratio_change_20": 0.20999999999999996
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.61,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.610074884480449,
+    "three_inst_ratio_change_20": -0.04999999999999982
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.71,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.7100748844804485,
+    "three_inst_ratio_change_20": -0.05999999999999961
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.9,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.900074884480449,
+    "three_inst_ratio_change_20": 0.35000000000000053
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 5.24,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.240074884480449,
+    "three_inst_ratio_change_20": 0.71
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.33,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.330074884480449,
+    "three_inst_ratio_change_20": -0.2400000000000002
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.23,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.230074884480449,
+    "three_inst_ratio_change_20": -0.3899999999999997
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.14,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.140074884480448,
+    "three_inst_ratio_change_20": -0.7200000000000006
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.02,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.020074884480448,
+    "three_inst_ratio_change_20": -0.4500000000000002
   }
 ]

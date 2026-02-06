@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.88023476063519,
     "three_inst_ratio_change_20": 0.010557111703576538
+  },
+  {
+    "date": "2026-01-21",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.86,
+    "trust_ratio": 0.01978509928774362,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.879785099287744,
+    "three_inst_ratio_change_20": 0.040107450356131835
+  },
+  {
+    "date": "2026-01-22",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.93,
+    "trust_ratio": 0.0193354379402949,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.949335437940295,
+    "three_inst_ratio_change_20": 0.14965778900868187
+  },
+  {
+    "date": "2026-01-23",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.93,
+    "trust_ratio": 0.018885776592846182,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.948885776592846,
+    "three_inst_ratio_change_20": 17.948885776592846
+  },
+  {
+    "date": "2026-01-26",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.92,
+    "trust_ratio": 0.018436115245397466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.9384361152454,
+    "three_inst_ratio_change_20": 0.1187584663137855
+  },
+  {
+    "date": "2026-01-27",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.93,
+    "trust_ratio": 0.018436115245397466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.948436115245396,
+    "three_inst_ratio_change_20": 0.12875846631378352
+  },
+  {
+    "date": "2026-01-28",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.9,
+    "trust_ratio": 0.017986453897948746,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.917986453897946,
+    "three_inst_ratio_change_20": 0.08830880496633142
+  },
+  {
+    "date": "2026-01-29",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.89,
+    "trust_ratio": 0.017986453897948746,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.907986453897948,
+    "three_inst_ratio_change_20": 0.029208127661227934
+  },
+  {
+    "date": "2026-01-30",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.86,
+    "trust_ratio": 0.025181035457128242,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.885181035457126,
+    "three_inst_ratio_change_20": -0.06314762943214447
+  },
+  {
+    "date": "2026-02-02",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.87,
+    "trust_ratio": 0.024731374109679523,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.894731374109682,
+    "three_inst_ratio_change_20": -0.04359729077958718
+  },
+  {
+    "date": "2026-02-03",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.87,
+    "trust_ratio": 0.024281712762230807,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.894281712762233,
+    "three_inst_ratio_change_20": -0.012697968084690814
+  },
+  {
+    "date": "2026-02-04",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.85,
+    "trust_ratio": 0.023832051414782087,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.873832051414784,
+    "three_inst_ratio_change_20": 0.027302031915308334
+  },
+  {
+    "date": "2026-02-05",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 18.01,
+    "trust_ratio": 0.023832051414782087,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.033832051414784,
+    "three_inst_ratio_change_20": 0.22775169326275702
   }
 ]

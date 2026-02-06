@@ -856,5 +856,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.25,
     "three_inst_ratio_change_20": -0.09999999999999998
+  },
+  {
+    "date": "2026-01-21",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2,
+    "three_inst_ratio_change_20": -0.18
+  },
+  {
+    "date": "2026-01-22",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.19,
+    "three_inst_ratio_change_20": -0.10999999999999999
+  },
+  {
+    "date": "2026-01-23",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.18,
+    "three_inst_ratio_change_20": 0.18
+  },
+  {
+    "date": "2026-01-26",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-27",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.23,
+    "three_inst_ratio_change_20": -0.09
+  },
+  {
+    "date": "2026-01-28",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3,
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-01-29",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.16,
+    "three_inst_ratio_change_20": -0.18000000000000002
+  },
+  {
+    "date": "2026-01-30",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.16,
+    "three_inst_ratio_change_20": -0.18000000000000002
+  },
+  {
+    "date": "2026-02-02",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.16,
+    "three_inst_ratio_change_20": -0.11000000000000001
+  },
+  {
+    "date": "2026-02-03",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.15,
+    "three_inst_ratio_change_20": -0.1
+  },
+  {
+    "date": "2026-02-04",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.14,
+    "three_inst_ratio_change_20": -0.09
+  },
+  {
+    "date": "2026-02-05",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.1,
+    "three_inst_ratio_change_20": -0.13
   }
 ]

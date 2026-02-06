@@ -977,5 +977,137 @@
     "dealer_ratio": 0.06646621058669319,
     "three_inst_ratio": 50.3694258612405,
     "three_inst_ratio_change_20": -1.7008830758703226
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 50.06,
+    "trust_ratio": 0.22689271467652788,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 50.35335892526323,
+    "three_inst_ratio_change_20": -2.029109570107181
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 50.21,
+    "trust_ratio": 0.19516437347634746,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 50.47163058406304,
+    "three_inst_ratio_change_20": -1.9072784355890278
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 50.3,
+    "trust_ratio": 0.15415111485076002,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 50.520617325437456,
+    "three_inst_ratio_change_20": 50.520617325437456
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 50.47,
+    "trust_ratio": 0.14829513255290686,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 50.684761343139606,
+    "three_inst_ratio_change_20": -1.984761584736546
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 50.87,
+    "trust_ratio": 0.14391557604138053,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 51.080381786628074,
+    "three_inst_ratio_change_20": -1.9273850123285925
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 51.3,
+    "trust_ratio": 0.03873408589279489,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 51.405200296479485,
+    "three_inst_ratio_change_20": -1.5895513445255318
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 52.51,
+    "trust_ratio": 0.07840771546779782,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 52.65487392605449,
+    "three_inst_ratio_change_20": -0.36311884439002284
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 52.46,
+    "trust_ratio": 0.040022190749126156,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 52.566488401335825,
+    "three_inst_ratio_change_20": -0.15141579049151943
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 52.95,
+    "trust_ratio": 0.1871240229631277,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 53.203590233549825,
+    "three_inst_ratio_change_20": 0.6059033929292497
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 54.14,
+    "trust_ratio": 0.30123723218551435,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 54.50770344277221,
+    "three_inst_ratio_change_20": 2.4203853561469657
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 54.43,
+    "trust_ratio": 0.4445373517265398,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 54.941003562313234,
+    "three_inst_ratio_change_20": 3.1329612171438797
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 54.43,
+    "trust_ratio": 0.48486198949593257,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 54.98132820008263,
+    "three_inst_ratio_change_20": 3.22699047727523
   }
 ]

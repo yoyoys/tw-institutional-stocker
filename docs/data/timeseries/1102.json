@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.23146303638314,
     "three_inst_ratio_change_20": -0.2639066898726732
+  },
+  {
+    "date": "2026-01-21",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.22,
+    "trust_ratio": 3.8388789813762223,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.05887898137622,
+    "three_inst_ratio_change_20": -0.4282089298221621
+  },
+  {
+    "date": "2026-01-22",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.18,
+    "trust_ratio": 3.785237157902798,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.9652371579028,
+    "three_inst_ratio_change_20": -0.5204309503993834
+  },
+  {
+    "date": "2026-01-23",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.1,
+    "trust_ratio": 3.7683600004948006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.868360000494803,
+    "three_inst_ratio_change_20": 20.868360000494803
+  },
+  {
+    "date": "2026-01-26",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.2,
+    "trust_ratio": 3.744532479924751,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.94453247992475,
+    "three_inst_ratio_change_20": -0.49405305175809033
+  },
+  {
+    "date": "2026-01-27",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.17,
+    "trust_ratio": 3.6747833711960625,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.844783371196066,
+    "three_inst_ratio_change_20": -0.6317988162155999
+  },
+  {
+    "date": "2026-01-28",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.11,
+    "trust_ratio": 3.610929575958645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.720929575958642,
+    "three_inst_ratio_change_20": -0.8781131355837957
+  },
+  {
+    "date": "2026-01-29",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.11,
+    "trust_ratio": 3.5372799019603796,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.647279901960378,
+    "three_inst_ratio_change_20": -0.9525358607958658
+  },
+  {
+    "date": "2026-01-30",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.99,
+    "trust_ratio": 3.534655812014066,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.524655812014064,
+    "three_inst_ratio_change_20": -1.1930328333067557
+  },
+  {
+    "date": "2026-02-02",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.84,
+    "trust_ratio": 3.532836360275435,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.372836360275436,
+    "three_inst_ratio_change_20": -1.4745869797479543
+  },
+  {
+    "date": "2026-02-03",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.77,
+    "trust_ratio": 3.530755556903941,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.30075555690394,
+    "three_inst_ratio_change_20": -1.4405448771063263
+  },
+  {
+    "date": "2026-02-04",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.73,
+    "trust_ratio": 3.515614136378822,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.245614136378823,
+    "three_inst_ratio_change_20": -1.359892966381043
+  },
+  {
+    "date": "2026-02-05",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.73,
+    "trust_ratio": 3.507512884275292,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.237512884275294,
+    "three_inst_ratio_change_20": -1.3950073547645623
   }
 ]

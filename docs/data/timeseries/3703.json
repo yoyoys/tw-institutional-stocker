@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.38000170064726,
     "three_inst_ratio_change_20": -0.010000000000001563
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.39,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.39000170064726,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.41,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.41000170064726,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.4,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.40000170064726,
+    "three_inst_ratio_change_20": 21.40000170064726
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.42,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.420001700647262,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.4,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.40000170064726,
+    "three_inst_ratio_change_20": 0.03999999999999915
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.36,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.36000170064726,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.37,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.37000170064726,
+    "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.32,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.32000170064726,
+    "three_inst_ratio_change_20": 0.03999999999999915
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.34,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.34000170064726,
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.32,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.32000170064726,
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.35,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.35000170064726,
+    "three_inst_ratio_change_20": 0.13000000000000256
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.37,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.37000170064726,
+    "three_inst_ratio_change_20": 0.13000000000000256
   }
 ]

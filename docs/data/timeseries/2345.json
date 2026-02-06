@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.364925346357296,
     "three_inst_ratio_change_20": 0.0916929845850234
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.16,
+    "trust_ratio": 2.2687130579975068,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.428713057997506,
+    "three_inst_ratio_change_20": 0.1862134815671368
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.05,
+    "trust_ratio": 2.1883917917520996,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.23839179175209,
+    "three_inst_ratio_change_20": -0.026781019675809148
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.14,
+    "trust_ratio": 2.1333179825486837,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.27331798254868,
+    "three_inst_ratio_change_20": 60.27331798254868
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.13,
+    "trust_ratio": 2.0398604395254214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.16986043952542,
+    "three_inst_ratio_change_20": -0.20748971683574524
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.19,
+    "trust_ratio": 2.03504861652987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.22504861652987,
+    "three_inst_ratio_change_20": -0.14697499251213486
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.19,
+    "trust_ratio": 1.971919459200568,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.16191945920057,
+    "three_inst_ratio_change_20": -0.17919313965492734
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.32,
+    "trust_ratio": 1.91538410331617,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.23538410331617,
+    "three_inst_ratio_change_20": -0.18763572212347412
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.18,
+    "trust_ratio": 1.8365666208647058,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.01656662086471,
+    "three_inst_ratio_change_20": -0.15303223324205817
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.29,
+    "trust_ratio": 1.8750612048291162,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.165061204829115,
+    "three_inst_ratio_change_20": -0.11605095422575573
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.29,
+    "trust_ratio": 1.9171174288885675,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.207117428888566,
+    "three_inst_ratio_change_20": -0.22735206932813412
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.26,
+    "trust_ratio": 1.9075472475974151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.16754724759741,
+    "three_inst_ratio_change_20": -0.18101261911808564
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 58.06,
+    "trust_ratio": 1.875553971146994,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 59.935553971146994,
+    "three_inst_ratio_change_20": -0.6764390421679991
   }
 ]

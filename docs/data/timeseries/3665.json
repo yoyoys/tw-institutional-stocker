@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.509901563865064,
     "three_inst_ratio_change_20": -2.4538187751450735
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.34,
+    "trust_ratio": 1.4025576815149523,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.74255768151495,
+    "three_inst_ratio_change_20": -2.1076106408938102
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.46,
+    "trust_ratio": 1.2581859552913033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.718185955291304,
+    "three_inst_ratio_change_20": -2.2717856082675283
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.48,
+    "trust_ratio": 1.0903930114344829,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.57039301143448,
+    "three_inst_ratio_change_20": 48.57039301143448
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.57,
+    "trust_ratio": 1.1233616102991906,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.69336161029919,
+    "three_inst_ratio_change_20": -2.019923631261051
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.46,
+    "trust_ratio": 0.9377302875886312,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.39773028758863,
+    "three_inst_ratio_change_20": -2.1397675334596613
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.46,
+    "trust_ratio": 0.9994998180641053,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.4594998180641,
+    "three_inst_ratio_change_20": -1.987269933580258
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.72,
+    "trust_ratio": 0.8906692611649815,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.61066926116498,
+    "three_inst_ratio_change_20": -1.816973614706896
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 48.11,
+    "trust_ratio": 0.4014699842892761,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.51146998428928,
+    "three_inst_ratio_change_20": -1.6113489652131747
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 48.31,
+    "trust_ratio": 0.48343341955654656,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.79343341955655,
+    "three_inst_ratio_change_20": -1.528477169236261
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 48.53,
+    "trust_ratio": 0.6079288168207133,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 49.13792881682071,
+    "three_inst_ratio_change_20": -1.0764463841774727
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 48.15,
+    "trust_ratio": 0.37902675586698154,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.52902675586698,
+    "three_inst_ratio_change_20": -0.7776180235008212
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 48.27,
+    "trust_ratio": -0.03468639541222529,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.23531360458778,
+    "three_inst_ratio_change_20": -0.8385663802056982
   }
 ]

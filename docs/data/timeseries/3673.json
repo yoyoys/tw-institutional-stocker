@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.85926228980734,
     "three_inst_ratio_change_20": 1.5799999999999983
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.99,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.98926228980734,
+    "three_inst_ratio_change_20": 1.75
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.97,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.96926228980734,
+    "three_inst_ratio_change_20": 1.6899999999999977
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.99,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.98926228980734,
+    "three_inst_ratio_change_20": 42.98926228980734
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.01,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.00926228980734,
+    "three_inst_ratio_change_20": 1.8099999999999952
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.85,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.84926228980734,
+    "three_inst_ratio_change_20": 1.5399999999999991
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.78,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.77926228980734,
+    "three_inst_ratio_change_20": 1.3999999999999986
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.57,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.56926228980734,
+    "three_inst_ratio_change_20": 1.3500000000000014
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.37,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.36926228980734,
+    "three_inst_ratio_change_20": 1.1099999999999994
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.31,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.30926228980734,
+    "three_inst_ratio_change_20": 1.0100000000000051
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.3,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.29926228980734,
+    "three_inst_ratio_change_20": 0.8900000000000006
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.3,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.29926228980734,
+    "three_inst_ratio_change_20": 0.6699999999999946
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.22,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.21926228980734,
+    "three_inst_ratio_change_20": 0.5799999999999983
   }
 ]

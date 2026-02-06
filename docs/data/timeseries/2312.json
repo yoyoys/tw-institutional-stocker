@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.616290461213932,
     "three_inst_ratio_change_20": 1.7699228629217316
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.62,
+    "trust_ratio": 3.2162904612139323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.836290461213931,
+    "three_inst_ratio_change_20": 2.379922862921731
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.52,
+    "trust_ratio": 3.2162904612139323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.736290461213931,
+    "three_inst_ratio_change_20": 2.8605209334620394
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.76,
+    "trust_ratio": 3.1996773906498106,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.95967739064981,
+    "three_inst_ratio_change_20": 11.95967739064981
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.99,
+    "trust_ratio": 2.8219626183039432,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.811962618303944,
+    "three_inst_ratio_change_20": 2.916193090552053
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.83,
+    "trust_ratio": 2.7153731575645392,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.545373157564539,
+    "three_inst_ratio_change_20": 2.579603629812647
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.89,
+    "trust_ratio": 2.6872638421700454,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.577263842170046,
+    "three_inst_ratio_change_20": 2.741494314418155
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 9.0,
+    "trust_ratio": 2.6604171201384252,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.660417120138426,
+    "three_inst_ratio_change_20": 2.884647592386534
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 9.01,
+    "trust_ratio": 2.6346336346229084,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.644633634622908,
+    "three_inst_ratio_change_20": 2.3788641068710152
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 9.03,
+    "trust_ratio": 2.5992145681802015,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.6292145681802,
+    "three_inst_ratio_change_20": 2.203445040428308
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.83,
+    "trust_ratio": 2.6794889251460368,
+    "dealer_ratio": -0.04146622412804739,
+    "three_inst_ratio": 11.46802270101799,
+    "three_inst_ratio_change_20": 1.8922531732660985
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.38,
+    "trust_ratio": 2.6794889251460368,
+    "dealer_ratio": -0.04146622412804739,
+    "three_inst_ratio": 11.01802270101799,
+    "three_inst_ratio_change_20": 0.8022531732660987
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 7.97,
+    "trust_ratio": 2.6794889251460368,
+    "dealer_ratio": -0.04146622412804739,
+    "three_inst_ratio": 10.608022701017989,
+    "three_inst_ratio_change_20": 1.0498994596439974
   }
 ]

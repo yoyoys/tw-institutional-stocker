@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-02-03",
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "foreign_ratio": 0.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.01,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-04",
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.03,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-05",
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.03,
+    "three_inst_ratio_change_20": 0.0
+  }
+]

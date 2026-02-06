@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.03,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-01-21",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.05,
+    "three_inst_ratio_change_20": 0.07000000000000006
+  },
+  {
+    "date": "2026-01-22",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.06,
+    "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-01-23",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.06,
+    "three_inst_ratio_change_20": 1.06
+  },
+  {
+    "date": "2026-01-26",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.07,
+    "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-01-27",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.08,
+    "three_inst_ratio_change_20": 0.09000000000000008
+  },
+  {
+    "date": "2026-01-28",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1,
+    "three_inst_ratio_change_20": 0.1100000000000001
+  },
+  {
+    "date": "2026-01-29",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1,
+    "three_inst_ratio_change_20": 0.10000000000000009
+  },
+  {
+    "date": "2026-01-30",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1,
+    "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-02-02",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": 0.16000000000000003
+  },
+  {
+    "date": "2026-02-03",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.07,
+    "three_inst_ratio_change_20": 0.1200000000000001
+  },
+  {
+    "date": "2026-02-04",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": 0.10000000000000009
+  },
+  {
+    "date": "2026-02-05",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": 0.1200000000000001
   }
 ]

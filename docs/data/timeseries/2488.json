@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.46,
     "three_inst_ratio_change_20": 0.03000000000000025
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.47,
+    "three_inst_ratio_change_20": -0.010000000000000675
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.53,
+    "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.52,
+    "three_inst_ratio_change_20": 5.52
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.56,
+    "three_inst_ratio_change_20": -0.05000000000000071
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.58,
+    "three_inst_ratio_change_20": -0.04999999999999982
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.54,
+    "three_inst_ratio_change_20": -0.15000000000000036
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.49,
+    "three_inst_ratio_change_20": -0.34999999999999964
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.43,
+    "three_inst_ratio_change_20": -0.4500000000000002
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.34,
+    "three_inst_ratio_change_20": -0.16000000000000014
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.31,
+    "three_inst_ratio_change_20": -0.1900000000000004
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.34,
+    "three_inst_ratio_change_20": -0.1900000000000004
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.37,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

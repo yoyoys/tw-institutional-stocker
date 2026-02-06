@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.225628880497425,
     "three_inst_ratio_change_20": -1.7133470168710687
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 41.33,
+    "trust_ratio": 0.6747051717674282,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.00470517176743,
+    "three_inst_ratio_change_20": -1.8642707256010667
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 41.12,
+    "trust_ratio": 0.6973958999424386,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.81739589994243,
+    "three_inst_ratio_change_20": -2.021579997426066
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.91,
+    "trust_ratio": 0.7146408533554466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.624640853355444,
+    "three_inst_ratio_change_20": 41.624640853355444
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.72,
+    "trust_ratio": 0.7146408533554466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.43464085335545,
+    "three_inst_ratio_change_20": -2.324666782458962
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.41,
+    "trust_ratio": 0.7146408533554466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.124640853355444,
+    "three_inst_ratio_change_20": -2.5946667824589653
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.36,
+    "trust_ratio": 0.7146408533554466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.07464085335545,
+    "three_inst_ratio_change_20": -2.6046667824589633
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.26,
+    "trust_ratio": 0.7146408533554466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.974640853355446,
+    "three_inst_ratio_change_20": -2.8342129678954677
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.16,
+    "trust_ratio": 0.7146408533554466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.874640853355444,
+    "three_inst_ratio_change_20": -2.9428354446019753
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.1,
+    "trust_ratio": 0.7137332242284461,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.81373322422845,
+    "three_inst_ratio_change_20": -2.8828193649989657
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.1,
+    "trust_ratio": 0.7187251844269484,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.81872518442695,
+    "three_inst_ratio_change_20": -2.368281219363972
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 40.15,
+    "trust_ratio": 0.7005726018869401,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.85057260188694,
+    "three_inst_ratio_change_20": -2.286433801903982
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 39.88,
+    "trust_ratio": 0.7005726018869401,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.58057260188694,
+    "three_inst_ratio_change_20": -2.246433801903983
   }
 ]

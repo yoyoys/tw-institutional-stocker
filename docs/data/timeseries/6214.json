@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.132521354281252,
     "three_inst_ratio_change_20": -1.777824968441987
+  },
+  {
+    "date": "2026-01-21",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.28,
+    "trust_ratio": -0.167478645718749,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.11252135428125,
+    "three_inst_ratio_change_20": -1.8278249684419876
+  },
+  {
+    "date": "2026-01-22",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.31,
+    "trust_ratio": -0.167478645718749,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.142521354281252,
+    "three_inst_ratio_change_20": -1.7264380852219752
+  },
+  {
+    "date": "2026-01-23",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.34,
+    "trust_ratio": -0.16790657213653332,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.172093427863466,
+    "three_inst_ratio_change_20": 10.172093427863466
+  },
+  {
+    "date": "2026-01-26",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.4,
+    "trust_ratio": -0.1691914533463269,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.230808546653673,
+    "three_inst_ratio_change_20": -1.4581508928495541
+  },
+  {
+    "date": "2026-01-27",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.4,
+    "trust_ratio": -0.1695587721598757,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.230441227840124,
+    "three_inst_ratio_change_20": -1.1291327065792007
+  },
+  {
+    "date": "2026-01-28",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.33,
+    "trust_ratio": -0.1695587721598757,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.160441227840124,
+    "three_inst_ratio_change_20": -1.0693798826817495
+  },
+  {
+    "date": "2026-01-29",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.26,
+    "trust_ratio": -0.1695587721598757,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.090441227840124,
+    "three_inst_ratio_change_20": -1.0070025658614945
+  },
+  {
+    "date": "2026-01-30",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.23,
+    "trust_ratio": -0.17035438471002234,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.059645615289979,
+    "three_inst_ratio_change_20": -0.866675284798621
+  },
+  {
+    "date": "2026-02-02",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.16,
+    "trust_ratio": -0.17035438471002234,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.989645615289978,
+    "three_inst_ratio_change_20": -0.6666752847986217
+  },
+  {
+    "date": "2026-02-03",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.23,
+    "trust_ratio": -0.17035438471002234,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.059645615289979,
+    "three_inst_ratio_change_20": -0.4262451544679564
+  },
+  {
+    "date": "2026-02-04",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.19,
+    "trust_ratio": -0.17035438471002234,
+    "dealer_ratio": -0.00036731881354877186,
+    "three_inst_ratio": 10.019278296476429,
+    "three_inst_ratio_change_20": -0.36661247328150637
+  },
+  {
+    "date": "2026-02-05",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.15,
+    "trust_ratio": -0.1707826784466202,
+    "dealer_ratio": -0.00036731881354877186,
+    "three_inst_ratio": 9.978850002739831,
+    "three_inst_ratio_change_20": -0.2970407670181032
   }
 ]

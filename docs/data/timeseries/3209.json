@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.794109192687192,
     "three_inst_ratio_change_20": 0.8147474307435472
+  },
+  {
+    "date": "2026-01-21",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 5.84,
+    "trust_ratio": 0.08284211197371207,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.922842111973712,
+    "three_inst_ratio_change_20": 0.944119003019142
+  },
+  {
+    "date": "2026-01-22",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 5.89,
+    "trust_ratio": 0.0815754573129263,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.971575457312926,
+    "three_inst_ratio_change_20": 1.034768307325578
+  },
+  {
+    "date": "2026-01-23",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 5.99,
+    "trust_ratio": 0.07849040975196102,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.068490409751961,
+    "three_inst_ratio_change_20": 6.068490409751961
+  },
+  {
+    "date": "2026-01-26",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 5.96,
+    "trust_ratio": 0.06859917039615798,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.028599170396158,
+    "three_inst_ratio_change_20": 1.0817920204088107
+  },
+  {
+    "date": "2026-01-27",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.02,
+    "trust_ratio": 0.06543317282323532,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.085433172823235,
+    "three_inst_ratio_change_20": 1.1101049689456364
+  },
+  {
+    "date": "2026-01-28",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.07,
+    "trust_ratio": 0.06416694421514407,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.134166944215145,
+    "three_inst_ratio_change_20": 1.1703176864472953
+  },
+  {
+    "date": "2026-01-29",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.09,
+    "trust_ratio": 0.06290028955435831,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.152900289554358,
+    "three_inst_ratio_change_20": 1.1405367947393703
+  },
+  {
+    "date": "2026-01-30",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.09,
+    "trust_ratio": 0.058516633380518816,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.148516633380519,
+    "three_inst_ratio_change_20": 1.1087107328906898
+  },
+  {
+    "date": "2026-02-02",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.11,
+    "trust_ratio": 0.05658704072707153,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.166587040727072,
+    "three_inst_ratio_change_20": 1.1874197932263177
+  },
+  {
+    "date": "2026-02-03",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.18,
+    "trust_ratio": 0.05532081211898028,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.23532081211898,
+    "three_inst_ratio_change_20": 1.1912078277332272
+  },
+  {
+    "date": "2026-02-04",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.53,
+    "trust_ratio": 0.05532081211898028,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.58532081211898,
+    "three_inst_ratio_change_20": 1.4544002405732108
+  },
+  {
+    "date": "2026-02-05",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 6.69,
+    "trust_ratio": 0.052235338505320486,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.742235338505321,
+    "three_inst_ratio_change_20": 1.663869378915848
   }
 ]

@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.67,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-21",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.69,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-22",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8,
+    "three_inst_ratio_change_20": 0.15000000000000013
+  },
+  {
+    "date": "2026-01-23",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.79,
+    "three_inst_ratio_change_20": 1.79
+  },
+  {
+    "date": "2026-01-26",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9,
+    "three_inst_ratio_change_20": 0.2999999999999998
+  },
+  {
+    "date": "2026-01-27",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.78,
+    "three_inst_ratio_change_20": 0.13000000000000012
+  },
+  {
+    "date": "2026-01-28",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.64,
+    "three_inst_ratio_change_20": -0.13000000000000012
+  },
+  {
+    "date": "2026-01-29",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.61,
+    "three_inst_ratio_change_20": -0.25
+  },
+  {
+    "date": "2026-01-30",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6,
+    "three_inst_ratio_change_20": -0.06999999999999984
+  },
+  {
+    "date": "2026-02-02",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.63,
+    "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-02-03",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.65,
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-02-04",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.67,
+    "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-02-05",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 1.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.71,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.311453682532715,
     "three_inst_ratio_change_20": 0.535711335504196
+  },
+  {
+    "date": "2026-01-21",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 26.56,
+    "trust_ratio": 5.4923119478729,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.0523119478729,
+    "three_inst_ratio_change_20": 0.201115428255914
+  },
+  {
+    "date": "2026-01-22",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 26.97,
+    "trust_ratio": 5.440355810939111,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.41035581093911,
+    "three_inst_ratio_change_20": 0.5024975894745154
+  },
+  {
+    "date": "2026-01-23",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 26.73,
+    "trust_ratio": 5.718593229620407,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.44859322962041,
+    "three_inst_ratio_change_20": 32.44859322962041
+  },
+  {
+    "date": "2026-01-26",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 26.65,
+    "trust_ratio": 5.277649699063902,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.9276496990639,
+    "three_inst_ratio_change_20": -0.18488429840012088
+  },
+  {
+    "date": "2026-01-27",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 27.81,
+    "trust_ratio": 5.219540861703742,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.029540861703744,
+    "three_inst_ratio_change_20": 1.1676904976204305
+  },
+  {
+    "date": "2026-01-28",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 27.83,
+    "trust_ratio": 5.280384232586733,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.11038423258673,
+    "three_inst_ratio_change_20": 0.4219466389417761
+  },
+  {
+    "date": "2026-01-29",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 28.18,
+    "trust_ratio": 5.300893234007966,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.480893234007965,
+    "three_inst_ratio_change_20": 1.1559983593892653
+  },
+  {
+    "date": "2026-01-30",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 28.21,
+    "trust_ratio": 5.112894054313332,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.32289405431333,
+    "three_inst_ratio_change_20": 1.1472952553915547
+  },
+  {
+    "date": "2026-02-02",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 28.64,
+    "trust_ratio": 5.056836117095296,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.696836117095295,
+    "three_inst_ratio_change_20": 1.7048301170365292
+  },
+  {
+    "date": "2026-02-03",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 28.89,
+    "trust_ratio": 5.062305184140959,
+    "dealer_ratio": -0.33566398992750984,
+    "three_inst_ratio": 33.61664119421345,
+    "three_inst_ratio_change_20": 1.2075429923702288
+  },
+  {
+    "date": "2026-02-04",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 28.79,
+    "trust_ratio": 4.827135301177489,
+    "dealer_ratio": -0.33566398992750984,
+    "three_inst_ratio": 33.28147131124998,
+    "three_inst_ratio_change_20": 0.5916096072749113
+  },
+  {
+    "date": "2026-02-05",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 28.97,
+    "trust_ratio": 4.771077363959453,
+    "dealer_ratio": -0.33566398992750984,
+    "three_inst_ratio": 33.40541337403194,
+    "three_inst_ratio_change_20": 0.3971734375288989
   }
 ]

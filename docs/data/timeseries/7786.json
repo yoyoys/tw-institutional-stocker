@@ -493,5 +493,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1104053598007553,
     "three_inst_ratio_change_20": 0.4235451729058526
+  },
+  {
+    "date": "2026-01-21",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.058735830209062374,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0987358302090624,
+    "three_inst_ratio_change_20": 0.3718756433141598
+  },
+  {
+    "date": "2026-01-22",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.05,
+    "trust_ratio": 0.04219855762592831,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0921985576259283,
+    "three_inst_ratio_change_20": 0.3553383707310257
+  },
+  {
+    "date": "2026-01-23",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.05,
+    "trust_ratio": 0.04219855762592831,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0921985576259283,
+    "three_inst_ratio_change_20": 1.0921985576259283
+  },
+  {
+    "date": "2026-01-26",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.11,
+    "trust_ratio": 0.04219855762592831,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1521985576259284,
+    "three_inst_ratio_change_20": 0.41735485982882314
+  },
+  {
+    "date": "2026-01-27",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1679835109022025,
+    "three_inst_ratio_change_20": 0.4331398131050973
+  },
+  {
+    "date": "2026-01-28",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1679835109022025,
+    "three_inst_ratio_change_20": 0.4331398131050973
+  },
+  {
+    "date": "2026-01-29",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.14,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1479835109022025,
+    "three_inst_ratio_change_20": 0.36313981310509724
+  },
+  {
+    "date": "2026-01-30",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.02,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0279835109022026,
+    "three_inst_ratio_change_20": 0.22313981310509734
+  },
+  {
+    "date": "2026-02-02",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9779835109022026,
+    "three_inst_ratio_change_20": 0.21313981310509733
+  },
+  {
+    "date": "2026-02-03",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 0.96,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9679835109022026,
+    "three_inst_ratio_change_20": 0.15313981310509728
+  },
+  {
+    "date": "2026-02-04",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9779835109022026,
+    "three_inst_ratio_change_20": 0.13313981310509737
+  },
+  {
+    "date": "2026-02-05",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9779835109022026,
+    "three_inst_ratio_change_20": -0.03686018689490278
   }
 ]

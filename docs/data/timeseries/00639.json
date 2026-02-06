@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.8811144589273887,
     "three_inst_ratio_change_20": 0.10823502921231909
+  },
+  {
+    "date": "2026-01-21",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.7,
+    "trust_ratio": 0.29324868221373435,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9932486822137343,
+    "three_inst_ratio_change_20": 0.07036925249866477
+  },
+  {
+    "date": "2026-01-22",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.57,
+    "trust_ratio": 0.29432757187111397,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.864327571871114,
+    "three_inst_ratio_change_20": -0.018551857843955633
+  },
+  {
+    "date": "2026-01-23",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.53,
+    "trust_ratio": 0.29432757187111397,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.824327571871114,
+    "three_inst_ratio_change_20": 1.824327571871114
+  },
+  {
+    "date": "2026-01-26",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.15,
+    "trust_ratio": 0.29432757187111397,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.444327571871114,
+    "three_inst_ratio_change_20": -0.5685518578439557
+  },
+  {
+    "date": "2026-01-27",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.14,
+    "trust_ratio": 0.2954144295178098,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4354144295178097,
+    "three_inst_ratio_change_20": -0.438468809306062
+  },
+  {
+    "date": "2026-01-28",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 0.93,
+    "trust_ratio": 0.29650934375069493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.226509343750695,
+    "three_inst_ratio_change_20": -0.6573738950731767
+  },
+  {
+    "date": "2026-01-29",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.29650934375069493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2165093437506949,
+    "three_inst_ratio_change_20": -0.6683848536667394
+  },
+  {
+    "date": "2026-01-30",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.29650934375069493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.336509343750695,
+    "three_inst_ratio_change_20": -0.5583848536667393
+  },
+  {
+    "date": "2026-02-02",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.18,
+    "trust_ratio": 0.29650934375069493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4765093437506949,
+    "three_inst_ratio_change_20": -0.4183848536667394
+  },
+  {
+    "date": "2026-02-03",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.27,
+    "trust_ratio": 0.2976124044850189,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5676124044850188,
+    "three_inst_ratio_change_20": -0.34829997766547116
+  },
+  {
+    "date": "2026-02-04",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.2987237029790221,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6387237029790223,
+    "three_inst_ratio_change_20": -0.26718867917146794
+  },
+  {
+    "date": "2026-02-05",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.2987237029790221,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6387237029790223,
+    "three_inst_ratio_change_20": -0.26718867917146794
   }
 ]

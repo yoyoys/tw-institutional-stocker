@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.5,
     "three_inst_ratio_change_20": 0.10999999999999943
+  },
+  {
+    "date": "2026-01-21",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.48,
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-01-22",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.55,
+    "three_inst_ratio_change_20": 0.13000000000000078
+  },
+  {
+    "date": "2026-01-23",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.53,
+    "three_inst_ratio_change_20": 9.53
+  },
+  {
+    "date": "2026-01-26",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.52,
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-01-27",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.56,
+    "three_inst_ratio_change_20": 0.09999999999999964
+  },
+  {
+    "date": "2026-01-28",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.55,
+    "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-01-29",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.31,
+    "three_inst_ratio_change_20": -0.2599999999999998
+  },
+  {
+    "date": "2026-01-30",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.28,
+    "three_inst_ratio_change_20": -0.39000000000000057
+  },
+  {
+    "date": "2026-02-02",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.21,
+    "three_inst_ratio_change_20": -0.29999999999999893
+  },
+  {
+    "date": "2026-02-03",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.26,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.26,
+    "three_inst_ratio_change_20": -0.27999999999999936
+  },
+  {
+    "date": "2026-02-04",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.49,
+    "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-02-05",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.43,
+    "three_inst_ratio_change_20": 0.009999999999999787
   }
 ]

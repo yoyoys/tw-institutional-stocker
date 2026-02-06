@@ -955,5 +955,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
     "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
+    "date": "2026-01-21",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.46,
+    "three_inst_ratio_change_20": -0.16999999999999993
+  },
+  {
+    "date": "2026-01-22",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.35,
+    "three_inst_ratio_change_20": -0.2799999999999998
+  },
+  {
+    "date": "2026-01-23",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.25,
+    "three_inst_ratio_change_20": 2.25
+  },
+  {
+    "date": "2026-01-26",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.22,
+    "three_inst_ratio_change_20": -0.4099999999999997
+  },
+  {
+    "date": "2026-01-27",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.21,
+    "three_inst_ratio_change_20": -0.41999999999999993
+  },
+  {
+    "date": "2026-01-28",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.23,
+    "three_inst_ratio_change_20": -0.3999999999999999
+  },
+  {
+    "date": "2026-01-29",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.19,
+    "three_inst_ratio_change_20": -0.43999999999999995
+  },
+  {
+    "date": "2026-01-30",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.18,
+    "three_inst_ratio_change_20": -0.43999999999999995
+  },
+  {
+    "date": "2026-02-02",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.16,
+    "three_inst_ratio_change_20": -0.4099999999999997
+  },
+  {
+    "date": "2026-02-03",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.16,
+    "three_inst_ratio_change_20": -0.4299999999999997
+  },
+  {
+    "date": "2026-02-04",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.17,
+    "three_inst_ratio_change_20": -0.43000000000000016
+  },
+  {
+    "date": "2026-02-05",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.17,
+    "three_inst_ratio_change_20": -0.43999999999999995
   }
 ]

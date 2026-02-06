@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.38377994725607,
     "three_inst_ratio_change_20": -0.200639218987817
+  },
+  {
+    "date": "2026-01-21",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.29,
+    "trust_ratio": 0.053779947256069646,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.34377994725607,
+    "three_inst_ratio_change_20": -0.2306392189878146
+  },
+  {
+    "date": "2026-01-22",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.33,
+    "trust_ratio": 0.053779947256069646,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.38377994725607,
+    "three_inst_ratio_change_20": -0.12063921898781516
+  },
+  {
+    "date": "2026-01-23",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.48,
+    "trust_ratio": 0.053779947256069646,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.533779947256072,
+    "three_inst_ratio_change_20": 23.533779947256072
+  },
+  {
+    "date": "2026-01-26",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.22,
+    "trust_ratio": 0.053779947256069646,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.27377994725607,
+    "three_inst_ratio_change_20": -0.09063921898781402
+  },
+  {
+    "date": "2026-01-27",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.25,
+    "trust_ratio": 0.06453593670728358,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.314535936707284,
+    "three_inst_ratio_change_20": 0.2901167704633991
+  },
+  {
+    "date": "2026-01-28",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.31,
+    "trust_ratio": 0.06453593670728358,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.374535936707282,
+    "three_inst_ratio_change_20": 0.35011677046339784
+  },
+  {
+    "date": "2026-01-29",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.24,
+    "trust_ratio": 0.0752919261584975,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.315291926158498,
+    "three_inst_ratio_change_20": 0.42087275991461226
+  },
+  {
+    "date": "2026-01-30",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.15,
+    "trust_ratio": 0.0752919261584975,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.225291926158498,
+    "three_inst_ratio_change_20": 0.43087275991461027
+  },
+  {
+    "date": "2026-02-02",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.17,
+    "trust_ratio": 0.08604791560971144,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.256047915609713,
+    "three_inst_ratio_change_20": 0.26162874936582625
+  },
+  {
+    "date": "2026-02-03",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.55,
+    "trust_ratio": 0.08604791560971144,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.636047915609712,
+    "three_inst_ratio_change_20": 0.7016287493658275
+  },
+  {
+    "date": "2026-02-04",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.34,
+    "trust_ratio": 0.08604791560971144,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.42604791560971,
+    "three_inst_ratio_change_20": 0.46162874936582554
+  },
+  {
+    "date": "2026-02-05",
+    "code": "7749",
+    "name": "意騰-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.36,
+    "trust_ratio": 0.08604791560971144,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.44604791560971,
+    "three_inst_ratio_change_20": 0.3116287493658234
   }
 ]

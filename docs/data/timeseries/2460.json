@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.66,
     "three_inst_ratio_change_20": -0.029999999999999916
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.75,
+    "three_inst_ratio_change_20": 0.06000000000000005
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.74,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.69,
+    "three_inst_ratio_change_20": 0.69
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.69,
+    "three_inst_ratio_change_20": -0.050000000000000044
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.64,
+    "three_inst_ratio_change_20": -0.05999999999999994
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.68,
+    "three_inst_ratio_change_20": -0.04999999999999993
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7,
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.73,
+    "three_inst_ratio_change_20": -0.09999999999999998
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7,
+    "three_inst_ratio_change_20": -0.09000000000000008
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.65,
+    "three_inst_ratio_change_20": -0.10999999999999999
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7,
+    "three_inst_ratio_change_20": -0.09000000000000008
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.68,
+    "three_inst_ratio_change_20": -0.019999999999999907
   }
 ]

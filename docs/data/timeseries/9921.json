@@ -977,5 +977,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.464852908459026,
     "three_inst_ratio_change_20": -0.10432777809441873
+  },
+  {
+    "date": "2026-01-21",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.54,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.554852908459026,
+    "three_inst_ratio_change_20": 0.09567222190558056
+  },
+  {
+    "date": "2026-01-22",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.73,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.744852908459027,
+    "three_inst_ratio_change_20": 0.41567222190558084
+  },
+  {
+    "date": "2026-01-23",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.75,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.764852908459027,
+    "three_inst_ratio_change_20": 26.764852908459027
+  },
+  {
+    "date": "2026-01-26",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.91,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.924852908459027,
+    "three_inst_ratio_change_20": 0.738425221458261
+  },
+  {
+    "date": "2026-01-27",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 27.0,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.014852908459027,
+    "three_inst_ratio_change_20": 0.8484252214582604
+  },
+  {
+    "date": "2026-01-28",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.81,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.824852908459025,
+    "three_inst_ratio_change_20": 0.7184252214582578
+  },
+  {
+    "date": "2026-01-29",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.89,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.904852908459027,
+    "three_inst_ratio_change_20": 0.9084252214582591
+  },
+  {
+    "date": "2026-01-30",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.68,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.694852908459026,
+    "three_inst_ratio_change_20": 1.158425221458259
+  },
+  {
+    "date": "2026-02-02",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.84,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.854852908459026,
+    "three_inst_ratio_change_20": 1.1884252214582602
+  },
+  {
+    "date": "2026-02-03",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 27.03,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.044852908459028,
+    "three_inst_ratio_change_20": 1.4084252214582627
+  },
+  {
+    "date": "2026-02-04",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.98,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.994852908459027,
+    "three_inst_ratio_change_20": 1.1784252214582587
+  },
+  {
+    "date": "2026-02-05",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 27.03,
+    "trust_ratio": 0.014852908459025323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.044852908459028,
+    "three_inst_ratio_change_20": 1.238425221458261
   }
 ]

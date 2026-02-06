@@ -966,5 +966,137 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.05,
     "three_inst_ratio_change_20": -0.14000000000000057
+  },
+  {
+    "date": "2026-01-21",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.99,
+    "three_inst_ratio_change_20": -0.14999999999999947
+  },
+  {
+    "date": "2026-01-22",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.99,
+    "three_inst_ratio_change_20": -0.10999999999999943
+  },
+  {
+    "date": "2026-01-23",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 4.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.01,
+    "three_inst_ratio_change_20": 4.01
+  },
+  {
+    "date": "2026-01-26",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 4.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.06,
+    "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-01-27",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.99,
+    "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-01-28",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.92,
+    "three_inst_ratio_change_20": -0.15000000000000036
+  },
+  {
+    "date": "2026-01-29",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.94,
+    "three_inst_ratio_change_20": -0.10999999999999988
+  },
+  {
+    "date": "2026-01-30",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.93,
+    "three_inst_ratio_change_20": -0.10999999999999988
+  },
+  {
+    "date": "2026-02-02",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.94,
+    "three_inst_ratio_change_20": -0.10000000000000009
+  },
+  {
+    "date": "2026-02-03",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.92,
+    "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-02-04",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.95,
+    "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-02-05",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.95,
+    "three_inst_ratio_change_20": -0.09999999999999964
   }
 ]
