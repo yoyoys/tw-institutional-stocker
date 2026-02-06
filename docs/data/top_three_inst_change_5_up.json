@@ -917,17 +917,17 @@
     "change": 0.5
   },
   {
-    "code": "6625",
-    "name": "必應",
-    "market": "TWSE",
-    "three_inst_ratio": 4.29,
-    "change": 0.5
-  },
-  {
     "code": "00956",
     "name": "中信日經高股息",
     "market": "TWSE",
     "three_inst_ratio": 1.86,
+    "change": 0.5
+  },
+  {
+    "code": "6625",
+    "name": "必應",
+    "market": "TWSE",
+    "three_inst_ratio": 4.29,
     "change": 0.5
   },
   {
@@ -945,10 +945,10 @@
     "change": 0.490000000000002
   },
   {
-    "code": "4934",
-    "name": "太極",
+    "code": "6753",
+    "name": "龍德造船",
     "market": "TWSE",
-    "three_inst_ratio": 2.47,
+    "three_inst_ratio": 5.346930725886643,
     "change": 0.4900000000000002
   },
   {
@@ -959,10 +959,10 @@
     "change": 0.4900000000000002
   },
   {
-    "code": "6753",
-    "name": "龍德造船",
+    "code": "4934",
+    "name": "太極",
     "market": "TWSE",
-    "three_inst_ratio": 5.346930725886643,
+    "three_inst_ratio": 2.47,
     "change": 0.4900000000000002
   },
   {
@@ -1064,6 +1064,13 @@
     "change": 0.41055124387375574
   },
   {
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "three_inst_ratio": 5.49,
+    "change": 0.41000000000000014
+  },
+  {
     "code": "6192",
     "name": "巨路",
     "market": "TWSE",
@@ -1075,13 +1082,6 @@
     "name": "四維航",
     "market": "TWSE",
     "three_inst_ratio": 4.97,
-    "change": 0.41000000000000014
-  },
-  {
-    "code": "1308",
-    "name": "亞聚",
-    "market": "TWSE",
-    "three_inst_ratio": 5.49,
     "change": 0.41000000000000014
   },
   {
@@ -1120,17 +1120,17 @@
     "change": 0.37619354864049814
   },
   {
-    "code": "00922",
-    "name": "國泰台灣領袖50",
-    "market": "TWSE",
-    "three_inst_ratio": 13.88,
-    "change": 0.370000000000001
-  },
-  {
     "code": "5471",
     "name": "松翰",
     "market": "TWSE",
     "three_inst_ratio": 12.07,
+    "change": 0.370000000000001
+  },
+  {
+    "code": "00922",
+    "name": "國泰台灣領袖50",
+    "market": "TWSE",
+    "three_inst_ratio": 13.88,
     "change": 0.370000000000001
   },
   {

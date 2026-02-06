@@ -1092,17 +1092,17 @@
     "change": 0.9793783204100559
   },
   {
-    "code": "9902",
-    "name": "台火",
-    "market": "TWSE",
-    "three_inst_ratio": 3.3,
-    "change": 0.96
-  },
-  {
     "code": "3607",
     "name": "谷崧",
     "market": "TWSE",
     "three_inst_ratio": 5.27,
+    "change": 0.96
+  },
+  {
+    "code": "9902",
+    "name": "台火",
+    "market": "TWSE",
+    "three_inst_ratio": 3.3,
     "change": 0.96
   },
   {

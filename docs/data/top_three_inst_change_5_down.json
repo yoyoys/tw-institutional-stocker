@@ -651,17 +651,17 @@
     "change": -0.7077552311558364
   },
   {
-    "code": "6869",
-    "name": "雲豹能源",
-    "market": "TWSE",
-    "three_inst_ratio": 1.8711020611246862,
-    "change": -0.6699999999999999
-  },
-  {
     "code": "8341",
     "name": "日友",
     "market": "TWSE",
     "three_inst_ratio": 4.0,
+    "change": -0.6699999999999999
+  },
+  {
+    "code": "6869",
+    "name": "雲豹能源",
+    "market": "TWSE",
+    "three_inst_ratio": 1.8711020611246862,
     "change": -0.6699999999999999
   },
   {
@@ -679,17 +679,17 @@
     "change": -0.6511884430758315
   },
   {
-    "code": "00985A",
-    "name": "主動野村台灣50",
-    "market": "TWSE",
-    "three_inst_ratio": 0.42,
-    "change": -0.6300000000000001
-  },
-  {
     "code": "00714",
     "name": "群益道瓊美國地產",
     "market": "TWSE",
     "three_inst_ratio": 1.19,
+    "change": -0.6300000000000001
+  },
+  {
+    "code": "00985A",
+    "name": "主動野村台灣50",
+    "market": "TWSE",
+    "three_inst_ratio": 0.42,
     "change": -0.6300000000000001
   },
   {
@@ -1267,20 +1267,6 @@
     "change": -0.3300000000000002
   },
   {
-    "code": "4588",
-    "name": "玖鼎電力",
-    "market": "TWSE",
-    "three_inst_ratio": 4.01,
-    "change": -0.33000000000000007
-  },
-  {
-    "code": "2305",
-    "name": "全友",
-    "market": "TWSE",
-    "three_inst_ratio": 2.28,
-    "change": -0.33000000000000007
-  },
-  {
     "code": "2491",
     "name": "吉祥全",
     "market": "TWSE",
@@ -1292,6 +1278,20 @@
     "name": "統一台灣高息動能",
     "market": "TWSE",
     "three_inst_ratio": 1.29,
+    "change": -0.33000000000000007
+  },
+  {
+    "code": "4588",
+    "name": "玖鼎電力",
+    "market": "TWSE",
+    "three_inst_ratio": 4.01,
+    "change": -0.33000000000000007
+  },
+  {
+    "code": "2305",
+    "name": "全友",
+    "market": "TWSE",
+    "three_inst_ratio": 2.28,
     "change": -0.33000000000000007
   },
   {

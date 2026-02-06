@@ -847,17 +847,17 @@
     "change": 0.8791109764646086
   },
   {
-    "code": "00666R",
-    "name": "富邦恒生國企反1",
-    "market": "TWSE",
-    "three_inst_ratio": 6.17,
-    "change": 0.8700000000000001
-  },
-  {
     "code": "1310",
     "name": "台苯",
     "market": "TWSE",
     "three_inst_ratio": 6.66,
+    "change": 0.8700000000000001
+  },
+  {
+    "code": "00666R",
+    "name": "富邦恒生國企反1",
+    "market": "TWSE",
+    "three_inst_ratio": 6.17,
     "change": 0.8700000000000001
   },
   {
@@ -1036,13 +1036,6 @@
     "change": 0.7003333333333339
   },
   {
-    "code": "3588",
-    "name": "通嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 2.93,
-    "change": 0.7000000000000002
-  },
-  {
     "code": "6589",
     "name": "台康生技",
     "market": "TWSE",
@@ -1054,6 +1047,13 @@
     "name": "元翎",
     "market": "TWSE",
     "three_inst_ratio": 2.89,
+    "change": 0.7000000000000002
+  },
+  {
+    "code": "3588",
+    "name": "通嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 2.93,
     "change": 0.7000000000000002
   },
   {
@@ -1204,17 +1204,17 @@
     "change": 0.6199999999999997
   },
   {
-    "code": "2365",
-    "name": "昆盈",
-    "market": "TWSE",
-    "three_inst_ratio": 1.58,
-    "change": 0.6100000000000001
-  },
-  {
     "code": "00962",
     "name": "台新AI優息動能",
     "market": "TWSE",
     "three_inst_ratio": 1.56,
+    "change": 0.6100000000000001
+  },
+  {
+    "code": "2365",
+    "name": "昆盈",
+    "market": "TWSE",
+    "three_inst_ratio": 1.58,
     "change": 0.6100000000000001
   },
   {
