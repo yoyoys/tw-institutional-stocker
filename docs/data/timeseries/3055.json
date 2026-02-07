@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
     "three_inst_ratio_change_20": -0.9299999999999999
+  },
+  {
+    "date": "2026-02-06",
+    "code": "3055",
+    "name": "蔚華科",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.04,
+    "three_inst_ratio_change_20": -0.8499999999999999
   }
 ]

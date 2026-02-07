@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.85,
     "three_inst_ratio_change_20": -0.34000000000000075
+  },
+  {
+    "date": "2026-02-06",
+    "code": "1515",
+    "name": "力山",
+    "market": "TWSE",
+    "foreign_ratio": 4.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.8,
+    "three_inst_ratio_change_20": -0.3700000000000001
   }
 ]

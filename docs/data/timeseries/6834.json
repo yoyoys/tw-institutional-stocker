@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.9,
     "three_inst_ratio_change_20": -0.11999999999999922
+  },
+  {
+    "date": "2026-02-06",
+    "code": "6834",
+    "name": "天二科技",
+    "market": "TWSE",
+    "foreign_ratio": 10.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.85,
+    "three_inst_ratio_change_20": 0.21999999999999886
   }
 ]

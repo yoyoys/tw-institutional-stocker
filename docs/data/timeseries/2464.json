@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4004843759077505,
     "three_inst_ratio_change_20": 0.24
+  },
+  {
+    "date": "2026-02-06",
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "foreign_ratio": 2.16,
+    "trust_ratio": 0.00048437590775072463,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.160484375907751,
+    "three_inst_ratio_change_20": 1.0100000000000005
   }
 ]

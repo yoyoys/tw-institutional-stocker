@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.020074884480448,
     "three_inst_ratio_change_20": -0.4500000000000002
+  },
+  {
+    "date": "2026-02-06",
+    "code": "2014",
+    "name": "中鴻",
+    "market": "TWSE",
+    "foreign_ratio": 4.1,
+    "trust_ratio": 7.488448044889026e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.100074884480448,
+    "three_inst_ratio_change_20": -0.3700000000000001
   }
 ]

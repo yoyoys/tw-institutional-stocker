@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.962646860046427,
     "three_inst_ratio_change_20": -2.785308624437806
+  },
+  {
+    "date": "2026-02-06",
+    "code": "3090",
+    "name": "日電貿",
+    "market": "TWSE",
+    "foreign_ratio": 4.69,
+    "trust_ratio": 1.0026468600464273,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.692646860046428,
+    "three_inst_ratio_change_20": -2.783917644974399
   }
 ]

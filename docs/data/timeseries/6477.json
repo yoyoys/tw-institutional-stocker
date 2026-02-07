@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.12,
     "three_inst_ratio_change_20": 1.3800000000000001
+  },
+  {
+    "date": "2026-02-06",
+    "code": "6477",
+    "name": "安集",
+    "market": "TWSE",
+    "foreign_ratio": 2.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.42,
+    "three_inst_ratio_change_20": 1.14
   }
 ]

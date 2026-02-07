@@ -1098,5 +1098,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.04,
     "three_inst_ratio_change_20": -0.05999999999999961
+  },
+  {
+    "date": "2026-02-06",
+    "code": "2392",
+    "name": "正崴",
+    "market": "TWSE",
+    "foreign_ratio": 5.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.95,
+    "three_inst_ratio_change_20": -0.20000000000000018
   }
 ]

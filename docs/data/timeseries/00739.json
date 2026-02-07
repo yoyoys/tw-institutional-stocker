@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.89,
     "three_inst_ratio_change_20": -0.66
+  },
+  {
+    "date": "2026-02-06",
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "foreign_ratio": 1.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.24,
+    "three_inst_ratio_change_20": -0.31000000000000005
   }
 ]

@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.96,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-06",
+    "code": "00865B",
+    "name": "國泰US短期公債",
+    "market": "TWSE",
+    "foreign_ratio": 0.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.75,
+    "three_inst_ratio_change_20": -0.3500000000000001
   }
 ]

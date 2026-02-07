@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.080209285714286,
     "three_inst_ratio_change_20": -0.30326530612244795
+  },
+  {
+    "date": "2026-02-06",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.64,
+    "trust_ratio": -0.6300968367346939,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.009903163265307,
+    "three_inst_ratio_change_20": -0.23357142857142676
   }
 ]

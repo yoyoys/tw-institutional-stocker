@@ -1032,5 +1032,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-02-06",
+    "code": "1776",
+    "name": "展宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.46,
+    "three_inst_ratio_change_20": -0.009999999999999953
   }
 ]

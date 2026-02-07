@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.37000170064726,
     "three_inst_ratio_change_20": 0.13000000000000256
+  },
+  {
+    "date": "2026-02-06",
+    "code": "3703",
+    "name": "欣陸",
+    "market": "TWSE",
+    "foreign_ratio": 21.36,
+    "trust_ratio": 1.7006472590583094e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.36000170064726,
+    "three_inst_ratio_change_20": 0.030000000000001137
   }
 ]

@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.95,
     "three_inst_ratio_change_20": 0.12
+  },
+  {
+    "date": "2026-02-06",
+    "code": "4562",
+    "name": "穎漢",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.97,
+    "three_inst_ratio_change_20": 0.08999999999999997
   }
 ]

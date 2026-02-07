@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.08,
     "three_inst_ratio_change_20": 0.0600000000000005
+  },
+  {
+    "date": "2026-02-06",
+    "code": "2397",
+    "name": "友通",
+    "market": "TWSE",
+    "foreign_ratio": 15.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.01,
+    "three_inst_ratio_change_20": -0.019999999999999574
   }
 ]
