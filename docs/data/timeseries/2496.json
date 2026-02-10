@@ -1032,5 +1032,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.14,
     "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-02-09",
+    "code": "2496",
+    "name": "卓越",
+    "market": "TWSE",
+    "foreign_ratio": 23.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.18,
+    "three_inst_ratio_change_20": 0.030000000000001137
   }
 ]

@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
     "three_inst_ratio_change_20": -0.33999999999999997
+  },
+  {
+    "date": "2026-02-09",
+    "code": "00927",
+    "name": "群益半導體收益",
+    "market": "TWSE",
+    "foreign_ratio": 0.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.54,
+    "three_inst_ratio_change_20": 0.25000000000000006
   }
 ]

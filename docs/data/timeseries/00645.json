@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9,
     "three_inst_ratio_change_20": -0.039999999999999925
+  },
+  {
+    "date": "2026-02-09",
+    "code": "00645",
+    "name": "富邦日本",
+    "market": "TWSE",
+    "foreign_ratio": 0.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.87,
+    "three_inst_ratio_change_20": -0.13
   }
 ]

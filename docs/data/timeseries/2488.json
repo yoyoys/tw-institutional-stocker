@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.4,
     "three_inst_ratio_change_20": -0.04999999999999982
+  },
+  {
+    "date": "2026-02-09",
+    "code": "2488",
+    "name": "漢平",
+    "market": "TWSE",
+    "foreign_ratio": 5.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.48,
+    "three_inst_ratio_change_20": 0.22000000000000064
   }
 ]

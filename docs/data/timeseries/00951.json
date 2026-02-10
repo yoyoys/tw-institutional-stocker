@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.82,
     "three_inst_ratio_change_20": -1.5700000000000003
+  },
+  {
+    "date": "2026-02-09",
+    "code": "00951",
+    "name": "台新日本半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.63,
+    "three_inst_ratio_change_20": -2.66
   }
 ]

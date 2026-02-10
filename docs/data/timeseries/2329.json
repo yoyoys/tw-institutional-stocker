@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.0060667215766,
     "three_inst_ratio_change_20": -0.8664307655455215
+  },
+  {
+    "date": "2026-02-09",
+    "code": "2329",
+    "name": "華泰",
+    "market": "TWSE",
+    "foreign_ratio": 11.96,
+    "trust_ratio": 1.116066721576599,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.0760667215766,
+    "three_inst_ratio_change_20": -0.256430765545522
   }
 ]

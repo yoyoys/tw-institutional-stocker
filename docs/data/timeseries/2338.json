@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.72,
     "three_inst_ratio_change_20": 0.73
+  },
+  {
+    "date": "2026-02-09",
+    "code": "2338",
+    "name": "光罩",
+    "market": "TWSE",
+    "foreign_ratio": 3.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.98,
+    "three_inst_ratio_change_20": 0.9300000000000002
   }
 ]

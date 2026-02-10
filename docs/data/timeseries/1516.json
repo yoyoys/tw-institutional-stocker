@@ -1098,5 +1098,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.25,
     "three_inst_ratio_change_20": 4.23
+  },
+  {
+    "date": "2026-02-09",
+    "code": "1516",
+    "name": "川飛",
+    "market": "TWSE",
+    "foreign_ratio": 6.26,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.26,
+    "three_inst_ratio_change_20": 4.25
   }
 ]

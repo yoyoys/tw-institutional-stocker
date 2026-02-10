@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.333397762669165,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-09",
+    "code": "1104",
+    "name": "環泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.31,
+    "trust_ratio": 0.013397762669166124,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.323397762669163,
+    "three_inst_ratio_change_20": -0.060000000000002274
   }
 ]

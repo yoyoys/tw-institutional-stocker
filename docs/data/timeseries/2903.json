@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.136201226119297,
     "three_inst_ratio_change_20": -0.21094423378113802
+  },
+  {
+    "date": "2026-02-09",
+    "code": "2903",
+    "name": "遠百",
+    "market": "TWSE",
+    "foreign_ratio": 9.14,
+    "trust_ratio": 2.087732275414407,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.227732275414407,
+    "three_inst_ratio_change_20": -0.11861527233729241
   }
 ]

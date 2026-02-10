@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.123698817545126,
     "three_inst_ratio_change_20": 0.1533098098178325
+  },
+  {
+    "date": "2026-02-09",
+    "code": "2617",
+    "name": "台航",
+    "market": "TWSE",
+    "foreign_ratio": 8.04,
+    "trust_ratio": 0.09369881754512611,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.133698817545126,
+    "three_inst_ratio_change_20": 0.16330980981783227
   }
 ]

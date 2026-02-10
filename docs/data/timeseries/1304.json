@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.81,
     "three_inst_ratio_change_20": 0.34999999999999787
+  },
+  {
+    "date": "2026-02-09",
+    "code": "1304",
+    "name": "台聚",
+    "market": "TWSE",
+    "foreign_ratio": 29.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.01,
+    "three_inst_ratio_change_20": 0.5200000000000031
   }
 ]
