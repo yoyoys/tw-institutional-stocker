@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
     "three_inst_ratio_change_20": -0.050000000000000044
+  },
+  {
+    "date": "2026-02-10",
+    "code": "1762",
+    "name": "中化生",
+    "market": "TWSE",
+    "foreign_ratio": 1.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.65,
+    "three_inst_ratio_change_20": -0.040000000000000036
   }
 ]

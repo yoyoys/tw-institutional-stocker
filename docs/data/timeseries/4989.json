@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.76,
     "three_inst_ratio_change_20": 1.0399999999999996
+  },
+  {
+    "date": "2026-02-10",
+    "code": "4989",
+    "name": "榮科",
+    "market": "TWSE",
+    "foreign_ratio": 3.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.61,
+    "three_inst_ratio_change_20": -1.15
   }
 ]

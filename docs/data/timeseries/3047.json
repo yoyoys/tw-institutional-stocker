@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.022235127770498,
     "three_inst_ratio_change_20": 0.5922351277704978
+  },
+  {
+    "date": "2026-02-10",
+    "code": "3047",
+    "name": "訊舟",
+    "market": "TWSE",
+    "foreign_ratio": 3.0,
+    "trust_ratio": 0.0022351277704978673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.002235127770498,
+    "three_inst_ratio_change_20": 0.7422351277704982
   }
 ]

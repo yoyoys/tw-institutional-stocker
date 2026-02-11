@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.16,
     "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2250",
+    "name": "IKKA-KY",
+    "market": "TWSE",
+    "foreign_ratio": 7.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.08,
+    "three_inst_ratio_change_20": -0.2400000000000002
   }
 ]

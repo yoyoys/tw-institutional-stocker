@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.62,
     "three_inst_ratio_change_20": -0.13
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00648R",
+    "name": "元大S&P500反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.63,
+    "three_inst_ratio_change_20": -0.12
   }
 ]

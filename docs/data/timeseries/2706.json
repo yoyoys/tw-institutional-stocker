@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.630200000661602,
     "three_inst_ratio_change_20": -0.009799999338397924
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2706",
+    "name": "第一店",
+    "market": "TWSE",
+    "foreign_ratio": 2.64,
+    "trust_ratio": 0.00020000066160218857,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6402000006616024,
+    "three_inst_ratio_change_20": 0.00020000066160230645
   }
 ]

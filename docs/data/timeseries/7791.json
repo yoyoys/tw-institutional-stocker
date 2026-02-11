@@ -812,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.32,
     "three_inst_ratio_change_20": -0.21000000000000002
+  },
+  {
+    "date": "2026-02-10",
+    "code": "7791",
+    "name": "皇家可口",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3,
+    "three_inst_ratio_change_20": -0.26000000000000006
   }
 ]

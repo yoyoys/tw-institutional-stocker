@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 33.47948492837627,
     "three_inst_ratio_change_20": -2.148430492457557
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 31.41,
+    "trust_ratio": 2.052787020844445,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.462787020844445,
+    "three_inst_ratio_change_20": -2.6121061928466816
   }
 ]

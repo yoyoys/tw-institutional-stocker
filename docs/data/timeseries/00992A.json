@@ -317,5 +317,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
     "three_inst_ratio_change_20": -2.09
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00992A",
+    "name": "主動群益科技創新",
+    "market": "TWSE",
+    "foreign_ratio": 2.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.11,
+    "three_inst_ratio_change_20": 0.5699999999999998
   }
 ]

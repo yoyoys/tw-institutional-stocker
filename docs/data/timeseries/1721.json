@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
     "three_inst_ratio_change_20": -0.4600000000000002
+  },
+  {
+    "date": "2026-02-10",
+    "code": "1721",
+    "name": "三晃",
+    "market": "TWSE",
+    "foreign_ratio": 1.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.14,
+    "three_inst_ratio_change_20": -0.56
   }
 ]

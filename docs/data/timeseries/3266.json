@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.17,
     "three_inst_ratio_change_20": -0.009999999999999787
+  },
+  {
+    "date": "2026-02-10",
+    "code": "3266",
+    "name": "昇陽",
+    "market": "TWSE",
+    "foreign_ratio": 8.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.16,
+    "three_inst_ratio_change_20": -0.019999999999999574
   }
 ]

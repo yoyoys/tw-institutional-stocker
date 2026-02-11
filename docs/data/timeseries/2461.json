@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.8,
     "three_inst_ratio_change_20": 0.33000000000000007
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2461",
+    "name": "光群雷",
+    "market": "TWSE",
+    "foreign_ratio": 4.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.82,
+    "three_inst_ratio_change_20": 0.3200000000000003
   }
 ]

@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.900000305110549,
     "three_inst_ratio_change_20": 1.5700000000000003
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2867",
+    "name": "三商壽",
+    "market": "TWSE",
+    "foreign_ratio": 15.12,
+    "trust_ratio": 3.051105485998114e-07,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.120000305110548,
+    "three_inst_ratio_change_20": 1.799999999999999
   }
 ]

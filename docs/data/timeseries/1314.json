@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.791062049978713,
     "three_inst_ratio_change_20": 0.8899999999999988
+  },
+  {
+    "date": "2026-02-10",
+    "code": "1314",
+    "name": "中石化",
+    "market": "TWSE",
+    "foreign_ratio": 10.7,
+    "trust_ratio": 0.001062049978713424,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.701062049978713,
+    "three_inst_ratio_change_20": 0.7699999999999996
   }
 ]

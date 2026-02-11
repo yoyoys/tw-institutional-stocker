@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0116823185529051,
     "three_inst_ratio_change_20": -0.04369692993798524
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00632R",
+    "name": "元大台灣50反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.12088667968089453,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0408866796808947,
+    "three_inst_ratio_change_20": -0.08449256880999578
   }
 ]

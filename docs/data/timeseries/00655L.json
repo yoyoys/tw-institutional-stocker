@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1388370128282088,
     "three_inst_ratio_change_20": 0.14938555469294157
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00655L",
+    "name": "國泰中國A50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.54,
+    "trust_ratio": -0.11178430101276576,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4282156989872343,
+    "three_inst_ratio_change_20": 0.41876424085196695
   }
 ]

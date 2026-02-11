@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.8611526479750777,
     "three_inst_ratio_change_20": -0.8058015299224959
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 3.82,
+    "trust_ratio": 0.03115264797507788,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.8511526479750775,
+    "three_inst_ratio_change_20": 1.6534518169501466
   }
 ]

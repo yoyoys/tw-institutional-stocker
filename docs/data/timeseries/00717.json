@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.98,
     "three_inst_ratio_change_20": -0.8200000000000001
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00717",
+    "name": "富邦美國特別股",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.99,
+    "three_inst_ratio_change_20": -0.9299999999999999
   }
 ]

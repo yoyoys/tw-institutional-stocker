@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.85,
     "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-02-10",
+    "code": "6141",
+    "name": "柏承",
+    "market": "TWSE",
+    "foreign_ratio": 1.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.87,
+    "three_inst_ratio_change_20": 0.07000000000000006
   }
 ]

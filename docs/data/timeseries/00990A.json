@@ -372,5 +372,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.62,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-02-10",
+    "code": "00990A",
+    "name": "主動元大AI新經濟",
+    "market": "TWSE",
+    "foreign_ratio": 3.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.85,
+    "three_inst_ratio_change_20": -0.6699999999999995
   }
 ]

@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.03,
     "three_inst_ratio_change_20": -0.20999999999999996
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2032",
+    "name": "新鋼",
+    "market": "TWSE",
+    "foreign_ratio": 1.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.05,
+    "three_inst_ratio_change_20": -0.26
   }
 ]

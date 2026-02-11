@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.0295870596082,
     "three_inst_ratio_change_20": 0.07924578746458621
+  },
+  {
+    "date": "2026-02-10",
+    "code": "2308",
+    "name": "台達電",
+    "market": "TWSE",
+    "foreign_ratio": 64.37,
+    "trust_ratio": 0.6399335408352682,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 65.00993354083528,
+    "three_inst_ratio_change_20": 0.0972345281213336
   }
 ]
