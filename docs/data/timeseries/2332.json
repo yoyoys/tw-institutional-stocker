@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.863393484237616,
     "three_inst_ratio_change_20": -0.22000000000000064
+  },
+  {
+    "date": "2026-02-11",
+    "code": "2332",
+    "name": "友訊",
+    "market": "TWSE",
+    "foreign_ratio": 11.89,
+    "trust_ratio": 0.003393484237616073,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.893393484237617,
+    "three_inst_ratio_change_20": -0.8999999999999986
   }
 ]

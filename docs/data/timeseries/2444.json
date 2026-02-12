@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.81,
     "three_inst_ratio_change_20": 0.22000000000000008
+  },
+  {
+    "date": "2026-02-11",
+    "code": "2444",
+    "name": "兆勁",
+    "market": "TWSE",
+    "foreign_ratio": 0.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.88,
+    "three_inst_ratio_change_20": 0.050000000000000044
   }
 ]

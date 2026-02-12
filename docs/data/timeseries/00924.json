@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
     "three_inst_ratio_change_20": 0.51
+  },
+  {
+    "date": "2026-02-11",
+    "code": "00924",
+    "name": "復華S&P500成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.94,
+    "three_inst_ratio_change_20": 0.57
   }
 ]

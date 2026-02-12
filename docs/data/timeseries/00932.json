@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.58,
     "three_inst_ratio_change_20": 0.09999999999999998
+  },
+  {
+    "date": "2026-02-11",
+    "code": "00932",
+    "name": "兆豐永續高息等權",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": 0.020000000000000018
   }
 ]

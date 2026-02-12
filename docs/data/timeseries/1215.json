@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.22551191546468,
     "three_inst_ratio_change_20": 0.06622836327426285
+  },
+  {
+    "date": "2026-02-11",
+    "code": "1215",
+    "name": "卜蜂",
+    "market": "TWSE",
+    "foreign_ratio": 41.71,
+    "trust_ratio": 6.488684704735231,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.19868470473523,
+    "three_inst_ratio_change_20": -0.001673483822379751
   }
 ]

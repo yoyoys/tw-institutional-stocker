@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.54040323583803,
     "three_inst_ratio_change_20": -0.6266977567007928
+  },
+  {
+    "date": "2026-02-11",
+    "code": "1216",
+    "name": "統一",
+    "market": "TWSE",
+    "foreign_ratio": 32.82,
+    "trust_ratio": 2.7365173178751214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.55651731787512,
+    "three_inst_ratio_change_20": -0.5836999391082784
   }
 ]

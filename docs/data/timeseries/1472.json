@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.84,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-02-11",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 0.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.85,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

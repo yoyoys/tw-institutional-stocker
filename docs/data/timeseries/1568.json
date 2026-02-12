@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
     "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-02-11",
+    "code": "1568",
+    "name": "倉佑",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.16,
+    "three_inst_ratio_change_20": -0.1100000000000001
   }
 ]

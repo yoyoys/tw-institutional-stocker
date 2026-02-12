@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4723676520938616,
     "three_inst_ratio_change_20": -0.06887299384663481
+  },
+  {
+    "date": "2026-02-11",
+    "code": "2543",
+    "name": "皇昌",
+    "market": "TWSE",
+    "foreign_ratio": 1.35,
+    "trust_ratio": 0.0023676520938616333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3523676520938617,
+    "three_inst_ratio_change_20": -0.1788729938466347
   }
 ]

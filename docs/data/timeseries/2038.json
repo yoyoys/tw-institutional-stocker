@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.97,
     "three_inst_ratio_change_20": -0.33000000000000007
+  },
+  {
+    "date": "2026-02-11",
+    "code": "2038",
+    "name": "海光",
+    "market": "TWSE",
+    "foreign_ratio": 1.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.01,
+    "three_inst_ratio_change_20": -0.15999999999999992
   }
 ]

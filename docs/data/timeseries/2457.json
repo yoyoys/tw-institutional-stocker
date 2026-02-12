@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.450004237563298,
     "three_inst_ratio_change_20": 0.5099999999999998
+  },
+  {
+    "date": "2026-02-11",
+    "code": "2457",
+    "name": "飛宏",
+    "market": "TWSE",
+    "foreign_ratio": 4.46,
+    "trust_ratio": 4.237563297895502e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.460004237563298,
+    "three_inst_ratio_change_20": -0.16000000000000014
   }
 ]

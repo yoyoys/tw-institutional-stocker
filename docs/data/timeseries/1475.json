@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-02-11",
+    "code": "1475",
+    "name": "業旺",
+    "market": "TWSE",
+    "foreign_ratio": 0.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.49,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

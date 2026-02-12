@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.14931009534496,
     "three_inst_ratio_change_20": 0.8954675274946879
+  },
+  {
+    "date": "2026-02-11",
+    "code": "8464",
+    "name": "億豐",
+    "market": "TWSE",
+    "foreign_ratio": 42.0,
+    "trust_ratio": 1.2789688219446986,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.2789688219447,
+    "three_inst_ratio_change_20": 1.0061715745194348
   }
 ]
