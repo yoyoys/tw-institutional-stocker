@@ -1043,17 +1043,17 @@
     "change": 1.237761562649533
   },
   {
-    "code": "3356",
-    "name": "奇偶",
-    "market": "TWSE",
-    "three_inst_ratio": 5.95,
-    "change": 1.2300000000000004
-  },
-  {
     "code": "5519",
     "name": "隆大",
     "market": "TWSE",
     "three_inst_ratio": 4.48,
+    "change": 1.2300000000000004
+  },
+  {
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "three_inst_ratio": 5.95,
     "change": 1.2300000000000004
   },
   {
