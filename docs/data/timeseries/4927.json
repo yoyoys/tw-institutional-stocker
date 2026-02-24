@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.247971688076683,
     "three_inst_ratio_change_20": -0.47000000000000064
+  },
+  {
+    "date": "2026-02-23",
+    "code": "4927",
+    "name": "泰鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 10.67,
+    "trust_ratio": 0.2579716880766831,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.927971688076683,
+    "three_inst_ratio_change_20": 1.709999999999999
   }
 ]

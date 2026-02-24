@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.62,
     "three_inst_ratio_change_20": -0.52
+  },
+  {
+    "date": "2026-02-23",
+    "code": "2417",
+    "name": "圓剛",
+    "market": "TWSE",
+    "foreign_ratio": 2.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.05,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

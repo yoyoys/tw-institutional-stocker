@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.4406211758848135,
     "three_inst_ratio_change_20": -0.23427383499737164
+  },
+  {
+    "date": "2026-02-23",
+    "code": "2852",
+    "name": "第一保",
+    "market": "TWSE",
+    "foreign_ratio": 5.46,
+    "trust_ratio": -0.02125753606549186,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.438742463934508,
+    "three_inst_ratio_change_20": -0.3550159561018136
   }
 ]

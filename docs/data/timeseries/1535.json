@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
     "three_inst_ratio_change_20": 0.05999999999999994
+  },
+  {
+    "date": "2026-02-23",
+    "code": "1535",
+    "name": "中宇",
+    "market": "TWSE",
+    "foreign_ratio": 1.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.03,
+    "three_inst_ratio_change_20": 0.09999999999999998
   }
 ]

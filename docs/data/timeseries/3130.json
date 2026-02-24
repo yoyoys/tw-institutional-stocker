@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.866154705986915,
     "three_inst_ratio_change_20": -0.23000000000000043
+  },
+  {
+    "date": "2026-02-23",
+    "code": "3130",
+    "name": "一零四",
+    "market": "TWSE",
+    "foreign_ratio": 21.86,
+    "trust_ratio": 0.03615470598691802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.896154705986916,
+    "three_inst_ratio_change_20": -0.19000000000000128
   }
 ]

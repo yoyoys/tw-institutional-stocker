@@ -1065,5 +1065,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.25,
     "three_inst_ratio_change_20": 0.16000000000000014
+  },
+  {
+    "date": "2026-02-23",
+    "code": "1512",
+    "name": "瑞利",
+    "market": "TWSE",
+    "foreign_ratio": 5.26,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.26,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

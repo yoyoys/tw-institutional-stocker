@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8,
     "three_inst_ratio_change_20": -0.55
+  },
+  {
+    "date": "2026-02-23",
+    "code": "00737",
+    "name": "國泰AI機器人",
+    "market": "TWSE",
+    "foreign_ratio": 0.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.48,
+    "three_inst_ratio_change_20": -0.96
   }
 ]

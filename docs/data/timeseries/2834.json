@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.985990203754053,
     "three_inst_ratio_change_20": -0.5770411673709468
+  },
+  {
+    "date": "2026-02-23",
+    "code": "2834",
+    "name": "臺企銀",
+    "market": "TWSE",
+    "foreign_ratio": 19.22,
+    "trust_ratio": 0.07551111645533631,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.295511116455334,
+    "three_inst_ratio_change_20": -0.24646486933055556
   }
 ]

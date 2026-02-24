@@ -1098,5 +1098,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.06,
     "three_inst_ratio_change_20": 0.019999999999999574
+  },
+  {
+    "date": "2026-02-23",
+    "code": "8443",
+    "name": "阿瘦",
+    "market": "TWSE",
+    "foreign_ratio": 4.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.08,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

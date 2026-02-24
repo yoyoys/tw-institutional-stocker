@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.140019765678624,
     "three_inst_ratio_change_20": 1.2867111424115998
+  },
+  {
+    "date": "2026-02-23",
+    "code": "8110",
+    "name": "華東",
+    "market": "TWSE",
+    "foreign_ratio": 2.76,
+    "trust_ratio": 0.2698266184928742,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.029826618492874,
+    "three_inst_ratio_change_20": 0.795938553668599
   }
 ]

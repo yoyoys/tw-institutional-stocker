@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.58,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-02-23",
+    "code": "5525",
+    "name": "順天",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.61,
+    "three_inst_ratio_change_20": 0.06000000000000005
   }
 ]

@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.61,
     "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-02-23",
+    "code": "2102",
+    "name": "泰豐",
+    "market": "TWSE",
+    "foreign_ratio": 3.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.65,
+    "three_inst_ratio_change_20": 0.06999999999999984
   }
 ]
