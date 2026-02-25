@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1530",
+    "name": "亞崴",
+    "market": "TWSE",
+    "foreign_ratio": 0.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.64,
+    "three_inst_ratio_change_20": 0.030000000000000027
   }
 ]

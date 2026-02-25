@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.56,
     "three_inst_ratio_change_20": -0.25
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2545",
+    "name": "皇翔",
+    "market": "TWSE",
+    "foreign_ratio": 2.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.57,
+    "three_inst_ratio_change_20": -0.13000000000000034
   }
 ]

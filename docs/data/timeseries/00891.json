@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15944228943242628,
     "three_inst_ratio_change_20": -0.16055771056757373
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": 0.05841164144013902,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.37841164144013906,
+    "three_inst_ratio_change_20": 0.04841164144013904
   }
 ]

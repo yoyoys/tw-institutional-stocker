@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.09,
     "three_inst_ratio_change_20": 0.23000000000000043
+  },
+  {
+    "date": "2026-02-24",
+    "code": "5471",
+    "name": "松翰",
+    "market": "TWSE",
+    "foreign_ratio": 12.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.2,
+    "three_inst_ratio_change_20": 0.3099999999999987
   }
 ]

@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.51,
     "three_inst_ratio_change_20": -0.1900000000000004
+  },
+  {
+    "date": "2026-02-24",
+    "code": "4952",
+    "name": "凌通",
+    "market": "TWSE",
+    "foreign_ratio": 5.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.14,
+    "three_inst_ratio_change_20": -0.6000000000000005
   }
 ]

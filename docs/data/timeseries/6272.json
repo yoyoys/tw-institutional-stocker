@@ -405,5 +405,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.65,
     "three_inst_ratio_change_20": 1.02
+  },
+  {
+    "date": "2026-02-24",
+    "code": "6272",
+    "name": "驊陞",
+    "market": "TWSE",
+    "foreign_ratio": 3.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.81,
+    "three_inst_ratio_change_20": 0.9900000000000002
   }
 ]

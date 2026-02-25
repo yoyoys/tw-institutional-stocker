@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.09,
     "three_inst_ratio_change_20": -1.51
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00663L",
+    "name": "國泰臺灣加權正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.15,
+    "three_inst_ratio_change_20": -1.4500000000000002
   }
 ]

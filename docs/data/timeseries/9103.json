@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
     "three_inst_ratio_change_20": -0.38999999999999996
+  },
+  {
+    "date": "2026-02-24",
+    "code": "9103",
+    "name": "美德醫療-DR",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": -0.34
   }
 ]

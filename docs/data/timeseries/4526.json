@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.04,
     "three_inst_ratio_change_20": 0.33999999999999986
+  },
+  {
+    "date": "2026-02-24",
+    "code": "4526",
+    "name": "東台",
+    "market": "TWSE",
+    "foreign_ratio": 5.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.82,
+    "three_inst_ratio_change_20": 0.45999999999999996
   }
 ]

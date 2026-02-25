@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.21,
     "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-02-24",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 4.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.21,
+    "three_inst_ratio_change_20": -0.05999999999999961
   }
 ]

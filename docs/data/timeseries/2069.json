@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.42,
     "three_inst_ratio_change_20": 0.15999999999999992
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2069",
+    "name": "運錩",
+    "market": "TWSE",
+    "foreign_ratio": 1.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.32,
+    "three_inst_ratio_change_20": 0.10000000000000009
   }
 ]

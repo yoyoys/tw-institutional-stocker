@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
     "three_inst_ratio_change_20": -0.13000000000000012
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1464",
+    "name": "得力",
+    "market": "TWSE",
+    "foreign_ratio": 1.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6,
+    "three_inst_ratio_change_20": -0.04999999999999982
   }
 ]

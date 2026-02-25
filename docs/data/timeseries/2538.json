@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.82,
     "three_inst_ratio_change_20": -0.0600000000000005
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2538",
+    "name": "基泰",
+    "market": "TWSE",
+    "foreign_ratio": 9.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.8,
+    "three_inst_ratio_change_20": -0.08000000000000007
   }
 ]

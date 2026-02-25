@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.05,
     "three_inst_ratio_change_20": 0.29000000000000004
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00939",
+    "name": "統一台灣高息動能",
+    "market": "TWSE",
+    "foreign_ratio": 1.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.51,
+    "three_inst_ratio_change_20": -0.17999999999999994
   }
 ]

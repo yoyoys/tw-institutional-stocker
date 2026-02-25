@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38199881908806,
     "three_inst_ratio_change_20": 1.1519988190880595
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2413",
+    "name": "環科",
+    "market": "TWSE",
+    "foreign_ratio": 6.08,
+    "trust_ratio": 0.20807291503087333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.288072915030874,
+    "three_inst_ratio_change_20": 2.0880729150308737
   }
 ]

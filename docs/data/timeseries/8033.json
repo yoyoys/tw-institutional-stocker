@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.8406211697553765,
     "three_inst_ratio_change_20": 2.3999999999999995
+  },
+  {
+    "date": "2026-02-24",
+    "code": "8033",
+    "name": "雷虎",
+    "market": "TWSE",
+    "foreign_ratio": 6.36,
+    "trust_ratio": 0.04062116975537702,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.400621169755377,
+    "three_inst_ratio_change_20": 3.11
   }
 ]

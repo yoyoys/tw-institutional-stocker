@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 63.74,
     "three_inst_ratio_change_20": 0.030000000000001137
+  },
+  {
+    "date": "2026-02-24",
+    "code": "5538",
+    "name": "東明-KY",
+    "market": "TWSE",
+    "foreign_ratio": 63.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 63.75,
+    "three_inst_ratio_change_20": 0.03999999999999915
   }
 ]

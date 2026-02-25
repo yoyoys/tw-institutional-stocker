@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.01,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-02-24",
+    "code": "4930",
+    "name": "燦星網",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.02,
+    "three_inst_ratio_change_20": -0.009999999999999787
   }
 ]

@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.92,
     "three_inst_ratio_change_20": 1.1099999999999999
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00714",
+    "name": "群益道瓊美國地產",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.99,
+    "three_inst_ratio_change_20": -0.8999999999999999
   }
 ]

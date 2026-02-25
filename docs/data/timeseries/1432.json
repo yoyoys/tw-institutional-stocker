@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.59,
     "three_inst_ratio_change_20": 1.09
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1432",
+    "name": "大魯閣",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.99,
+    "three_inst_ratio_change_20": 0.5
   }
 ]

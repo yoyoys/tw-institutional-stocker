@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.67,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1709",
+    "name": "和益",
+    "market": "TWSE",
+    "foreign_ratio": 2.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.71,
+    "three_inst_ratio_change_20": 0.06000000000000005
   }
 ]

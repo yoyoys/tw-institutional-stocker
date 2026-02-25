@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.16,
     "three_inst_ratio_change_20": 0.03
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2712",
+    "name": "遠雄來",
+    "market": "TWSE",
+    "foreign_ratio": 0.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.17,
+    "three_inst_ratio_change_20": 0.03
   }
 ]

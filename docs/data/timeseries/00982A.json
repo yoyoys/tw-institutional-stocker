@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
     "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00982A",
+    "name": "主動群益台灣強棒",
+    "market": "TWSE",
+    "foreign_ratio": 0.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.94,
+    "three_inst_ratio_change_20": 0.1499999999999999
   }
 ]

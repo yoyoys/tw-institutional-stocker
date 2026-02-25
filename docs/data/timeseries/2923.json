@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.37,
     "three_inst_ratio_change_20": 0.020000000000010232
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2923",
+    "name": "鼎固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 99.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 99.38,
+    "three_inst_ratio_change_20": 0.030000000000001137
   }
 ]

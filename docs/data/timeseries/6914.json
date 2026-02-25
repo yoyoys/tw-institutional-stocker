@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9,
     "three_inst_ratio_change_20": -0.18000000000000016
+  },
+  {
+    "date": "2026-02-24",
+    "code": "6914",
+    "name": "阜爾運通",
+    "market": "TWSE",
+    "foreign_ratio": 1.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.92,
+    "three_inst_ratio_change_20": -0.16000000000000014
   }
 ]

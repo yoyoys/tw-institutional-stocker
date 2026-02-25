@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.578437081476889,
     "three_inst_ratio_change_20": 0.41000000000000014
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1723",
+    "name": "中碳",
+    "market": "TWSE",
+    "foreign_ratio": 6.61,
+    "trust_ratio": -0.12156291852311107,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.4884370814768895,
+    "three_inst_ratio_change_20": 0.3600000000000003
   }
 ]

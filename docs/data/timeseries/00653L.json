@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
     "three_inst_ratio_change_20": 0.039999999999999813
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00653L",
+    "name": "富邦印度正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.27,
+    "three_inst_ratio_change_20": 0.14000000000000012
   }
 ]

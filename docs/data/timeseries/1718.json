@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.24,
     "three_inst_ratio_change_20": 0.14000000000000057
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1718",
+    "name": "中纖",
+    "market": "TWSE",
+    "foreign_ratio": 6.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.32,
+    "three_inst_ratio_change_20": 0.3799999999999999
   }
 ]

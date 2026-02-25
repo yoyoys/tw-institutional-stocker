@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.59,
     "three_inst_ratio_change_20": -3.1900000000000004
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00650L",
+    "name": "復華香港正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.51,
+    "three_inst_ratio_change_20": -5.220000000000001
   }
 ]

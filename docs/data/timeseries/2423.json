@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.433092655733814,
     "three_inst_ratio_change_20": -0.3272422786888489
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2423",
+    "name": "固緯",
+    "market": "TWSE",
+    "foreign_ratio": 5.38,
+    "trust_ratio": 0.03309265573381382,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.413092655733814,
+    "three_inst_ratio_change_20": -0.3472422786888494
   }
 ]

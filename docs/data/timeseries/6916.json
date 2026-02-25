@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.55,
     "three_inst_ratio_change_20": 0.07000000000000006
+  },
+  {
+    "date": "2026-02-24",
+    "code": "6916",
+    "name": "華凌",
+    "market": "TWSE",
+    "foreign_ratio": 0.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.54,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

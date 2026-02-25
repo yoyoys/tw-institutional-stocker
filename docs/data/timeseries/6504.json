@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0217355371900827,
     "three_inst_ratio_change_20": -0.29000000000000004
+  },
+  {
+    "date": "2026-02-24",
+    "code": "6504",
+    "name": "南六",
+    "market": "TWSE",
+    "foreign_ratio": 1.02,
+    "trust_ratio": -0.008264462809917356,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0117355371900827,
+    "three_inst_ratio_change_20": -0.28
   }
 ]

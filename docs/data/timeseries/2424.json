@@ -1054,5 +1054,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9,
     "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-02-24",
+    "code": "2424",
+    "name": "隴華",
+    "market": "TWSE",
+    "foreign_ratio": 2.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9,
+    "three_inst_ratio_change_20": -0.050000000000000266
   }
 ]

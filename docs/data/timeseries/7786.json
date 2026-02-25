@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1279835109022027,
     "three_inst_ratio_change_20": -0.056860186894902576
+  },
+  {
+    "date": "2026-02-24",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.007983510902202652,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1679835109022025,
+    "three_inst_ratio_change_20": 0.02081758724568883
   }
 ]

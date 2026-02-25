@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.34,
     "three_inst_ratio_change_20": -0.8200000000000001
+  },
+  {
+    "date": "2026-02-24",
+    "code": "00944",
+    "name": "野村趨勢動能高息",
+    "market": "TWSE",
+    "foreign_ratio": 1.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.44,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

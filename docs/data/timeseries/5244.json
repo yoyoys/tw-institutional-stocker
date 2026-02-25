@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.72,
     "three_inst_ratio_change_20": 0.30000000000000027
+  },
+  {
+    "date": "2026-02-24",
+    "code": "5244",
+    "name": "弘凱",
+    "market": "TWSE",
+    "foreign_ratio": 2.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.83,
+    "three_inst_ratio_change_20": 0.3999999999999999
   }
 ]

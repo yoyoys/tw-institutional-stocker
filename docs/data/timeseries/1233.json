@@ -999,5 +999,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.55,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-02-24",
+    "code": "1233",
+    "name": "天仁",
+    "market": "TWSE",
+    "foreign_ratio": 5.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.57,
+    "three_inst_ratio_change_20": 0.0600000000000005
   }
 ]
