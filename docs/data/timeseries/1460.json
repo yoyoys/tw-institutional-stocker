@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.78,
     "three_inst_ratio_change_20": 0.14000000000000012
+  },
+  {
+    "date": "2026-02-25",
+    "code": "1460",
+    "name": "宏遠",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.75,
+    "three_inst_ratio_change_20": 0.1100000000000001
   }
 ]

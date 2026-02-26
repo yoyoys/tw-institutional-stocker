@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
     "three_inst_ratio_change_20": -0.08000000000000002
+  },
+  {
+    "date": "2026-02-25",
+    "code": "2438",
+    "name": "翔耀",
+    "market": "TWSE",
+    "foreign_ratio": 0.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4,
+    "three_inst_ratio_change_20": -0.06999999999999995
   }
 ]

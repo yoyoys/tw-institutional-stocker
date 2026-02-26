@@ -1065,5 +1065,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
     "three_inst_ratio_change_20": 0.009999999999999953
+  },
+  {
+    "date": "2026-02-25",
+    "code": "2904",
+    "name": "匯僑",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": 0.019999999999999962
   }
 ]

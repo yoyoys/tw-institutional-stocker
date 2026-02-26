@@ -1175,5 +1175,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.64577873488222,
     "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-02-25",
+    "code": "2468",
+    "name": "華經",
+    "market": "TWSE",
+    "foreign_ratio": 4.59,
+    "trust_ratio": 0.0157787348822203,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.60577873488222,
+    "three_inst_ratio_change_20": -0.2599999999999998
   }
 ]

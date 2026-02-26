@@ -1142,5 +1142,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.439760725197388,
     "three_inst_ratio_change_20": 0.33976072519738665
+  },
+  {
+    "date": "2026-02-25",
+    "code": "4764",
+    "name": "雙鍵",
+    "market": "TWSE",
+    "foreign_ratio": 26.39,
+    "trust_ratio": 0.12859170965507002,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.51859170965507,
+    "three_inst_ratio_change_20": 2.529366321097097
   }
 ]

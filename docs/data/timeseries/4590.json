@@ -130,5 +130,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-25",
+    "code": "4590",
+    "name": "富田-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.22,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

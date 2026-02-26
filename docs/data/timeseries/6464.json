@@ -1087,5 +1087,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.68,
     "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-02-25",
+    "code": "6464",
+    "name": "台數科",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.69,
+    "three_inst_ratio_change_20": 0.029999999999999916
   }
 ]

@@ -1175,5 +1175,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9392686901609288,
     "three_inst_ratio_change_20": 0.6692686901609288
+  },
+  {
+    "date": "2026-02-25",
+    "code": "00730",
+    "name": "富邦臺灣優質高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.55,
+    "trust_ratio": 0.5125313925477936,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0625313925477937,
+    "three_inst_ratio_change_20": 0.6043985444108453
   }
 ]

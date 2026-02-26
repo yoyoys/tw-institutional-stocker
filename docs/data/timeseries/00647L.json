@@ -1175,5 +1175,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9021283979178714,
     "three_inst_ratio_change_20": -1.5300000000000002
+  },
+  {
+    "date": "2026-02-25",
+    "code": "00647L",
+    "name": "元大S&P500正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 2.0821283979178715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8921283979178716,
+    "three_inst_ratio_change_20": -1.5300000000000002
   }
 ]
