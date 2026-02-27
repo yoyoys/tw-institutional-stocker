@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.91,
     "three_inst_ratio_change_20": 1.25
+  },
+  {
+    "date": "2026-02-26",
+    "code": "00680L",
+    "name": "元大美債20正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.34,
+    "three_inst_ratio_change_20": 1.67
   }
 ]

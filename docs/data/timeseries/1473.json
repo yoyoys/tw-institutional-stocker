@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.37,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-02-26",
+    "code": "1473",
+    "name": "台南",
+    "market": "TWSE",
+    "foreign_ratio": 5.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.38,
+    "three_inst_ratio_change_20": 0.019999999999999574
   }
 ]

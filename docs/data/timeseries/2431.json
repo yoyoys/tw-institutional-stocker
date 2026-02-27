@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.94,
     "three_inst_ratio_change_20": -0.31000000000000005
+  },
+  {
+    "date": "2026-02-26",
+    "code": "2431",
+    "name": "聯昌",
+    "market": "TWSE",
+    "foreign_ratio": 1.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.64,
+    "three_inst_ratio_change_20": -0.5400000000000003
   }
 ]

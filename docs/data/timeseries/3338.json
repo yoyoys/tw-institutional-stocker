@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5192406190229868,
     "three_inst_ratio_change_20": -0.8800000000000001
+  },
+  {
+    "date": "2026-02-26",
+    "code": "3338",
+    "name": "泰碩",
+    "market": "TWSE",
+    "foreign_ratio": 1.85,
+    "trust_ratio": -0.030759380977013268,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8192406190229868,
+    "three_inst_ratio_change_20": -0.3700000000000001
   }
 ]

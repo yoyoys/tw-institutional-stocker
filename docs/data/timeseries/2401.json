@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.045844816414716,
     "three_inst_ratio_change_20": 1.1518244258106538
+  },
+  {
+    "date": "2026-02-26",
+    "code": "2401",
+    "name": "凌陽",
+    "market": "TWSE",
+    "foreign_ratio": 10.19,
+    "trust_ratio": 0.03344623300728025,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.22344623300728,
+    "three_inst_ratio_change_20": 1.409425842403218
   }
 ]

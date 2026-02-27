@@ -1109,5 +1109,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2412626262626263,
     "three_inst_ratio_change_20": -0.008535353535353618
+  },
+  {
+    "date": "2026-02-26",
+    "code": "1414",
+    "name": "東和",
+    "market": "TWSE",
+    "foreign_ratio": 1.21,
+    "trust_ratio": 0.021262626262626264,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2312626262626263,
+    "three_inst_ratio_change_20": 0.06974747474747467
   }
 ]

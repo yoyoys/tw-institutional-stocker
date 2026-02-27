@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
     "three_inst_ratio_change_20": 1.15
+  },
+  {
+    "date": "2026-02-26",
+    "code": "00943",
+    "name": "兆豐電子高息等權",
+    "market": "TWSE",
+    "foreign_ratio": 3.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.47,
+    "three_inst_ratio_change_20": 1.9100000000000001
   }
 ]

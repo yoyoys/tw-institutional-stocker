@@ -1186,5 +1186,16 @@
     "dealer_ratio": -0.0009017685650729171,
     "three_inst_ratio": 13.594979050720008,
     "three_inst_ratio_change_20": 1.2668999405145591
+  },
+  {
+    "date": "2026-02-26",
+    "code": "2375",
+    "name": "凱美",
+    "market": "TWSE",
+    "foreign_ratio": 13.52,
+    "trust_ratio": 0.0058808192850826665,
+    "dealer_ratio": -0.0009017685650729171,
+    "three_inst_ratio": 13.524979050720008,
+    "three_inst_ratio_change_20": 0.97689994051456
   }
 ]

@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.1819576398068,
     "three_inst_ratio_change_20": -0.7741067211254347
+  },
+  {
+    "date": "2026-02-26",
+    "code": "2495",
+    "name": "普安",
+    "market": "TWSE",
+    "foreign_ratio": 5.42,
+    "trust_ratio": -0.008407922020164259,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.411592077979836,
+    "three_inst_ratio_change_20": -0.007584648345132727
   }
 ]

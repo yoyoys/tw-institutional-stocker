@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.500005177570898,
     "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-02-26",
+    "code": "2101",
+    "name": "南港",
+    "market": "TWSE",
+    "foreign_ratio": 5.42,
+    "trust_ratio": 5.177570898031578e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.420005177570898,
+    "three_inst_ratio_change_20": -0.1200000000000001
   }
 ]

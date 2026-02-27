@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.21,
     "three_inst_ratio_change_20": 0.03
+  },
+  {
+    "date": "2026-02-26",
+    "code": "1235",
+    "name": "興泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.22,
+    "three_inst_ratio_change_20": 0.04999999999999999
   }
 ]

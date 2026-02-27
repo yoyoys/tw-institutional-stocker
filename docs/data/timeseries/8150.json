@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.57713870275424,
     "three_inst_ratio_change_20": 3.261625541047188
+  },
+  {
+    "date": "2026-02-26",
+    "code": "8150",
+    "name": "南茂",
+    "market": "TWSE",
+    "foreign_ratio": 43.57,
+    "trust_ratio": 0.0767128828074836,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.646712882807485,
+    "three_inst_ratio_change_20": 6.061199721100429
   }
 ]

@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3,
     "three_inst_ratio_change_20": 0.1599999999999997
+  },
+  {
+    "date": "2026-02-26",
+    "code": "1218",
+    "name": "泰山",
+    "market": "TWSE",
+    "foreign_ratio": 3.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.33,
+    "three_inst_ratio_change_20": 0.2400000000000002
   }
 ]

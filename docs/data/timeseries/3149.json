@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.25,
     "three_inst_ratio_change_20": 1.2300000000000004
+  },
+  {
+    "date": "2026-02-26",
+    "code": "3149",
+    "name": "正達",
+    "market": "TWSE",
+    "foreign_ratio": 6.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.32,
+    "three_inst_ratio_change_20": 0.96
   }
 ]
