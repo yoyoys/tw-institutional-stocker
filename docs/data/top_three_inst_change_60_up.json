@@ -812,17 +812,17 @@
     "change": 2.1619102264171772
   },
   {
-    "code": "00944",
-    "name": "野村趨勢動能高息",
-    "market": "TWSE",
-    "three_inst_ratio": 3.19,
-    "change": 2.16
-  },
-  {
     "code": "00939",
     "name": "統一台灣高息動能",
     "market": "TWSE",
     "three_inst_ratio": 2.31,
+    "change": 2.16
+  },
+  {
+    "code": "00944",
+    "name": "野村趨勢動能高息",
+    "market": "TWSE",
+    "three_inst_ratio": 3.19,
     "change": 2.16
   },
   {
