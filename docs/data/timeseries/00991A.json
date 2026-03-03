@@ -471,5 +471,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4922118627979266,
     "three_inst_ratio_change_20": 2.62188013744871
+  },
+  {
+    "date": "2026-03-02",
+    "code": "00991A",
+    "name": "主動復華未來50",
+    "market": "TWSE",
+    "foreign_ratio": 2.61,
+    "trust_ratio": 0.6406761438527421,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.250676143852742,
+    "three_inst_ratio_change_20": 2.879910449275531
   }
 ]

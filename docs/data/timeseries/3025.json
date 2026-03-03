@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.8848817796816295,
     "three_inst_ratio_change_20": 0.5750662466661636
+  },
+  {
+    "date": "2026-03-02",
+    "code": "3025",
+    "name": "星通",
+    "market": "TWSE",
+    "foreign_ratio": 6.83,
+    "trust_ratio": 0.33311924399909476,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.163119243999095,
+    "three_inst_ratio_change_20": 1.5028022836822323
   }
 ]

@@ -1186,5 +1186,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.28,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-03-02",
+    "code": "1725",
+    "name": "元禎",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3,
+    "three_inst_ratio_change_20": 0.07999999999999999
   }
 ]

@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.84,
     "three_inst_ratio_change_20": 0.31999999999999995
+  },
+  {
+    "date": "2026-03-02",
+    "code": "7711",
+    "name": "永擎",
+    "market": "TWSE",
+    "foreign_ratio": 0.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.85,
+    "three_inst_ratio_change_20": 0.43
   }
 ]

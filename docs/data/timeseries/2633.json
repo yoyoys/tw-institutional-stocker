@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.084387601712548,
     "three_inst_ratio_change_20": -0.37862719824636315
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 10.09,
+    "trust_ratio": 0.033621827799287275,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.123621827799287,
+    "three_inst_ratio_change_20": -0.279132111542582
   }
 ]

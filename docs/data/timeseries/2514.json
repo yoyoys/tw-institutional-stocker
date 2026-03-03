@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.36,
     "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2514",
+    "name": "龍邦",
+    "market": "TWSE",
+    "foreign_ratio": 2.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.37,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

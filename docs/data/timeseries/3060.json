@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.104715914191871,
     "three_inst_ratio_change_20": 2.5100000000000007
+  },
+  {
+    "date": "2026-03-02",
+    "code": "3060",
+    "name": "銘異",
+    "market": "TWSE",
+    "foreign_ratio": 10.31,
+    "trust_ratio": 0.02471591419187066,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.334715914191872,
+    "three_inst_ratio_change_20": 3.5000000000000018
   }
 ]

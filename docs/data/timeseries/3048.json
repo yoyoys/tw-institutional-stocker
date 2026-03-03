@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.96,
     "three_inst_ratio_change_20": 1.27
+  },
+  {
+    "date": "2026-03-02",
+    "code": "3048",
+    "name": "益登",
+    "market": "TWSE",
+    "foreign_ratio": 2.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.81,
+    "three_inst_ratio_change_20": 1.23
   }
 ]

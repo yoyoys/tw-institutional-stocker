@@ -207,5 +207,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-03-02",
+    "code": "1623",
+    "name": "大東電",
+    "market": "TWSE",
+    "foreign_ratio": 0.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.47,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

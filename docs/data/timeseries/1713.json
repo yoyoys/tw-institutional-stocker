@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.86,
     "three_inst_ratio_change_20": 0.20999999999999996
+  },
+  {
+    "date": "2026-03-02",
+    "code": "1713",
+    "name": "國化",
+    "market": "TWSE",
+    "foreign_ratio": 0.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.87,
+    "three_inst_ratio_change_20": 0.21999999999999997
   }
 ]

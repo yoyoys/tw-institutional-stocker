@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.5468551128295425,
     "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2546",
+    "name": "根基",
+    "market": "TWSE",
+    "foreign_ratio": 3.61,
+    "trust_ratio": 0.016855112829542645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.6268551128295425,
+    "three_inst_ratio_change_20": 0.08000000000000007
   }
 ]

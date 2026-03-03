@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.351785414100644,
     "three_inst_ratio_change_20": 0.3048226668020888
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2420",
+    "name": "新巨",
+    "market": "TWSE",
+    "foreign_ratio": 6.1,
+    "trust_ratio": 0.25996227363578783,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.359962273635787,
+    "three_inst_ratio_change_20": 0.25299952633723155
   }
 ]

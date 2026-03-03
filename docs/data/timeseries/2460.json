@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.13,
     "three_inst_ratio_change_20": 0.46999999999999986
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2460",
+    "name": "建通",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.19,
+    "three_inst_ratio_change_20": 0.43999999999999995
   }
 ]

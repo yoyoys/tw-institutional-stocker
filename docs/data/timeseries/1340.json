@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.22,
     "three_inst_ratio_change_20": 0.23000000000000043
+  },
+  {
+    "date": "2026-03-02",
+    "code": "1340",
+    "name": "勝悅-KY",
+    "market": "TWSE",
+    "foreign_ratio": 27.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.21,
+    "three_inst_ratio_change_20": 0.25
   }
 ]

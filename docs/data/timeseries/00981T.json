@@ -1098,5 +1098,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.59,
     "three_inst_ratio_change_20": -0.13
+  },
+  {
+    "date": "2026-03-02",
+    "code": "00981T",
+    "name": "平衡凱基雙核收息",
+    "market": "TWSE",
+    "foreign_ratio": 0.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.54,
+    "three_inst_ratio_change_20": -0.17999999999999994
   }
 ]

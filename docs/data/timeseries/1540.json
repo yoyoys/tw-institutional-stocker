@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.35,
     "three_inst_ratio_change_20": 0.050000000000000044
+  },
+  {
+    "date": "2026-03-02",
+    "code": "1540",
+    "name": "喬福",
+    "market": "TWSE",
+    "foreign_ratio": 1.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.45,
+    "three_inst_ratio_change_20": 0.32000000000000006
   }
 ]

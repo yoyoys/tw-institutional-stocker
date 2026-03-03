@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.33,
     "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2425",
+    "name": "承啟",
+    "market": "TWSE",
+    "foreign_ratio": 9.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.34,
+    "three_inst_ratio_change_20": 0.39000000000000057
   }
 ]

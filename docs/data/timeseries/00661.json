@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.548537886872999,
     "three_inst_ratio_change_20": -0.32999999999999996
+  },
+  {
+    "date": "2026-03-02",
+    "code": "00661",
+    "name": "元大日經225",
+    "market": "TWSE",
+    "foreign_ratio": 0.78,
+    "trust_ratio": 0.008537886872998933,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.788537886872999,
+    "three_inst_ratio_change_20": -0.08999999999999997
   }
 ]

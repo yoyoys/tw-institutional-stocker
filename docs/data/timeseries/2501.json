@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.41673270179212,
     "three_inst_ratio_change_20": -0.10227629642226432
+  },
+  {
+    "date": "2026-03-02",
+    "code": "2501",
+    "name": "國建",
+    "market": "TWSE",
+    "foreign_ratio": 9.63,
+    "trust_ratio": 0.03371810367081325,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.663718103670814,
+    "three_inst_ratio_change_20": 0.1161865336752399
   }
 ]
