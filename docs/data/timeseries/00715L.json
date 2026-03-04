@@ -1153,5 +1153,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.25,
     "three_inst_ratio_change_20": 2.4299999999999997
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00715L",
+    "name": "期街口布蘭特正2",
+    "market": "TWSE",
+    "foreign_ratio": 14.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.19,
+    "three_inst_ratio_change_20": -2.92
   }
 ]

@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.402670141512763,
     "three_inst_ratio_change_20": 3.2042767189255343
+  },
+  {
+    "date": "2026-03-03",
+    "code": "2351",
+    "name": "順德",
+    "market": "TWSE",
+    "foreign_ratio": 9.9,
+    "trust_ratio": 0.22455223501972923,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.12455223501973,
+    "three_inst_ratio_change_20": 3.296158812432501
   }
 ]

@@ -1175,5 +1175,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.91,
     "three_inst_ratio_change_20": 0.21000000000000008
+  },
+  {
+    "date": "2026-03-03",
+    "code": "3229",
+    "name": "晟鈦",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.95,
+    "three_inst_ratio_change_20": 0.08999999999999997
   }
 ]

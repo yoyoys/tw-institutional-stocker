@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.241949447801055,
     "three_inst_ratio_change_20": -0.8000000000000043
+  },
+  {
+    "date": "2026-03-03",
+    "code": "6456",
+    "name": "GIS-KY",
+    "market": "TWSE",
+    "foreign_ratio": 48.13,
+    "trust_ratio": -0.018050552198941944,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.11194944780106,
+    "three_inst_ratio_change_20": -0.9099999999999966
   }
 ]

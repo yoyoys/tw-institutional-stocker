@@ -1208,5 +1208,16 @@
     "dealer_ratio": -0.04146622412804739,
     "three_inst_ratio": 10.814040044547989,
     "three_inst_ratio_change_20": -1.0222504166659423
+  },
+  {
+    "date": "2026-03-03",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.57,
+    "trust_ratio": 2.055435542475375,
+    "dealer_ratio": -0.04146622412804739,
+    "three_inst_ratio": 10.583969318347329,
+    "three_inst_ratio_change_20": -1.1523211428666027
   }
 ]

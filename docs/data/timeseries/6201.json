@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
     "three_inst_ratio_change_20": 0.07000000000000006
+  },
+  {
+    "date": "2026-03-03",
+    "code": "6201",
+    "name": "亞弘電",
+    "market": "TWSE",
+    "foreign_ratio": 1.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.13,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

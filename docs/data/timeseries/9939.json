@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.55044516994903,
     "three_inst_ratio_change_20": 0.8585696785155559
+  },
+  {
+    "date": "2026-03-03",
+    "code": "9939",
+    "name": "宏全",
+    "market": "TWSE",
+    "foreign_ratio": 14.12,
+    "trust_ratio": 1.6121355785453002,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.7321355785453,
+    "three_inst_ratio_change_20": 0.9544063407564529
   }
 ]

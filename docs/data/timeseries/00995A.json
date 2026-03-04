@@ -218,5 +218,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.45,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00995A",
+    "name": "主動中信台灣卓越",
+    "market": "TWSE",
+    "foreign_ratio": 5.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.89,
+    "three_inst_ratio_change_20": 4.6
   }
 ]

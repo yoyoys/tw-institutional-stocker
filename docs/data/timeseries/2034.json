@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.14,
     "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-03-03",
+    "code": "2034",
+    "name": "允強",
+    "market": "TWSE",
+    "foreign_ratio": 4.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.1,
+    "three_inst_ratio_change_20": -0.010000000000000675
   }
 ]

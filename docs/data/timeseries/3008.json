@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.3062961882972016,
     "three_inst_ratio": 31.436884535946795,
     "three_inst_ratio_change_20": -0.08201449076291567
+  },
+  {
+    "date": "2026-03-03",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 29.03,
+    "trust_ratio": 1.9072348748368873,
+    "dealer_ratio": 0.3062961882972016,
+    "three_inst_ratio": 31.243531063134093,
+    "three_inst_ratio_change_20": -0.08705056508705056
   }
 ]

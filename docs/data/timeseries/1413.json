@@ -966,5 +966,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
     "three_inst_ratio_change_20": 0.04999999999999999
+  },
+  {
+    "date": "2026-03-03",
+    "code": "1413",
+    "name": "宏洲",
+    "market": "TWSE",
+    "foreign_ratio": 0.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

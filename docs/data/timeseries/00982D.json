@@ -988,5 +988,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.63,
     "three_inst_ratio_change_20": -0.6999999999999993
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00982D",
+    "name": "主動富邦動態入息",
+    "market": "TWSE",
+    "foreign_ratio": 10.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.05,
+    "three_inst_ratio_change_20": 0.5100000000000016
   }
 ]

@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.87,
     "three_inst_ratio_change_20": -1.4699999999999998
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00700",
+    "name": "富邦恒生國企",
+    "market": "TWSE",
+    "foreign_ratio": 2.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.01,
+    "three_inst_ratio_change_20": -1.56
   }
 ]

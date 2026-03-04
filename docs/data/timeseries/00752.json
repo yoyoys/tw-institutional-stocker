@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4282286756693887,
     "three_inst_ratio_change_20": -0.11749915647022613
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00752",
+    "name": "中信中國50",
+    "market": "TWSE",
+    "foreign_ratio": 1.0,
+    "trust_ratio": 0.9182286756693888,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.918228675669389,
+    "three_inst_ratio_change_20": 0.3725008435297741
   }
 ]

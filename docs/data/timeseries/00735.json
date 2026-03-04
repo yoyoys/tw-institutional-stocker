@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
     "three_inst_ratio_change_20": -0.95
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00735",
+    "name": "國泰臺韓科技",
+    "market": "TWSE",
+    "foreign_ratio": 5.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.85,
+    "three_inst_ratio_change_20": 4.09
   }
 ]

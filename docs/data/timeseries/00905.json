@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
     "three_inst_ratio_change_20": 0.47
+  },
+  {
+    "date": "2026-03-03",
+    "code": "00905",
+    "name": "FT臺灣Smart",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.69,
+    "three_inst_ratio_change_20": 0.42999999999999994
   }
 ]

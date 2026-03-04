@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.780045548100464,
     "three_inst_ratio_change_20": -0.009999999999999787
+  },
+  {
+    "date": "2026-03-03",
+    "code": "1611",
+    "name": "中電",
+    "market": "TWSE",
+    "foreign_ratio": 10.78,
+    "trust_ratio": 4.55481004641872e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.780045548100464,
+    "three_inst_ratio_change_20": -0.07000000000000028
   }
 ]
