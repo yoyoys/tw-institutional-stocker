@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.3,
     "three_inst_ratio_change_20": 0.4299999999999997
+  },
+  {
+    "date": "2026-03-04",
+    "code": "1337",
+    "name": "再生-KY",
+    "market": "TWSE",
+    "foreign_ratio": 25.26,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.26,
+    "three_inst_ratio_change_20": 0.5700000000000003
   }
 ]

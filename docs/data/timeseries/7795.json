@@ -273,5 +273,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.87,
     "three_inst_ratio_change_20": 2.2800000000000002
+  },
+  {
+    "date": "2026-03-04",
+    "code": "7795",
+    "name": "長廣",
+    "market": "TWSE",
+    "foreign_ratio": 4.02,
+    "trust_ratio": 0.05962310585638443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.079623105856384,
+    "three_inst_ratio_change_20": 2.5096231058563836
   }
 ]

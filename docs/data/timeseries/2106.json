@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.600214684413912,
     "three_inst_ratio_change_20": 0.10999999999999943
+  },
+  {
+    "date": "2026-03-04",
+    "code": "2106",
+    "name": "建大",
+    "market": "TWSE",
+    "foreign_ratio": 8.56,
+    "trust_ratio": 0.00021468441391155003,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.560214684413912,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

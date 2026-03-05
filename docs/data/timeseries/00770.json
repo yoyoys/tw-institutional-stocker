@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.05,
     "three_inst_ratio_change_20": 0.05
+  },
+  {
+    "date": "2026-03-04",
+    "code": "00770",
+    "name": "國泰北美科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2,
+    "three_inst_ratio_change_20": 0.2
   }
 ]

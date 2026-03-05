@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
     "three_inst_ratio_change_20": -0.32
+  },
+  {
+    "date": "2026-03-04",
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "market": "TWSE",
+    "foreign_ratio": 0.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.43,
+    "three_inst_ratio_change_20": -0.35000000000000003
   }
 ]

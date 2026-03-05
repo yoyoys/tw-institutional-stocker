@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.23,
     "three_inst_ratio_change_20": 0.05000000000000002
+  },
+  {
+    "date": "2026-03-04",
+    "code": "1435",
+    "name": "中福",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.22,
+    "three_inst_ratio_change_20": 0.04000000000000001
   }
 ]

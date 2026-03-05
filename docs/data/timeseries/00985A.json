@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
     "three_inst_ratio_change_20": 0.42
+  },
+  {
+    "date": "2026-03-04",
+    "code": "00985A",
+    "name": "主動野村台灣50",
+    "market": "TWSE",
+    "foreign_ratio": 1.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.08,
+    "three_inst_ratio_change_20": 0.6400000000000001
   }
 ]

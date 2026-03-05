@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.332288860912858,
     "three_inst_ratio_change_20": 0.07999999999999996
+  },
+  {
+    "date": "2026-03-04",
+    "code": "1525",
+    "name": "江申",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": -0.017711139087142006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.342288860912858,
+    "three_inst_ratio_change_20": 0.10999999999999999
   }
 ]

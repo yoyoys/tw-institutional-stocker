@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.269407940118725,
     "three_inst_ratio_change_20": -1.3338143521208536
+  },
+  {
+    "date": "2026-03-04",
+    "code": "2344",
+    "name": "華邦電",
+    "market": "TWSE",
+    "foreign_ratio": 20.03,
+    "trust_ratio": 5.94169590072282,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.97169590072282,
+    "three_inst_ratio_change_20": -0.7012152804189888
   }
 ]

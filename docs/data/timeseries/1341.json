@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.85,
     "three_inst_ratio_change_20": 0.05999999999998806
+  },
+  {
+    "date": "2026-03-04",
+    "code": "1341",
+    "name": "富林-KY",
+    "market": "TWSE",
+    "foreign_ratio": 79.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 79.85,
+    "three_inst_ratio_change_20": 0.04999999999999716
   }
 ]

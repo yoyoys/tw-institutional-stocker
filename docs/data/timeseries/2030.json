@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.33,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-03-04",
+    "code": "2030",
+    "name": "彰源",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.35,
+    "three_inst_ratio_change_20": 0.1299999999999999
   }
 ]

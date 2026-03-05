@@ -1219,5 +1219,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.596009898845385,
     "three_inst_ratio_change_20": -0.590404122920251
+  },
+  {
+    "date": "2026-03-04",
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.28,
+    "trust_ratio": 0.146009898845385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.426009898845385,
+    "three_inst_ratio_change_20": -0.6804041229202509
   }
 ]
