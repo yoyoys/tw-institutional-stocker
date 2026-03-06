@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03792338765109,
     "three_inst_ratio_change_20": 0.13932776493849564
+  },
+  {
+    "date": "2026-03-05",
+    "code": "6205",
+    "name": "詮欣",
+    "market": "TWSE",
+    "foreign_ratio": 1.69,
+    "trust_ratio": 0.2869792632067644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9769792632067644,
+    "three_inst_ratio_change_20": 0.03959965432131729
   }
 ]

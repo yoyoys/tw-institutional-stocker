@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.47,
     "three_inst_ratio_change_20": -1.6600000000000001
+  },
+  {
+    "date": "2026-03-05",
+    "code": "4142",
+    "name": "國光生",
+    "market": "TWSE",
+    "foreign_ratio": 4.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.52,
+    "three_inst_ratio_change_20": -1.5
   }
 ]

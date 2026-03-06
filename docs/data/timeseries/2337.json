@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.365963249307967,
     "three_inst_ratio_change_20": 2.938825905374628
+  },
+  {
+    "date": "2026-03-05",
+    "code": "2337",
+    "name": "旺宏",
+    "market": "TWSE",
+    "foreign_ratio": 25.36,
+    "trust_ratio": 5.867579779783943,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.227579779783945,
+    "three_inst_ratio_change_20": 4.333171833432242
   }
 ]

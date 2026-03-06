@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.95280416987379,
     "three_inst_ratio_change_20": 0.7544719247576142
+  },
+  {
+    "date": "2026-03-05",
+    "code": "6438",
+    "name": "迅得",
+    "market": "TWSE",
+    "foreign_ratio": 7.62,
+    "trust_ratio": 0.06402062128431116,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.684020621284311,
+    "three_inst_ratio_change_20": 1.2356883761681354
   }
 ]

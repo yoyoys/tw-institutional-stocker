@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.97,
     "three_inst_ratio_change_20": 0.31999999999999995
+  },
+  {
+    "date": "2026-03-05",
+    "code": "2465",
+    "name": "麗臺",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.04,
+    "three_inst_ratio_change_20": 0.33000000000000007
   }
 ]

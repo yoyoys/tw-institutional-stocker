@@ -1032,5 +1032,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.79,
     "three_inst_ratio_change_20": 0.10000000000000009
+  },
+  {
+    "date": "2026-03-05",
+    "code": "8487",
+    "name": "愛爾達-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.81,
+    "three_inst_ratio_change_20": 0.1200000000000001
   }
 ]

@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.02,
     "three_inst_ratio_change_20": -0.779999999999994
+  },
+  {
+    "date": "2026-03-05",
+    "code": "4557",
+    "name": "永新-KY",
+    "market": "TWSE",
+    "foreign_ratio": 31.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.94,
+    "three_inst_ratio_change_20": -0.9800000000000004
   }
 ]

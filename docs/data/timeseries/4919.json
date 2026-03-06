@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.344697814779664,
     "three_inst_ratio_change_20": -0.8171356674511703
+  },
+  {
+    "date": "2026-03-05",
+    "code": "4919",
+    "name": "新唐",
+    "market": "TWSE",
+    "foreign_ratio": 7.04,
+    "trust_ratio": -0.10530218522033605,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.934697814779664,
+    "three_inst_ratio_change_20": -1.4371356674511713
   }
 ]

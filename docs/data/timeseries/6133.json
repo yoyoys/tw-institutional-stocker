@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.59,
     "three_inst_ratio_change_20": -0.3100000000000005
+  },
+  {
+    "date": "2026-03-05",
+    "code": "6133",
+    "name": "金橋",
+    "market": "TWSE",
+    "foreign_ratio": 3.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.83,
+    "three_inst_ratio_change_20": -2.7699999999999996
   }
 ]

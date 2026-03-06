@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4005432191595992,
     "three_inst_ratio_change_20": -0.21629995628526943
+  },
+  {
+    "date": "2026-03-05",
+    "code": "8215",
+    "name": "明基材",
+    "market": "TWSE",
+    "foreign_ratio": 1.5,
+    "trust_ratio": -0.10696203939674481,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3930379606032552,
+    "three_inst_ratio_change_20": -0.49380521484161344
   }
 ]

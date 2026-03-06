@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.93,
     "three_inst_ratio_change_20": 1.44
+  },
+  {
+    "date": "2026-03-05",
+    "code": "00674R",
+    "name": "期元大S&P黃金反1",
+    "market": "TWSE",
+    "foreign_ratio": 1.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.95,
+    "three_inst_ratio_change_20": 1.46
   }
 ]

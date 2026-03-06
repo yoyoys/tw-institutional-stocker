@@ -1043,5 +1043,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.75,
     "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-03-05",
+    "code": "1410",
+    "name": "南染",
+    "market": "TWSE",
+    "foreign_ratio": 18.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.73,
+    "three_inst_ratio_change_20": 0.030000000000001137
   }
 ]

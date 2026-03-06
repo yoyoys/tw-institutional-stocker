@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.84,
     "three_inst_ratio_change_20": 1.5899999999999999
+  },
+  {
+    "date": "2026-03-05",
+    "code": "3138",
+    "name": "耀登",
+    "market": "TWSE",
+    "foreign_ratio": 3.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]
