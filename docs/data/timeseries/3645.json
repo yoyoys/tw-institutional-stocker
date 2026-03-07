@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.959781858849871,
     "three_inst_ratio_change_20": -2.3499999999999996
+  },
+  {
+    "date": "2026-03-06",
+    "code": "3645",
+    "name": "達邁",
+    "market": "TWSE",
+    "foreign_ratio": 9.25,
+    "trust_ratio": -0.0402181411501293,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.20978185884987,
+    "three_inst_ratio_change_20": 0.22000000000000064
   }
 ]

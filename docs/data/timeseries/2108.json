@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.8,
     "three_inst_ratio_change_20": 0.33000000000000007
+  },
+  {
+    "date": "2026-03-06",
+    "code": "2108",
+    "name": "南帝",
+    "market": "TWSE",
+    "foreign_ratio": 4.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.79,
+    "three_inst_ratio_change_20": 0.33000000000000007
   }
 ]

@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0301682355297417,
     "three_inst_ratio_change_20": 0.473273526817823
+  },
+  {
+    "date": "2026-03-06",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.1216298398540442,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8116298398540441,
+    "three_inst_ratio_change_20": 0.2547351311421254
   }
 ]

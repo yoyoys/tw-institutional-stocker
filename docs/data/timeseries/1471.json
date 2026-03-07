@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.74,
     "three_inst_ratio_change_20": -0.3800000000000001
+  },
+  {
+    "date": "2026-03-06",
+    "code": "1471",
+    "name": "首利",
+    "market": "TWSE",
+    "foreign_ratio": 0.76,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.76,
+    "three_inst_ratio_change_20": -0.33000000000000007
   }
 ]

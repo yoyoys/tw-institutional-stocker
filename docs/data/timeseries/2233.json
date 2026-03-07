@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.934784032381587,
     "three_inst_ratio_change_20": -0.8257268872795089
+  },
+  {
+    "date": "2026-03-06",
+    "code": "2233",
+    "name": "宇隆",
+    "market": "TWSE",
+    "foreign_ratio": 2.31,
+    "trust_ratio": 2.471466627512443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.781466627512443,
+    "three_inst_ratio_change_20": -0.7407029945832253
   }
 ]

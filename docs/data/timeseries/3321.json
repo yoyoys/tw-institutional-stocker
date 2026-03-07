@@ -1120,5 +1120,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.52,
     "three_inst_ratio_change_20": 0.06999999999999984
+  },
+  {
+    "date": "2026-03-06",
+    "code": "3321",
+    "name": "同泰",
+    "market": "TWSE",
+    "foreign_ratio": 2.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.5,
+    "three_inst_ratio_change_20": 0.10000000000000009
   }
 ]

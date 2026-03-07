@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.38926228980734,
     "three_inst_ratio_change_20": 0.38000000000000256
+  },
+  {
+    "date": "2026-03-06",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.45,
+    "trust_ratio": -0.0007377101926606644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.44926228980734,
+    "three_inst_ratio_change_20": 0.6000000000000014
   }
 ]

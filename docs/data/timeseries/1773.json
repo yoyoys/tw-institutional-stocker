@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.256672,
     "three_inst_ratio_change_20": 0.04886666666666617
+  },
+  {
+    "date": "2026-03-06",
+    "code": "1773",
+    "name": "勝一",
+    "market": "TWSE",
+    "foreign_ratio": 7.01,
+    "trust_ratio": -0.7776613333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.232338666666666,
+    "three_inst_ratio_change_20": -0.015466666666667628
   }
 ]

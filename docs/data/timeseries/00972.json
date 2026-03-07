@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.1,
     "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-03-06",
+    "code": "00972",
+    "name": "野村日本動能高息",
+    "market": "TWSE",
+    "foreign_ratio": 19.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.18,
+    "three_inst_ratio_change_20": -2.460000000000001
   }
 ]
