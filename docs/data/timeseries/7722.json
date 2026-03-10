@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.794705882352936,
     "three_inst_ratio_change_20": 0.17852941176470694
+  },
+  {
+    "date": "2026-03-09",
+    "code": "7722",
+    "name": "LINEPAY",
+    "market": "TWSE",
+    "foreign_ratio": 58.74,
+    "trust_ratio": 0.06470588235294118,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 58.80470588235294,
+    "three_inst_ratio_change_20": 0.15852941176471091
   }
 ]

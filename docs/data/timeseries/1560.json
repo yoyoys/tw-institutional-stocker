@@ -1252,5 +1252,16 @@
     "dealer_ratio": -0.33566398992750984,
     "three_inst_ratio": 38.08488947815352,
     "three_inst_ratio_change_20": 5.055348616449777
+  },
+  {
+    "date": "2026-03-09",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 33.53,
+    "trust_ratio": 4.82986983470032,
+    "dealer_ratio": -0.33566398992750984,
+    "three_inst_ratio": 38.02420584477281,
+    "three_inst_ratio_change_20": 4.9138216121860765
   }
 ]

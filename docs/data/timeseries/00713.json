@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5076770817613594,
     "three_inst_ratio_change_20": -0.32750984309160813
+  },
+  {
+    "date": "2026-03-09",
+    "code": "00713",
+    "name": "元大台灣高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 0.38,
+    "trust_ratio": 0.007678766061784668,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3876787660617847,
+    "three_inst_ratio_change_20": -0.44756645119122546
   }
 ]

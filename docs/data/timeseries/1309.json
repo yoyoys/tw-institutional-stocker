@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.16,
     "three_inst_ratio_change_20": -0.09999999999999964
+  },
+  {
+    "date": "2026-03-09",
+    "code": "1309",
+    "name": "台達化",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.02,
+    "three_inst_ratio_change_20": -0.22999999999999998
   }
 ]

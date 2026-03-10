@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.998253968253968,
     "three_inst_ratio_change_20": 0.6347619047619038
+  },
+  {
+    "date": "2026-03-09",
+    "code": "6782",
+    "name": "視陽",
+    "market": "TWSE",
+    "foreign_ratio": 8.61,
+    "trust_ratio": -0.3841269841269841,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.225873015873015,
+    "three_inst_ratio_change_20": 1.0241269841269833
   }
 ]

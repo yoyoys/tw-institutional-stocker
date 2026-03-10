@@ -174,5 +174,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-03-09",
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

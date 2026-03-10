@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.052049943775115,
     "three_inst_ratio_change_20": 0.05872241491337782
+  },
+  {
+    "date": "2026-03-09",
+    "code": "2850",
+    "name": "新產",
+    "market": "TWSE",
+    "foreign_ratio": 9.83,
+    "trust_ratio": 0.21204994377511566,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.042049943775115,
+    "three_inst_ratio_change_20": 0.18600174134147807
   }
 ]

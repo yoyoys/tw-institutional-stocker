@@ -1241,5 +1241,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.01,
     "three_inst_ratio_change_20": 0.019999999999999574
+  },
+  {
+    "date": "2026-03-09",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 3.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.99,
+    "three_inst_ratio_change_20": 0.07000000000000028
   }
 ]

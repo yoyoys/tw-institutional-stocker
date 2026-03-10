@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9430408993468475,
     "three_inst_ratio_change_20": -0.5206608179869363
+  },
+  {
+    "date": "2026-03-09",
+    "code": "3622",
+    "name": "洋華",
+    "market": "TWSE",
+    "foreign_ratio": 3.89,
+    "trust_ratio": 0.0330408993468475,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.9230408993468475,
+    "three_inst_ratio_change_20": -0.5006608179869363
   }
 ]

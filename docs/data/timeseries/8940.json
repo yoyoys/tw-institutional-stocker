@@ -1208,5 +1208,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.42,
     "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
+    "date": "2026-03-09",
+    "code": "8940",
+    "name": "新天地",
+    "market": "TWSE",
+    "foreign_ratio": 8.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.39,
+    "three_inst_ratio_change_20": -0.019999999999999574
   }
 ]

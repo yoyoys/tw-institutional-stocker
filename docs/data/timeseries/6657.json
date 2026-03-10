@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.75,
     "three_inst_ratio_change_20": -0.13999999999999968
+  },
+  {
+    "date": "2026-03-09",
+    "code": "6657",
+    "name": "華安",
+    "market": "TWSE",
+    "foreign_ratio": 7.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.74,
+    "three_inst_ratio_change_20": 0.40000000000000036
   }
 ]

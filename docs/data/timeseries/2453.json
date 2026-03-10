@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.87,
     "three_inst_ratio_change_20": -0.16000000000000014
+  },
+  {
+    "date": "2026-03-09",
+    "code": "2453",
+    "name": "凌群",
+    "market": "TWSE",
+    "foreign_ratio": 3.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.64,
+    "three_inst_ratio_change_20": -0.4599999999999995
   }
 ]

@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 51.20256189351909,
     "three_inst_ratio_change_20": 2.8048316059304597
+  },
+  {
+    "date": "2026-03-09",
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 51.4,
+    "trust_ratio": 0.09640385582428405,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 51.49640385582428,
+    "three_inst_ratio_change_20": 3.0369040377601806
   }
 ]
