@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.28,
     "three_inst_ratio_change_20": -0.10000000000000142
+  },
+  {
+    "date": "2026-03-10",
+    "code": "4133",
+    "name": "亞諾法",
+    "market": "TWSE",
+    "foreign_ratio": 12.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.29,
+    "three_inst_ratio_change_20": 0.29999999999999893
   }
 ]

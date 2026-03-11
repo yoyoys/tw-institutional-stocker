@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.224943033269785,
     "three_inst_ratio_change_20": -3.25
+  },
+  {
+    "date": "2026-03-10",
+    "code": "5203",
+    "name": "訊連",
+    "market": "TWSE",
+    "foreign_ratio": 13.25,
+    "trust_ratio": -0.005056966730215882,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.244943033269784,
+    "three_inst_ratio_change_20": -3.09
   }
 ]

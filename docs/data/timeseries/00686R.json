@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.12,
     "three_inst_ratio_change_20": 0.01999999999999999
+  },
+  {
+    "date": "2026-03-10",
+    "code": "00686R",
+    "name": "群益臺灣加權反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.12,
+    "three_inst_ratio_change_20": 0.01999999999999999
   }
 ]

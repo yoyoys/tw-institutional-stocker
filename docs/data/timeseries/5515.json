@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.79738081597228,
     "three_inst_ratio_change_20": 0.11990081452545454
+  },
+  {
+    "date": "2026-03-10",
+    "code": "5515",
+    "name": "建國",
+    "market": "TWSE",
+    "foreign_ratio": 10.4,
+    "trust_ratio": 0.3273808159722791,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.72738081597228,
+    "three_inst_ratio_change_20": -0.02761902777778502
   }
 ]

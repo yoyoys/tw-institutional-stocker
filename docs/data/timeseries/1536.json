@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.965107760709347,
     "three_inst_ratio_change_20": -0.1800000000000006
+  },
+  {
+    "date": "2026-03-10",
+    "code": "1536",
+    "name": "和大",
+    "market": "TWSE",
+    "foreign_ratio": 7.81,
+    "trust_ratio": 0.1251077607093471,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.9351077607093465,
+    "three_inst_ratio_change_20": 0.29000000000000004
   }
 ]

@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
     "three_inst_ratio_change_20": -0.43000000000000016
+  },
+  {
+    "date": "2026-03-10",
+    "code": "00952",
+    "name": "凱基台灣AI50",
+    "market": "TWSE",
+    "foreign_ratio": 2.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.32,
+    "three_inst_ratio_change_20": -0.40000000000000036
   }
 ]

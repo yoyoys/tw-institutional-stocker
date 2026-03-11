@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.49,
     "three_inst_ratio_change_20": 0.07000000000000028
+  },
+  {
+    "date": "2026-03-10",
+    "code": "2349",
+    "name": "錸德",
+    "market": "TWSE",
+    "foreign_ratio": 11.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.4,
+    "three_inst_ratio_change_20": -0.3100000000000005
   }
 ]

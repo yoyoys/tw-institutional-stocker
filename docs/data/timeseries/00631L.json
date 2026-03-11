@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.856409463048657,
     "three_inst_ratio_change_20": -0.7239368071691159
+  },
+  {
+    "date": "2026-03-10",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.24,
+    "trust_ratio": 0.5158165866223069,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.755816586622307,
+    "three_inst_ratio_change_20": 1.418399870381974
   }
 ]

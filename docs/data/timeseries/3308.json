@@ -1252,5 +1252,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.08,
     "three_inst_ratio_change_20": 0.6600000000000001
+  },
+  {
+    "date": "2026-03-10",
+    "code": "3308",
+    "name": "聯德",
+    "market": "TWSE",
+    "foreign_ratio": 0.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8,
+    "three_inst_ratio_change_20": 0.30000000000000004
   }
 ]

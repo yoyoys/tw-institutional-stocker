@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.76,
     "three_inst_ratio_change_20": 0.09999999999999964
+  },
+  {
+    "date": "2026-03-10",
+    "code": "3518",
+    "name": "柏騰",
+    "market": "TWSE",
+    "foreign_ratio": 5.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.74,
+    "three_inst_ratio_change_20": 0.0600000000000005
   }
 ]

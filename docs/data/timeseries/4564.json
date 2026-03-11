@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.81,
     "three_inst_ratio_change_20": -0.10999999999999988
+  },
+  {
+    "date": "2026-03-10",
+    "code": "4564",
+    "name": "元翎",
+    "market": "TWSE",
+    "foreign_ratio": 2.76,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.76,
+    "three_inst_ratio_change_20": -0.050000000000000266
   }
 ]

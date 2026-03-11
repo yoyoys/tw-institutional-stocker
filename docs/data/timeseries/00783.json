@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.16,
     "three_inst_ratio_change_20": 0.9300000000000002
+  },
+  {
+    "date": "2026-03-10",
+    "code": "00783",
+    "name": "富邦中証500",
+    "market": "TWSE",
+    "foreign_ratio": 4.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.13,
+    "three_inst_ratio_change_20": 0.8999999999999999
   }
 ]

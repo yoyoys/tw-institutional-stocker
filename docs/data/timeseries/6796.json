@@ -1230,5 +1230,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.71,
     "three_inst_ratio_change_20": 0.10000000000000142
+  },
+  {
+    "date": "2026-03-10",
+    "code": "6796",
+    "name": "晉弘",
+    "market": "TWSE",
+    "foreign_ratio": 14.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.74,
+    "three_inst_ratio_change_20": -0.08000000000000007
   }
 ]

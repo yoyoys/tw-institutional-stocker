@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.05,
     "three_inst_ratio_change_20": -0.9599999999999997
+  },
+  {
+    "date": "2026-03-10",
+    "code": "2613",
+    "name": "中櫃",
+    "market": "TWSE",
+    "foreign_ratio": 0.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.98,
+    "three_inst_ratio_change_20": -1.0
   }
 ]

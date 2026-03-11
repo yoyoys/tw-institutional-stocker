@@ -1263,5 +1263,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.2,
     "three_inst_ratio_change_20": -0.05999999999999961
+  },
+  {
+    "date": "2026-03-10",
+    "code": "2642",
+    "name": "宅配通",
+    "market": "TWSE",
+    "foreign_ratio": 5.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.19,
+    "three_inst_ratio_change_20": -0.02999999999999936
   }
 ]
