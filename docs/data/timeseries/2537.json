@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
     "three_inst_ratio_change_20": -0.3999999999999999
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2537",
+    "name": "聯上發",
+    "market": "TWSE",
+    "foreign_ratio": 2.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.77,
+    "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2537",
+    "name": "聯上發",
+    "market": "TWSE",
+    "foreign_ratio": 2.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.61,
+    "three_inst_ratio_change_20": -0.22999999999999998
   }
 ]

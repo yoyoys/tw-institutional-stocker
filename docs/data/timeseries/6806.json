@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.138179454133499,
     "three_inst_ratio_change_20": -1.1907282183466004
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6806",
+    "name": "森崴能源",
+    "market": "TWSE",
+    "foreign_ratio": 2.31,
+    "trust_ratio": -0.0018205458665012213,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.308179454133499,
+    "three_inst_ratio_change_20": -1.1103641091733003
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6806",
+    "name": "森崴能源",
+    "market": "TWSE",
+    "foreign_ratio": 2.25,
+    "trust_ratio": -0.016154795800985236,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2338452041990147,
+    "three_inst_ratio_change_20": -1.2546983591077847
   }
 ]

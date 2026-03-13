@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.23,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 4.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.25,
+    "three_inst_ratio_change_20": 0.05999999999999961
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 4.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.28,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

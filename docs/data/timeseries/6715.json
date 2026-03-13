@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.24,
     "three_inst_ratio_change_20": 1.5000000000000002
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6715",
+    "name": "嘉基",
+    "market": "TWSE",
+    "foreign_ratio": 3.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.24,
+    "three_inst_ratio_change_20": 1.6100000000000003
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6715",
+    "name": "嘉基",
+    "market": "TWSE",
+    "foreign_ratio": 3.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.74,
+    "three_inst_ratio_change_20": 2.18
   }
 ]

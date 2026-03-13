@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.076915377435306,
     "three_inst_ratio_change_20": 1.7800000000000011
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4755",
+    "name": "三福化",
+    "market": "TWSE",
+    "foreign_ratio": 22.92,
+    "trust_ratio": 0.43691537743530673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.356915377435307,
+    "three_inst_ratio_change_20": 2.0
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4755",
+    "name": "三福化",
+    "market": "TWSE",
+    "foreign_ratio": 22.82,
+    "trust_ratio": 0.43691537743530673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.256915377435305,
+    "three_inst_ratio_change_20": 1.8399999999999999
   }
 ]

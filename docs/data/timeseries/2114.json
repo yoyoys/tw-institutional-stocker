@@ -1219,5 +1219,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94,
     "three_inst_ratio_change_20": 0.06000000000000005
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2114",
+    "name": "鑫永銓",
+    "market": "TWSE",
+    "foreign_ratio": 3.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.95,
+    "three_inst_ratio_change_20": 0.0900000000000003
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2114",
+    "name": "鑫永銓",
+    "market": "TWSE",
+    "foreign_ratio": 3.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.94,
+    "three_inst_ratio_change_20": 0.08000000000000007
   }
 ]

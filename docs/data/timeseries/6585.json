@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.54,
     "three_inst_ratio_change_20": -0.14000000000000057
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6585",
+    "name": "鼎基",
+    "market": "TWSE",
+    "foreign_ratio": 12.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.58,
+    "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6585",
+    "name": "鼎基",
+    "market": "TWSE",
+    "foreign_ratio": 12.62,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.62,
+    "three_inst_ratio_change_20": -0.010000000000001563
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.03,
     "three_inst_ratio_change_20": -0.19999999999999996
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00938",
+    "name": "凱基優選30",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": -0.1399999999999999
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00938",
+    "name": "凱基優選30",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1,
+    "three_inst_ratio_change_20": -0.11999999999999988
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.341277382855206,
     "three_inst_ratio_change_20": -1.3999821660004592
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "foreign_ratio": 6.31,
+    "trust_ratio": 0.0012773828552064134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.311277382855206,
+    "three_inst_ratio_change_20": -1.3899821660004594
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "foreign_ratio": 6.03,
+    "trust_ratio": 0.0012773828552064134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.031277382855206,
+    "three_inst_ratio_change_20": -1.4899821660004582
   }
 ]

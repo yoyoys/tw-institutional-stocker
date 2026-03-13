@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.867866273352999,
     "three_inst_ratio_change_20": -0.20067161351999985
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00661",
+    "name": "元大日經225",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.007866273352999017,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.997866273352999,
+    "three_inst_ratio_change_20": -0.12067161351999989
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00661",
+    "name": "元大日經225",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.007866273352999017,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0978662733529991,
+    "three_inst_ratio_change_20": -0.030671613519999807
   }
 ]

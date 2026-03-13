@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.577208785046079,
     "three_inst_ratio_change_20": -2.4695281755103444
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4967",
+    "name": "十銓",
+    "market": "TWSE",
+    "foreign_ratio": 14.11,
+    "trust_ratio": 0.3483857639784374,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.458385763978438,
+    "three_inst_ratio_change_20": -1.5924663019161862
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4967",
+    "name": "十銓",
+    "market": "TWSE",
+    "foreign_ratio": 13.2,
+    "trust_ratio": 0.3460318061137182,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.546031806113717,
+    "three_inst_ratio_change_20": -4.5136605645487755
   }
 ]

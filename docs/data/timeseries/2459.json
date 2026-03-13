@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.09,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2459",
+    "name": "敦吉",
+    "market": "TWSE",
+    "foreign_ratio": 17.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.11,
+    "three_inst_ratio_change_20": 0.07000000000000028
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2459",
+    "name": "敦吉",
+    "market": "TWSE",
+    "foreign_ratio": 17.08,
+    "trust_ratio": -0.018940180423211703,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.061059819576787,
+    "three_inst_ratio_change_20": 0.03105981957678594
   }
 ]

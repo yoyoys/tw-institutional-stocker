@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0035577290963698244,
     "three_inst_ratio": 17.215844100510136,
     "three_inst_ratio_change_20": 1.4459554818788973
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6770",
+    "name": "力積電",
+    "market": "TWSE",
+    "foreign_ratio": 16.84,
+    "trust_ratio": 0.3616655596251363,
+    "dealer_ratio": 0.0035577290963698244,
+    "three_inst_ratio": 17.20522328872151,
+    "three_inst_ratio_change_20": -0.42887236891872504
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6770",
+    "name": "力積電",
+    "market": "TWSE",
+    "foreign_ratio": 15.78,
+    "trust_ratio": 0.35913455771765174,
+    "dealer_ratio": 0.0035577290963698244,
+    "three_inst_ratio": 16.14269228681402,
+    "three_inst_ratio_change_20": -0.068060538118214
   }
 ]

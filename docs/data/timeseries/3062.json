@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.87,
     "three_inst_ratio_change_20": 0.16999999999999993
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3062",
+    "name": "建漢",
+    "market": "TWSE",
+    "foreign_ratio": 8.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.89,
+    "three_inst_ratio_change_20": 0.030000000000001137
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3062",
+    "name": "建漢",
+    "market": "TWSE",
+    "foreign_ratio": 8.68,
+    "trust_ratio": -0.01393365082630881,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.666066349173692,
+    "three_inst_ratio_change_20": -0.1639336508263085
   }
 ]

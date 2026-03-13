@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.11,
     "three_inst_ratio_change_20": -0.10000000000000142
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1437",
+    "name": "勤益控",
+    "market": "TWSE",
+    "foreign_ratio": 8.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.1,
+    "three_inst_ratio_change_20": -0.11000000000000121
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1437",
+    "name": "勤益控",
+    "market": "TWSE",
+    "foreign_ratio": 8.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.09,
+    "three_inst_ratio_change_20": -0.08999999999999986
   }
 ]

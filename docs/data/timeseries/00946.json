@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.22,
     "three_inst_ratio_change_20": -0.96
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00946",
+    "name": "群益科技高息成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.62,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.62,
+    "three_inst_ratio_change_20": -0.35
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00946",
+    "name": "群益科技高息成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.55,
+    "three_inst_ratio_change_20": 0.25000000000000006
   }
 ]

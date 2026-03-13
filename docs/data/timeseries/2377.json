@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.635606558613887,
     "three_inst_ratio_change_20": -0.14494535735779124
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2377",
+    "name": "微星",
+    "market": "TWSE",
+    "foreign_ratio": 15.07,
+    "trust_ratio": -4.193801624695187,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.876198375304813,
+    "three_inst_ratio_change_20": 0.23439606902854848
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2377",
+    "name": "微星",
+    "market": "TWSE",
+    "foreign_ratio": 15.07,
+    "trust_ratio": -4.1928547179897055,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.877145282010295,
+    "three_inst_ratio_change_20": 0.4929148252245952
   }
 ]

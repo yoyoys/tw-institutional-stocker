@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.816750952063787,
     "three_inst_ratio_change_20": -0.1738731367700046
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2497",
+    "name": "怡利電",
+    "market": "TWSE",
+    "foreign_ratio": 2.57,
+    "trust_ratio": 0.26844460890228716,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.838444608902287,
+    "three_inst_ratio_change_20": -0.15794533783525422
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2497",
+    "name": "怡利電",
+    "market": "TWSE",
+    "foreign_ratio": 2.54,
+    "trust_ratio": 0.26505729522528665,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8050572952252866,
+    "three_inst_ratio_change_20": -0.2013326515122542
   }
 ]

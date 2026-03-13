@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3530065624659864,
     "three_inst_ratio_change_20": -0.52
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2302",
+    "name": "麗正",
+    "market": "TWSE",
+    "foreign_ratio": 2.56,
+    "trust_ratio": 0.003006562465986383,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.5630065624659863,
+    "three_inst_ratio_change_20": -0.44999999999999973
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2302",
+    "name": "麗正",
+    "market": "TWSE",
+    "foreign_ratio": 2.28,
+    "trust_ratio": 0.003006562465986383,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.283006562465986,
+    "three_inst_ratio_change_20": -0.8900000000000001
   }
 ]

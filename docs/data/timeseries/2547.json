@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.550862170508623,
     "three_inst_ratio_change_20": 0.028550857159345355
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2547",
+    "name": "日勝生",
+    "market": "TWSE",
+    "foreign_ratio": 15.11,
+    "trust_ratio": 0.08018590384964883,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.190185903849649,
+    "three_inst_ratio_change_20": -0.25212540949962836
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2547",
+    "name": "日勝生",
+    "market": "TWSE",
+    "foreign_ratio": 15.13,
+    "trust_ratio": 0.08018590384964883,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.21018590384965,
+    "three_inst_ratio_change_20": -0.232125409499627
   }
 ]

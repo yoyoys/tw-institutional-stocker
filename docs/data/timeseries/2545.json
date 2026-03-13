@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.69,
     "three_inst_ratio_change_20": 0.10000000000000009
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2545",
+    "name": "皇翔",
+    "market": "TWSE",
+    "foreign_ratio": 2.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.71,
+    "three_inst_ratio_change_20": 0.16999999999999993
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2545",
+    "name": "皇翔",
+    "market": "TWSE",
+    "foreign_ratio": 2.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.71,
+    "three_inst_ratio_change_20": 0.18000000000000016
   }
 ]

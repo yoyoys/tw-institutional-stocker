@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0132934131736526,
     "three_inst_ratio_change_20": 0.8129940119760479
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3051",
+    "name": "力特",
+    "market": "TWSE",
+    "foreign_ratio": 2.55,
+    "trust_ratio": -0.44670658682634734,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1032934131736525,
+    "three_inst_ratio_change_20": 0.8729940119760478
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3051",
+    "name": "力特",
+    "market": "TWSE",
+    "foreign_ratio": 2.47,
+    "trust_ratio": -0.44670658682634734,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.023293413173653,
+    "three_inst_ratio_change_20": 0.7529940119760481
   }
 ]

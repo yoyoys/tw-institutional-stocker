@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.348142408665838,
     "three_inst_ratio_change_20": 0.2084879456022577
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2420",
+    "name": "新巨",
+    "market": "TWSE",
+    "foreign_ratio": 6.15,
+    "trust_ratio": 0.258142408665838,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.408142408665839,
+    "three_inst_ratio_change_20": 0.2703163268589641
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2420",
+    "name": "新巨",
+    "market": "TWSE",
+    "foreign_ratio": 6.17,
+    "trust_ratio": 0.258142408665838,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.428142408665838,
+    "three_inst_ratio_change_20": 0.32031632685896483
   }
 ]

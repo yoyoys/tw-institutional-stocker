@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.328367656596363,
     "three_inst_ratio_change_20": 0.6786836166650811
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 2.38,
+    "trust_ratio": 6.968367656596364,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.348367656596363,
+    "three_inst_ratio_change_20": 0.7287380126706573
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 2.31,
+    "trust_ratio": 6.968367656596364,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.278367656596364,
+    "three_inst_ratio_change_20": 0.6488903214862685
   }
 ]

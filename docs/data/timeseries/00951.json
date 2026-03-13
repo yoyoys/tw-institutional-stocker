@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.35,
     "three_inst_ratio_change_20": 0.22999999999999998
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00951",
+    "name": "台新日本半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.63,
+    "three_inst_ratio_change_20": 0.5199999999999998
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00951",
+    "name": "台新日本半導體",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.61,
+    "three_inst_ratio_change_20": 0.51
   }
 ]

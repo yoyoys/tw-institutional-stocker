@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.75425135720393,
     "three_inst_ratio_change_20": -5.220389496151519
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 34.73,
+    "trust_ratio": 0.6742513572039279,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.404251357203925,
+    "three_inst_ratio_change_20": -5.470389496151519
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 34.02,
+    "trust_ratio": 0.6600047566119659,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 34.68000475661197,
+    "three_inst_ratio_change_20": -6.1337284676164785
   }
 ]

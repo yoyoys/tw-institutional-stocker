@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6905489317832582,
     "three_inst_ratio_change_20": 0.06999999999999995
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.7,
+    "trust_ratio": 0.000548931783258179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7005489317832582,
+    "three_inst_ratio_change_20": 0.08999999999999997
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2524",
+    "name": "京城",
+    "market": "TWSE",
+    "foreign_ratio": 0.71,
+    "trust_ratio": -0.01338612095251441,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6966138790474855,
+    "three_inst_ratio_change_20": 0.08606494726422731
   }
 ]

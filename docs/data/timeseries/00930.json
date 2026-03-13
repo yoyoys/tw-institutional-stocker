@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
     "three_inst_ratio_change_20": -0.99
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00930",
+    "name": "永豐ESG低碳高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.82,
+    "three_inst_ratio_change_20": -0.67
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00930",
+    "name": "永豐ESG低碳高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.34,
+    "three_inst_ratio_change_20": -0.03999999999999998
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.323351645545627,
     "three_inst_ratio_change_20": -0.7100000000000009
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1305",
+    "name": "華夏",
+    "market": "TWSE",
+    "foreign_ratio": 4.1,
+    "trust_ratio": 0.05335164554562792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.153351645545627,
+    "three_inst_ratio_change_20": -0.7600000000000007
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1305",
+    "name": "華夏",
+    "market": "TWSE",
+    "foreign_ratio": 4.51,
+    "trust_ratio": 0.05335164554562792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.5633516455456276,
+    "three_inst_ratio_change_20": -0.20999999999999996
   }
 ]

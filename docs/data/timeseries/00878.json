@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.1592994847710491,
     "three_inst_ratio_change_20": -0.3200048212269761
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00878",
+    "name": "國泰永續高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.23,
+    "trust_ratio": -0.0007005152289508934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2292994847710491,
+    "three_inst_ratio_change_20": -0.2400039385550149
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00878",
+    "name": "國泰永續高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": -0.0007005152289508934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.1992994847710491,
+    "three_inst_ratio_change_20": -0.020003626488731607
   }
 ]

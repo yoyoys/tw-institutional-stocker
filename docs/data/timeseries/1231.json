@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.72,
     "three_inst_ratio_change_20": -0.13999999999999968
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1231",
+    "name": "聯華食",
+    "market": "TWSE",
+    "foreign_ratio": 2.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.71,
+    "three_inst_ratio_change_20": -0.10999999999999988
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1231",
+    "name": "聯華食",
+    "market": "TWSE",
+    "foreign_ratio": 2.7,
+    "trust_ratio": -0.0043557731878538595,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.695644226812146,
+    "three_inst_ratio_change_20": -0.09435577318785393
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.964809601598889,
     "three_inst_ratio_change_20": 0.29732168747835797
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1227",
+    "name": "佳格",
+    "market": "TWSE",
+    "foreign_ratio": 5.9,
+    "trust_ratio": 0.04480960159888869,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.944809601598889,
+    "three_inst_ratio_change_20": 0.29732168747835797
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1227",
+    "name": "佳格",
+    "market": "TWSE",
+    "foreign_ratio": 5.91,
+    "trust_ratio": 0.04480960159888869,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.954809601598889,
+    "three_inst_ratio_change_20": 0.35732168747835846
   }
 ]

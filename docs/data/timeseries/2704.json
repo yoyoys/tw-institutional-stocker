@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.92,
     "three_inst_ratio_change_20": -0.07000000000000028
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2704",
+    "name": "國賓",
+    "market": "TWSE",
+    "foreign_ratio": 9.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.95,
+    "three_inst_ratio_change_20": -0.02000000000000135
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2704",
+    "name": "國賓",
+    "market": "TWSE",
+    "foreign_ratio": 9.95,
+    "trust_ratio": -0.019895163769943085,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.930104836230056,
+    "three_inst_ratio_change_20": -0.029895163769944944
   }
 ]

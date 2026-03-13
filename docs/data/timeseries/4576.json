@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.8310497313864473,
     "three_inst_ratio_change_20": 0.36235527518740773
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4576",
+    "name": "大銀微系統",
+    "market": "TWSE",
+    "foreign_ratio": 1.98,
+    "trust_ratio": 0.14774396468408402,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.127743964684084,
+    "three_inst_ratio_change_20": 0.7390495084850444
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4576",
+    "name": "大銀微系統",
+    "market": "TWSE",
+    "foreign_ratio": 2.2,
+    "trust_ratio": 0.13355386638109287,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.333553866381093,
+    "three_inst_ratio_change_20": 0.7848594101820532
   }
 ]

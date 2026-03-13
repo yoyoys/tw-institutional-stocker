@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.8,
     "three_inst_ratio_change_20": -0.16999999999999815
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4935",
+    "name": "茂林-KY",
+    "market": "TWSE",
+    "foreign_ratio": 26.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.83,
+    "three_inst_ratio_change_20": -0.120000000000001
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4935",
+    "name": "茂林-KY",
+    "market": "TWSE",
+    "foreign_ratio": 26.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.83,
+    "three_inst_ratio_change_20": -0.08000000000000185
   }
 ]

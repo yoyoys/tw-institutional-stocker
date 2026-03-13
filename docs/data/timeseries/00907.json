@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.23,
     "three_inst_ratio_change_20": -0.44000000000000006
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00907",
+    "name": "永豐優息存股",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": -0.30000000000000004
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00907",
+    "name": "永豐優息存股",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.36,
+    "three_inst_ratio_change_20": -0.29000000000000004
   }
 ]

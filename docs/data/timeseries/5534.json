@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.031547263634295,
     "three_inst_ratio_change_20": -0.8841108304610454
+  },
+  {
+    "date": "2026-03-11",
+    "code": "5534",
+    "name": "長虹",
+    "market": "TWSE",
+    "foreign_ratio": 11.21,
+    "trust_ratio": 0.7715472636342957,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.981547263634297,
+    "three_inst_ratio_change_20": -0.7541108304610429
+  },
+  {
+    "date": "2026-03-12",
+    "code": "5534",
+    "name": "長虹",
+    "market": "TWSE",
+    "foreign_ratio": 11.19,
+    "trust_ratio": 0.7715472636342957,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.961547263634294,
+    "three_inst_ratio_change_20": -0.774110830461046
   }
 ]

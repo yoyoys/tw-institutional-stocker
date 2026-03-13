@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.926161825566279,
     "three_inst_ratio_change_20": -4.449999999999999
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2374",
+    "name": "佳能",
+    "market": "TWSE",
+    "foreign_ratio": 4.65,
+    "trust_ratio": 0.006161825566278778,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.656161825566279,
+    "three_inst_ratio_change_20": -1.6099999999999994
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2374",
+    "name": "佳能",
+    "market": "TWSE",
+    "foreign_ratio": 4.57,
+    "trust_ratio": 0.029268671439824197,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.599268671439824,
+    "three_inst_ratio_change_20": -2.476893154126455
   }
 ]

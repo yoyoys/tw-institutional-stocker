@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47222238105826575,
     "three_inst_ratio_change_20": 0.03999999999999998
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2701",
+    "name": "萬企",
+    "market": "TWSE",
+    "foreign_ratio": 0.47,
+    "trust_ratio": 0.0022223810582657688,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.47222238105826575,
+    "three_inst_ratio_change_20": 0.02999999999999997
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2701",
+    "name": "萬企",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.0022223810582657688,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4622223810582658,
+    "three_inst_ratio_change_20": 0.030000000000000027
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.125807834775117,
     "three_inst_ratio_change_20": 0.2633839713105761
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3004",
+    "name": "豐達科",
+    "market": "TWSE",
+    "foreign_ratio": 4.08,
+    "trust_ratio": -0.764192165224883,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.315807834775117,
+    "three_inst_ratio_change_20": 0.3833839713105762
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3004",
+    "name": "豐達科",
+    "market": "TWSE",
+    "foreign_ratio": 3.78,
+    "trust_ratio": -0.764192165224883,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0158078347751167,
+    "three_inst_ratio_change_20": -0.18661602868942362
   }
 ]

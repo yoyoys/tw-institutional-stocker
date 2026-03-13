@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.41,
     "three_inst_ratio_change_20": 0.8000000000000003
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4104",
+    "name": "佳醫",
+    "market": "TWSE",
+    "foreign_ratio": 4.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.42,
+    "three_inst_ratio_change_20": -0.020000000000000462
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4104",
+    "name": "佳醫",
+    "market": "TWSE",
+    "foreign_ratio": 4.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.38,
+    "three_inst_ratio_change_20": -0.03000000000000025
   }
 ]

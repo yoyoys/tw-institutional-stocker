@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
     "three_inst_ratio_change_20": -0.3899999999999999
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8104",
+    "name": "錸寶",
+    "market": "TWSE",
+    "foreign_ratio": 1.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.38,
+    "three_inst_ratio_change_20": -0.15000000000000013
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8104",
+    "name": "錸寶",
+    "market": "TWSE",
+    "foreign_ratio": 1.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.49,
+    "three_inst_ratio_change_20": 0.48
   }
 ]

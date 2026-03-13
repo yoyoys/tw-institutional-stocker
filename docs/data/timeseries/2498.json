@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.627202468563862,
     "three_inst_ratio_change_20": 1.2364080394657222
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2498",
+    "name": "宏達電",
+    "market": "TWSE",
+    "foreign_ratio": 9.51,
+    "trust_ratio": 0.0670827365460526,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.577082736546052,
+    "three_inst_ratio_change_20": 0.9673658956081965
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2498",
+    "name": "宏達電",
+    "market": "TWSE",
+    "foreign_ratio": 9.35,
+    "trust_ratio": 0.06684327251043412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.416843272510434,
+    "three_inst_ratio_change_20": 0.7174856276260044
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.995318411370244,
     "three_inst_ratio_change_20": -0.4889320658096228
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1532",
+    "name": "勤美",
+    "market": "TWSE",
+    "foreign_ratio": 8.19,
+    "trust_ratio": -0.15531622490393618,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.034683775096063,
+    "three_inst_ratio_change_20": -0.3845937282067844
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1532",
+    "name": "勤美",
+    "market": "TWSE",
+    "foreign_ratio": 8.16,
+    "trust_ratio": -0.15779655951465762,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.002203440485342,
+    "three_inst_ratio_change_20": -0.36493802193494673
   }
 ]

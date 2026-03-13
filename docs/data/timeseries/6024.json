@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.5175994006567657,
     "three_inst_ratio_change_20": 0.3787997003283827
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6024",
+    "name": "群益期",
+    "market": "TWSE",
+    "foreign_ratio": 3.57,
+    "trust_ratio": -0.0024005993432344294,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5675994006567655,
+    "three_inst_ratio_change_20": 0.4687997003283826
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6024",
+    "name": "群益期",
+    "market": "TWSE",
+    "foreign_ratio": 3.67,
+    "trust_ratio": -0.002800699233773501,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.6671993007662262,
+    "three_inst_ratio_change_20": 0.5983996004378436
   }
 ]

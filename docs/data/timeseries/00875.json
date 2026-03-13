@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.55,
     "three_inst_ratio_change_20": -0.21999999999999997
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00875",
+    "name": "國泰網路資安",
+    "market": "TWSE",
+    "foreign_ratio": 2.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.56,
+    "three_inst_ratio_change_20": 0.79
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00875",
+    "name": "國泰網路資安",
+    "market": "TWSE",
+    "foreign_ratio": 0.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4,
+    "three_inst_ratio_change_20": -2.0300000000000002
   }
 ]

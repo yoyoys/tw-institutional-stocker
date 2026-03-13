@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.846154705986915,
     "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3130",
+    "name": "一零四",
+    "market": "TWSE",
+    "foreign_ratio": 21.79,
+    "trust_ratio": 0.03615470598691802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.826154705986916,
+    "three_inst_ratio_change_20": -0.03999999999999915
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3130",
+    "name": "一零四",
+    "market": "TWSE",
+    "foreign_ratio": 21.75,
+    "trust_ratio": 0.03615470598691802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.786154705986917,
+    "three_inst_ratio_change_20": -0.05000000000000071
   }
 ]

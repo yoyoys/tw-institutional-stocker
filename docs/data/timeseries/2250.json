@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.07,
     "three_inst_ratio_change_20": -0.22999999999999954
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2250",
+    "name": "IKKA-KY",
+    "market": "TWSE",
+    "foreign_ratio": 7.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.17,
+    "three_inst_ratio_change_20": -0.1200000000000001
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2250",
+    "name": "IKKA-KY",
+    "market": "TWSE",
+    "foreign_ratio": 7.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.18,
+    "three_inst_ratio_change_20": -0.08000000000000007
   }
 ]

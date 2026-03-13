@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.04475035110675,
     "three_inst_ratio_change_20": -0.13013703625715323
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2801",
+    "name": "彰銀",
+    "market": "TWSE",
+    "foreign_ratio": 18.34,
+    "trust_ratio": -0.27541322125720524,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.064586778742793,
+    "three_inst_ratio_change_20": -0.09030060862111
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2801",
+    "name": "彰銀",
+    "market": "TWSE",
+    "foreign_ratio": 18.3,
+    "trust_ratio": -0.2754918033042344,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.024508196695766,
+    "three_inst_ratio_change_20": -0.09912300297244059
   }
 ]

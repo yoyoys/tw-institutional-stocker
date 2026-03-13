@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.42,
     "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6558",
+    "name": "興能高",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.41,
+    "three_inst_ratio_change_20": 0.5299999999999999
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6558",
+    "name": "興能高",
+    "market": "TWSE",
+    "foreign_ratio": 1.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.32,
+    "three_inst_ratio_change_20": 0.6100000000000001
   }
 ]

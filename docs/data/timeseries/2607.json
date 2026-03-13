@@ -1208,5 +1208,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.403468754582513,
     "three_inst_ratio_change_20": -0.2456224992493823
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 9.65,
+    "trust_ratio": -2.2365312454174875,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.413468754582513,
+    "three_inst_ratio_change_20": -0.1256224992493813
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 9.66,
+    "trust_ratio": -2.2371872036632485,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.422812796336752,
+    "three_inst_ratio_change_20": -0.06552879092855957
   }
 ]

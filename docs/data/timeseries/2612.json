@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.31,
     "three_inst_ratio_change_20": 0.5599999999999996
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2612",
+    "name": "中航",
+    "market": "TWSE",
+    "foreign_ratio": 5.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.45,
+    "three_inst_ratio_change_20": 0.8300000000000001
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2612",
+    "name": "中航",
+    "market": "TWSE",
+    "foreign_ratio": 5.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.3,
+    "three_inst_ratio_change_20": 0.8999999999999995
   }
 ]

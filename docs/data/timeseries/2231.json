@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.6458307747734935,
     "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2231",
+    "name": "為升",
+    "market": "TWSE",
+    "foreign_ratio": 4.62,
+    "trust_ratio": 0.8858307747734936,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.505830774773494,
+    "three_inst_ratio_change_20": -0.14999999999999947
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2231",
+    "name": "為升",
+    "market": "TWSE",
+    "foreign_ratio": 4.57,
+    "trust_ratio": 0.8858307747734936,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.455830774773494,
+    "three_inst_ratio_change_20": -0.17999999999999972
   }
 ]

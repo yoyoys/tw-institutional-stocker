@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.489079092295608,
     "three_inst_ratio_change_20": 0.2793581004837655
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6592",
+    "name": "和潤企業",
+    "market": "TWSE",
+    "foreign_ratio": 26.35,
+    "trust_ratio": 0.129079092295607,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.47907909229561,
+    "three_inst_ratio_change_20": 0.23935810048376638
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6592",
+    "name": "和潤企業",
+    "market": "TWSE",
+    "foreign_ratio": 26.41,
+    "trust_ratio": 0.129079092295607,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.53907909229561,
+    "three_inst_ratio_change_20": 0.25935810048376595
   }
 ]

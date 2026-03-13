@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.87,
     "three_inst_ratio_change_20": -0.4299999999999997
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4976",
+    "name": "佳凌",
+    "market": "TWSE",
+    "foreign_ratio": 2.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.98,
+    "three_inst_ratio_change_20": -0.18999999999999995
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4976",
+    "name": "佳凌",
+    "market": "TWSE",
+    "foreign_ratio": 2.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.95,
+    "three_inst_ratio_change_20": -0.2799999999999998
   }
 ]

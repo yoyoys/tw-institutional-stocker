@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.200525556850955,
     "three_inst_ratio_change_20": 0.7246715151832781
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00935",
+    "name": "野村臺灣新科技50",
+    "market": "TWSE",
+    "foreign_ratio": 2.55,
+    "trust_ratio": 7.737990531621174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.287990531621173,
+    "three_inst_ratio_change_20": 0.458089154304389
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00935",
+    "name": "野村臺灣新科技50",
+    "market": "TWSE",
+    "foreign_ratio": 2.41,
+    "trust_ratio": 7.7085126970461175,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.118512697046118,
+    "three_inst_ratio_change_20": 0.307639269475116
   }
 ]

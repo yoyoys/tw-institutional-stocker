@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.94790733156607,
     "three_inst_ratio_change_20": -0.6749983453107866
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2885",
+    "name": "元大金",
+    "market": "TWSE",
+    "foreign_ratio": 26.37,
+    "trust_ratio": -1.4235593686120258,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.946440631387976,
+    "three_inst_ratio_change_20": -0.6140854308983528
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2885",
+    "name": "元大金",
+    "market": "TWSE",
+    "foreign_ratio": 26.34,
+    "trust_ratio": -1.420555336689632,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.91944466331037,
+    "three_inst_ratio_change_20": -0.5749478846286458
   }
 ]

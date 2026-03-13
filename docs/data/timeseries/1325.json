@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.44,
     "three_inst_ratio_change_20": -0.6800000000000002
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1325",
+    "name": "恆大",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": -0.40000000000000013
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1325",
+    "name": "恆大",
+    "market": "TWSE",
+    "foreign_ratio": 1.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.35,
+    "three_inst_ratio_change_20": 0.28
   }
 ]

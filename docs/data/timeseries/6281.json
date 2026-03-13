@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.07,
     "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6281",
+    "name": "全國電",
+    "market": "TWSE",
+    "foreign_ratio": 2.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.04,
+    "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6281",
+    "name": "全國電",
+    "market": "TWSE",
+    "foreign_ratio": 2.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.01,
+    "three_inst_ratio_change_20": -0.050000000000000266
   }
 ]

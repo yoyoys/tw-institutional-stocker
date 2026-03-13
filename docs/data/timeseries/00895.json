@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38614460148062685,
     "three_inst_ratio_change_20": -0.4866542106945773
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00895",
+    "name": "富邦未來車",
+    "market": "TWSE",
+    "foreign_ratio": 0.34,
+    "trust_ratio": 0.09614460148062687,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4361446014806269,
+    "three_inst_ratio_change_20": -0.42692410649303464
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00895",
+    "name": "富邦未來車",
+    "market": "TWSE",
+    "foreign_ratio": 0.21,
+    "trust_ratio": 0.09614460148062687,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.30614460148062683,
+    "three_inst_ratio_change_20": -0.2774686354310725
   }
 ]

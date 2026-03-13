@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.24,
     "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1419",
+    "name": "新紡",
+    "market": "TWSE",
+    "foreign_ratio": 1.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.23,
+    "three_inst_ratio_change_20": 0.030000000000000027
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1419",
+    "name": "新紡",
+    "market": "TWSE",
+    "foreign_ratio": 1.21,
+    "trust_ratio": 0.0289960101490035,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2389960101490034,
+    "three_inst_ratio_change_20": 0.038996010149003446
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 87.04000231633233,
     "three_inst_ratio_change_20": -0.14000000000000057
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6230",
+    "name": "尼得科超眾",
+    "market": "TWSE",
+    "foreign_ratio": 87.04,
+    "trust_ratio": 2.3163323342065443e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 87.04000231633233,
+    "three_inst_ratio_change_20": -0.11999999999999034
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6230",
+    "name": "尼得科超眾",
+    "market": "TWSE",
+    "foreign_ratio": 87.06,
+    "trust_ratio": 2.3163323342065443e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 87.06000231633233,
+    "three_inst_ratio_change_20": -0.10999999999999943
   }
 ]

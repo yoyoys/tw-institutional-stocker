@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.71,
     "three_inst_ratio_change_20": 0.3200000000000003
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4545",
+    "name": "銘鈺",
+    "market": "TWSE",
+    "foreign_ratio": 31.72,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.72,
+    "three_inst_ratio_change_20": 0.5599999999999987
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4545",
+    "name": "銘鈺",
+    "market": "TWSE",
+    "foreign_ratio": 31.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.64,
+    "three_inst_ratio_change_20": 0.4800000000000004
   }
 ]

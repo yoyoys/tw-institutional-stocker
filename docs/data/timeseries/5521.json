@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.65,
     "three_inst_ratio_change_20": -1.7199999999999989
+  },
+  {
+    "date": "2026-03-11",
+    "code": "5521",
+    "name": "工信",
+    "market": "TWSE",
+    "foreign_ratio": 10.66,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.66,
+    "three_inst_ratio_change_20": -1.5999999999999996
+  },
+  {
+    "date": "2026-03-12",
+    "code": "5521",
+    "name": "工信",
+    "market": "TWSE",
+    "foreign_ratio": 8.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.86,
+    "three_inst_ratio_change_20": -3.33
   }
 ]

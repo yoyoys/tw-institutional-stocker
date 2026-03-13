@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.47094696969697,
     "three_inst_ratio_change_20": 0.0348454545454544
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6754",
+    "name": "匯僑設計",
+    "market": "TWSE",
+    "foreign_ratio": 15.48,
+    "trust_ratio": -0.009263636363636365,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.470736363636364,
+    "three_inst_ratio_change_20": 0.04506212121212272
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6754",
+    "name": "匯僑設計",
+    "market": "TWSE",
+    "foreign_ratio": 15.45,
+    "trust_ratio": -0.009686363636363635,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.440313636363635,
+    "three_inst_ratio_change_20": 0.014960606060604675
   }
 ]

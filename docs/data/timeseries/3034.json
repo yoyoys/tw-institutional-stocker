@@ -1274,5 +1274,27 @@
     "dealer_ratio": -0.3668441950105627,
     "three_inst_ratio": 29.890259370707113,
     "three_inst_ratio_change_20": 0.27783305804874203
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3034",
+    "name": "聯詠",
+    "market": "TWSE",
+    "foreign_ratio": 31.37,
+    "trust_ratio": -1.0904435393640872,
+    "dealer_ratio": -0.3668441950105627,
+    "three_inst_ratio": 29.912712265625352,
+    "three_inst_ratio_change_20": 0.5896950027247563
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3034",
+    "name": "聯詠",
+    "market": "TWSE",
+    "foreign_ratio": 31.52,
+    "trust_ratio": -1.1103034772874594,
+    "dealer_ratio": -0.3668441950105627,
+    "three_inst_ratio": 30.04285232770198,
+    "three_inst_ratio_change_20": 0.8734189162176698
   }
 ]

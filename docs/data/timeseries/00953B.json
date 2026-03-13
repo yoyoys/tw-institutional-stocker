@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.5439141639809284,
     "three_inst_ratio_change_20": 1.9562438529950599
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00953B",
+    "name": "群益優選非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": 1.3153088609230301,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6353088609230302,
+    "three_inst_ratio_change_20": -0.00602986202287048
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00953B",
+    "name": "群益優選非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.29,
+    "trust_ratio": 1.3153088609230301,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6053088609230302,
+    "three_inst_ratio_change_20": -0.5507420096188693
   }
 ]

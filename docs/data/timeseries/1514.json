@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.816813597504169,
     "three_inst_ratio_change_20": -2.7699999999999996
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1514",
+    "name": "亞力",
+    "market": "TWSE",
+    "foreign_ratio": 15.73,
+    "trust_ratio": 0.23681359750416822,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.966813597504169,
+    "three_inst_ratio_change_20": -3.0399999999999974
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1514",
+    "name": "亞力",
+    "market": "TWSE",
+    "foreign_ratio": 15.56,
+    "trust_ratio": 0.24962901828388165,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.809629018283882,
+    "three_inst_ratio_change_20": -3.417184579220283
   }
 ]

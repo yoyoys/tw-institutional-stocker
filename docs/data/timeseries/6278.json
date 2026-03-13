@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.968041362907403,
     "three_inst_ratio_change_20": 0.9961090311613319
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6278",
+    "name": "台表科",
+    "market": "TWSE",
+    "foreign_ratio": 22.71,
+    "trust_ratio": -1.6028205877069355,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.107179412293064,
+    "three_inst_ratio_change_20": 1.3999953932709062
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6278",
+    "name": "台表科",
+    "market": "TWSE",
+    "foreign_ratio": 22.9,
+    "trust_ratio": -1.7065424441703336,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.193457555829664,
+    "three_inst_ratio_change_20": 1.8235647261665662
   }
 ]

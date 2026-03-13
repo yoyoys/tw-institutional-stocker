@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.96040986267087,
     "three_inst_ratio_change_20": -1.460686094125923
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4916",
+    "name": "事欣科",
+    "market": "TWSE",
+    "foreign_ratio": 2.73,
+    "trust_ratio": 0.9222181335209113,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.652218133520911,
+    "three_inst_ratio_change_20": -0.974357146150779
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4916",
+    "name": "事欣科",
+    "market": "TWSE",
+    "foreign_ratio": 3.39,
+    "trust_ratio": 0.9186015918208292,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.308601591820829,
+    "three_inst_ratio_change_20": 0.28202631214913865
   }
 ]

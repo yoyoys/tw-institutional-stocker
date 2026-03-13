@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.86,
     "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00963",
+    "name": "中信全球高股息",
+    "market": "TWSE",
+    "foreign_ratio": 2.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.24,
+    "three_inst_ratio_change_20": 0.44000000000000017
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00963",
+    "name": "中信全球高股息",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.22,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

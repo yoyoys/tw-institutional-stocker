@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.851807012353309,
     "three_inst_ratio_change_20": -0.1899999999999995
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1909",
+    "name": "榮成",
+    "market": "TWSE",
+    "foreign_ratio": 9.0,
+    "trust_ratio": -0.1281929876466918,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.871807012353308,
+    "three_inst_ratio_change_20": -0.14000000000000057
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1909",
+    "name": "榮成",
+    "market": "TWSE",
+    "foreign_ratio": 8.87,
+    "trust_ratio": -0.1281929876466918,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.741807012353307,
+    "three_inst_ratio_change_20": -0.21000000000000085
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3358235105019913,
     "three_inst_ratio_change_20": -0.45070782226242034
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8215",
+    "name": "明基材",
+    "market": "TWSE",
+    "foreign_ratio": 1.5,
+    "trust_ratio": -0.09168174805435271,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4083182519456472,
+    "three_inst_ratio_change_20": -0.36821308081876447
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8215",
+    "name": "明基材",
+    "market": "TWSE",
+    "foreign_ratio": 1.52,
+    "trust_ratio": -0.09168174805435271,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4283182519456472,
+    "three_inst_ratio_change_20": -0.32821308081876444
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6,
     "three_inst_ratio_change_20": -0.2999999999999998
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8072",
+    "name": "陞泰",
+    "market": "TWSE",
+    "foreign_ratio": 2.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.71,
+    "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8072",
+    "name": "陞泰",
+    "market": "TWSE",
+    "foreign_ratio": 2.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7,
+    "three_inst_ratio_change_20": -0.13999999999999968
   }
 ]

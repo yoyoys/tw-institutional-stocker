@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 87.28757818765035,
     "three_inst_ratio_change_20": -0.44425020048116437
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6890",
+    "name": "來億-KY",
+    "market": "TWSE",
+    "foreign_ratio": 87.04,
+    "trust_ratio": 0.15757818765036086,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 87.19757818765036,
+    "three_inst_ratio_change_20": -0.44425020048115016
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6890",
+    "name": "來億-KY",
+    "market": "TWSE",
+    "foreign_ratio": 87.03,
+    "trust_ratio": 0.15757818765036086,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 87.18757818765036,
+    "three_inst_ratio_change_20": -0.41425020048116323
   }
 ]

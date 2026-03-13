@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.029729854534312643,
     "three_inst_ratio": 10.402672001772093,
     "three_inst_ratio_change_20": -0.17334940655152486
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6472",
+    "name": "保瑞",
+    "market": "TWSE",
+    "foreign_ratio": 9.64,
+    "trust_ratio": 0.7668719555976106,
+    "dealer_ratio": 0.029729854534312643,
+    "three_inst_ratio": 10.436601810131924,
+    "three_inst_ratio_change_20": 0.04424699151750211
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6472",
+    "name": "保瑞",
+    "market": "TWSE",
+    "foreign_ratio": 9.56,
+    "trust_ratio": 0.7700859939256444,
+    "dealer_ratio": 0.029729854534312643,
+    "three_inst_ratio": 10.359815848459958,
+    "three_inst_ratio_change_20": -0.0834302192866847
   }
 ]

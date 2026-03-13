@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.575089992921681,
     "three_inst_ratio_change_20": 0.026700552354604667
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3015",
+    "name": "全漢",
+    "market": "TWSE",
+    "foreign_ratio": 8.74,
+    "trust_ratio": 0.8466920268639732,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.586692026863973,
+    "three_inst_ratio_change_20": 0.12382266125072405
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3015",
+    "name": "全漢",
+    "market": "TWSE",
+    "foreign_ratio": 8.72,
+    "trust_ratio": 0.8453276279564536,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.565327627956455,
+    "three_inst_ratio_change_20": 0.18377780430034107
   }
 ]

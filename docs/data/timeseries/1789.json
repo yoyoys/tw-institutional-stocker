@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.850126463943128,
     "three_inst_ratio_change_20": -0.15999999999999948
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1789",
+    "name": "神隆",
+    "market": "TWSE",
+    "foreign_ratio": 1.84,
+    "trust_ratio": 0.00012646394312789002,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.840126463943128,
+    "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1789",
+    "name": "神隆",
+    "market": "TWSE",
+    "foreign_ratio": 1.83,
+    "trust_ratio": -0.019728375127950844,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8102716248720492,
+    "three_inst_ratio_change_20": -0.1698548390710788
   }
 ]

@@ -1065,5 +1065,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03005010050100501,
     "three_inst_ratio_change_20": 0.010050100501005011
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2881B",
+    "name": "富邦金乙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.02,
+    "trust_ratio": 0.015900159001590017,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.03590015900159002,
+    "three_inst_ratio_change_20": 0.01590015900159002
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2881B",
+    "name": "富邦金乙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.02,
+    "trust_ratio": 0.03090030900309003,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.05090030900309003,
+    "three_inst_ratio_change_20": 0.030900309003090033
   }
 ]

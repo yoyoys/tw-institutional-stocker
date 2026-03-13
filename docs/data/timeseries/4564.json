@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.76,
     "three_inst_ratio_change_20": -0.050000000000000266
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4564",
+    "name": "元翎",
+    "market": "TWSE",
+    "foreign_ratio": 2.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.49,
+    "three_inst_ratio_change_20": -0.09999999999999964
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4564",
+    "name": "元翎",
+    "market": "TWSE",
+    "foreign_ratio": 2.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.58,
+    "three_inst_ratio_change_20": -0.25
   }
 ]

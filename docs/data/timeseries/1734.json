@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.95,
     "three_inst_ratio_change_20": 0.11000000000000032
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1734",
+    "name": "杏輝",
+    "market": "TWSE",
+    "foreign_ratio": 4.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.97,
+    "three_inst_ratio_change_20": 0.13999999999999968
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1734",
+    "name": "杏輝",
+    "market": "TWSE",
+    "foreign_ratio": 4.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.96,
+    "three_inst_ratio_change_20": 0.11000000000000032
   }
 ]

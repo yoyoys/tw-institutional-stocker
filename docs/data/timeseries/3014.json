@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.551180701925027,
     "three_inst_ratio_change_20": -1.1672863540326013
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3014",
+    "name": "聯陽",
+    "market": "TWSE",
+    "foreign_ratio": 20.17,
+    "trust_ratio": -0.9738988027740542,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.196101197225946,
+    "three_inst_ratio_change_20": -1.425911212064868
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3014",
+    "name": "聯陽",
+    "market": "TWSE",
+    "foreign_ratio": 20.11,
+    "trust_ratio": -0.9768629012709328,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.133137098729065,
+    "three_inst_ratio_change_20": -1.252261141787848
   }
 ]

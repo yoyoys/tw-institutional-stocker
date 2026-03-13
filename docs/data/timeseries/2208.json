@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.29958653892556,
     "three_inst_ratio_change_20": 0.5696861611460413
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2208",
+    "name": "台船",
+    "market": "TWSE",
+    "foreign_ratio": 9.28,
+    "trust_ratio": 0.04935115978509034,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.329351159785089,
+    "three_inst_ratio_change_20": 0.8694507820055701
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2208",
+    "name": "台船",
+    "market": "TWSE",
+    "foreign_ratio": 9.28,
+    "trust_ratio": 0.04919424035811072,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.32919424035811,
+    "three_inst_ratio_change_20": 0.9495292417190608
   }
 ]

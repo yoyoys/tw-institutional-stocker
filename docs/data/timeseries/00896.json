@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.14,
     "three_inst_ratio_change_20": -0.77
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00896",
+    "name": "中信綠能及電動車",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.24,
+    "three_inst_ratio_change_20": -0.55
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00896",
+    "name": "中信綠能及電動車",
+    "market": "TWSE",
+    "foreign_ratio": 0.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.16,
+    "three_inst_ratio_change_20": -0.59
   }
 ]

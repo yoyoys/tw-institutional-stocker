@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.82261945997194,
     "three_inst_ratio_change_20": -0.240000000000002
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8404",
+    "name": "百和興業-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.8,
+    "trust_ratio": 0.0026194599719416784,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.802619459971936,
+    "three_inst_ratio_change_20": -0.23000000000000398
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8404",
+    "name": "百和興業-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.82,
+    "trust_ratio": 0.0026194599719416784,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.82261945997194,
+    "three_inst_ratio_change_20": -0.20000000000000284
   }
 ]

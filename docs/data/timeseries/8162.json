@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.66,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8162",
+    "name": "微矽電子-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.68,
+    "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8162",
+    "name": "微矽電子-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.71,
+    "three_inst_ratio_change_20": 0.07999999999999996
   }
 ]

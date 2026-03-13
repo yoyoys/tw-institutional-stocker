@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.783956492865606,
     "three_inst_ratio_change_20": 0.10273227157636455
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2317",
+    "name": "鴻海",
+    "market": "TWSE",
+    "foreign_ratio": 37.93,
+    "trust_ratio": -0.015608273444175235,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.91439172655583,
+    "three_inst_ratio_change_20": 0.33751593217655085
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2317",
+    "name": "鴻海",
+    "market": "TWSE",
+    "foreign_ratio": 37.82,
+    "trust_ratio": -0.014902498371815162,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.80509750162818,
+    "three_inst_ratio_change_20": 0.39051737394090935
   }
 ]

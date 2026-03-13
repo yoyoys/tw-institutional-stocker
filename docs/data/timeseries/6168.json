@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.07,
     "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6168",
+    "name": "宏齊",
+    "market": "TWSE",
+    "foreign_ratio": 3.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.11,
+    "three_inst_ratio_change_20": -0.1499999999999999
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6168",
+    "name": "宏齊",
+    "market": "TWSE",
+    "foreign_ratio": 3.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.39,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

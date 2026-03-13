@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.08,
     "three_inst_ratio_change_20": 0.17999999999999972
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1220",
+    "name": "台榮",
+    "market": "TWSE",
+    "foreign_ratio": 7.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.1,
+    "three_inst_ratio_change_20": 0.1899999999999995
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1220",
+    "name": "台榮",
+    "market": "TWSE",
+    "foreign_ratio": 7.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.09,
+    "three_inst_ratio_change_20": 0.1899999999999995
   }
 ]

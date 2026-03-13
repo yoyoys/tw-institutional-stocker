@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.36600280712208,
     "three_inst_ratio_change_20": -0.042000058481709956
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2062",
+    "name": "橋椿",
+    "market": "TWSE",
+    "foreign_ratio": 7.3,
+    "trust_ratio": 0.09300271939951525,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.393002719399515,
+    "three_inst_ratio_change_20": -0.015000146204275033
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2062",
+    "name": "橋椿",
+    "market": "TWSE",
+    "foreign_ratio": 7.3,
+    "trust_ratio": 0.08900260243609523,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.389002602436095,
+    "three_inst_ratio_change_20": -0.009000263167695088
   }
 ]

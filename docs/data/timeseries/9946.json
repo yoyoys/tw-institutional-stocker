@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
     "three_inst_ratio_change_20": 0.3400000000000003
+  },
+  {
+    "date": "2026-03-11",
+    "code": "9946",
+    "name": "三發地產",
+    "market": "TWSE",
+    "foreign_ratio": 2.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.27,
+    "three_inst_ratio_change_20": 0.3900000000000001
+  },
+  {
+    "date": "2026-03-12",
+    "code": "9946",
+    "name": "三發地產",
+    "market": "TWSE",
+    "foreign_ratio": 2.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.29,
+    "three_inst_ratio_change_20": 0.41999999999999993
   }
 ]

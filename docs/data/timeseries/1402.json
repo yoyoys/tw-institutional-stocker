@@ -1274,5 +1274,27 @@
     "dealer_ratio": -0.0014036194907182356,
     "three_inst_ratio": 18.9806597736712,
     "three_inst_ratio_change_20": -0.44031272958531886
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1402",
+    "name": "遠東新",
+    "market": "TWSE",
+    "foreign_ratio": 19.73,
+    "trust_ratio": -0.8180113330334496,
+    "dealer_ratio": -0.0014036194907182356,
+    "three_inst_ratio": 18.91058504747583,
+    "three_inst_ratio_change_20": -0.38627494759462877
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1402",
+    "name": "遠東新",
+    "market": "TWSE",
+    "foreign_ratio": 19.58,
+    "trust_ratio": -0.8151904191582607,
+    "dealer_ratio": -0.0014036194907182356,
+    "three_inst_ratio": 18.76340596135102,
+    "three_inst_ratio_change_20": -0.5190987295116329
   }
 ]

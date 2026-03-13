@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0,
     "three_inst_ratio_change_20": 2.7199999999999998
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00763U",
+    "name": "期街口道瓊銅",
+    "market": "TWSE",
+    "foreign_ratio": 3.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.25,
+    "three_inst_ratio_change_20": 2.82
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00763U",
+    "name": "期街口道瓊銅",
+    "market": "TWSE",
+    "foreign_ratio": 3.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.4,
+    "three_inst_ratio_change_20": 1.5499999999999998
   }
 ]

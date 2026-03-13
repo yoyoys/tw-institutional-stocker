@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.043905106243198,
     "three_inst_ratio_change_20": 0.12869809476747385
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3059",
+    "name": "華晶科",
+    "market": "TWSE",
+    "foreign_ratio": 9.85,
+    "trust_ratio": 0.29390510624319705,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.143905106243198,
+    "three_inst_ratio_change_20": 0.5390235710756048
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3059",
+    "name": "華晶科",
+    "market": "TWSE",
+    "foreign_ratio": 9.76,
+    "trust_ratio": 0.29390510624319705,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.053905106243198,
+    "three_inst_ratio_change_20": 0.3790235710756047
   }
 ]

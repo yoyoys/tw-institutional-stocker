@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.146368311919343,
     "three_inst_ratio_change_20": 1.6605193226879233
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2495",
+    "name": "普安",
+    "market": "TWSE",
+    "foreign_ratio": 5.84,
+    "trust_ratio": -0.03216944077280238,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.807830559227197,
+    "three_inst_ratio_change_20": 0.6967338737463056
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2495",
+    "name": "普安",
+    "market": "TWSE",
+    "foreign_ratio": 6.36,
+    "trust_ratio": -0.03545949721547535,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.324540502784525,
+    "three_inst_ratio_change_20": 1.143443817303634
   }
 ]

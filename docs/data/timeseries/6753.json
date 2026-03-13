@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.231193238316209,
     "three_inst_ratio_change_20": 0.11457518506242526
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6753",
+    "name": "龍德造船",
+    "market": "TWSE",
+    "foreign_ratio": 4.03,
+    "trust_ratio": 1.201193238316208,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.231193238316209,
+    "three_inst_ratio_change_20": -0.4054248149375752
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6753",
+    "name": "龍德造船",
+    "market": "TWSE",
+    "foreign_ratio": 4.02,
+    "trust_ratio": 1.15965086730748,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.17965086730748,
+    "three_inst_ratio_change_20": -0.20696718594630426
   }
 ]

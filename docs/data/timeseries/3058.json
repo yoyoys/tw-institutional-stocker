@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.02,
     "three_inst_ratio_change_20": 0.5499999999999998
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3058",
+    "name": "立德",
+    "market": "TWSE",
+    "foreign_ratio": 4.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.97,
+    "three_inst_ratio_change_20": 0.6799999999999997
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3058",
+    "name": "立德",
+    "market": "TWSE",
+    "foreign_ratio": 4.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.74,
+    "three_inst_ratio_change_20": 0.5600000000000005
   }
 ]

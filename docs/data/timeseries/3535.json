@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.67,
     "three_inst_ratio_change_20": 2.119999999999999
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3535",
+    "name": "晶彩科",
+    "market": "TWSE",
+    "foreign_ratio": 10.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.4,
+    "three_inst_ratio_change_20": 2.9300000000000006
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3535",
+    "name": "晶彩科",
+    "market": "TWSE",
+    "foreign_ratio": 10.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.64,
+    "three_inst_ratio_change_20": 4.210000000000001
   }
 ]

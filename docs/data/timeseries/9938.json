@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.808715476145164,
     "three_inst_ratio_change_20": -0.5560955172348336
+  },
+  {
+    "date": "2026-03-11",
+    "code": "9938",
+    "name": "百和",
+    "market": "TWSE",
+    "foreign_ratio": 16.94,
+    "trust_ratio": -0.6312845238548392,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.308715476145164,
+    "three_inst_ratio_change_20": -0.7160955172348338
+  },
+  {
+    "date": "2026-03-12",
+    "code": "9938",
+    "name": "百和",
+    "market": "TWSE",
+    "foreign_ratio": 16.49,
+    "trust_ratio": -0.6729003032051849,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.817099696794813,
+    "three_inst_ratio_change_20": -1.0913104554524224
   }
 ]

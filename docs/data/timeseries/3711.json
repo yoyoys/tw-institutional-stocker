@@ -1274,5 +1274,27 @@
     "dealer_ratio": -0.019356989605607743,
     "three_inst_ratio": 78.18413689795638,
     "three_inst_ratio_change_20": 0.700492816255732
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3711",
+    "name": "日月光投控",
+    "market": "TWSE",
+    "foreign_ratio": 79.34,
+    "trust_ratio": -1.2189483494443307,
+    "dealer_ratio": -0.019356989605607743,
+    "three_inst_ratio": 78.10169466095006,
+    "three_inst_ratio_change_20": 0.696675677387546
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3711",
+    "name": "日月光投控",
+    "market": "TWSE",
+    "foreign_ratio": 79.25,
+    "trust_ratio": -1.2206217340597687,
+    "dealer_ratio": -0.019356989605607743,
+    "three_inst_ratio": 78.01002127633463,
+    "three_inst_ratio_change_20": 0.5670203396589528
   }
 ]

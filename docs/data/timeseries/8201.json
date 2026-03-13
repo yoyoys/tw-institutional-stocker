@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.71,
     "three_inst_ratio_change_20": 0.05999999999999994
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8201",
+    "name": "無敵",
+    "market": "TWSE",
+    "foreign_ratio": 0.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.71,
+    "three_inst_ratio_change_20": 0.029999999999999916
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8201",
+    "name": "無敵",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.69,
+    "three_inst_ratio_change_20": -0.030000000000000027
   }
 ]

@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
     "three_inst_ratio_change_20": 0.17000000000000004
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6918",
+    "name": "愛派司",
+    "market": "TWSE",
+    "foreign_ratio": 0.84,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.84,
+    "three_inst_ratio_change_20": 0.35
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6918",
+    "name": "愛派司",
+    "market": "TWSE",
+    "foreign_ratio": 0.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.83,
+    "three_inst_ratio_change_20": 0.36
   }
 ]

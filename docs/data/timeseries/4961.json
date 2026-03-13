@@ -1274,5 +1274,27 @@
     "dealer_ratio": -0.0016494355223407257,
     "three_inst_ratio": 14.082678267053227,
     "three_inst_ratio_change_20": 0.27402020193989785
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4961",
+    "name": "天鈺",
+    "market": "TWSE",
+    "foreign_ratio": 18.5,
+    "trust_ratio": -4.509795886230284,
+    "dealer_ratio": -0.0016494355223407257,
+    "three_inst_ratio": 13.988554678247375,
+    "three_inst_ratio_change_20": 0.22412358880585082
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4961",
+    "name": "天鈺",
+    "market": "TWSE",
+    "foreign_ratio": 18.49,
+    "trust_ratio": -4.509795886230284,
+    "dealer_ratio": -0.0016494355223407257,
+    "three_inst_ratio": 13.978554678247374,
+    "three_inst_ratio_change_20": 0.22412358880585082
   }
 ]

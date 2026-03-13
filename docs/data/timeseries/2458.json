@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.5320912577998781,
     "three_inst_ratio": 16.236874570834434,
     "three_inst_ratio_change_20": 2.2655420794639465
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "foreign_ratio": 14.48,
+    "trust_ratio": 1.0498327907909242,
+    "dealer_ratio": 0.5320912577998781,
+    "three_inst_ratio": 16.061924048590804,
+    "three_inst_ratio_change_20": 2.234433832637679
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "foreign_ratio": 14.89,
+    "trust_ratio": 1.2183346137055133,
+    "dealer_ratio": 0.5320912577998781,
+    "three_inst_ratio": 16.64042587150539,
+    "three_inst_ratio_change_20": 2.8868483663138083
   }
 ]

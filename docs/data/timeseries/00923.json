@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": -0.01845862565312692,
     "three_inst_ratio_change_20": 0.10128904195069444
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00923",
+    "name": "群益台ESG低碳50",
+    "market": "TWSE",
+    "foreign_ratio": 0.21,
+    "trust_ratio": -0.20933136422296722,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0006686357770327722,
+    "three_inst_ratio_change_20": 0.17041630338085414
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00923",
+    "name": "群益台ESG低碳50",
+    "market": "TWSE",
+    "foreign_ratio": 0.21,
+    "trust_ratio": -0.20955069188399694,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0004493081160030499,
+    "three_inst_ratio_change_20": 0.2001969757198244
   }
 ]

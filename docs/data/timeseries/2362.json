@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.094506406455148,
     "three_inst_ratio_change_20": 0.16935718498448438
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.21,
+    "trust_ratio": -0.0856542972987306,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.12434570270127,
+    "three_inst_ratio_change_20": 0.2991964812306058
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 10.24,
+    "trust_ratio": -0.0856542972987306,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.154345702701269,
+    "three_inst_ratio_change_20": 0.3191964812306054
   }
 ]

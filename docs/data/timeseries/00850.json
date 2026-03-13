@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4063646195159058,
     "three_inst_ratio_change_20": -0.4186000979056052
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00850",
+    "name": "元大臺灣ESG永續",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.056364619515905816,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4763646195159058,
+    "three_inst_ratio_change_20": -0.3186000979056052
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00850",
+    "name": "元大臺灣ESG永續",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.07469457708205406,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.49469457708205405,
+    "three_inst_ratio_change_20": -0.20618335518629333
   }
 ]

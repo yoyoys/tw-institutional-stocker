@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.97,
     "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2392",
+    "name": "正崴",
+    "market": "TWSE",
+    "foreign_ratio": 5.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.98,
+    "three_inst_ratio_change_20": 0.010000000000000675
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2392",
+    "name": "正崴",
+    "market": "TWSE",
+    "foreign_ratio": 5.8,
+    "trust_ratio": 0.014639089640689206,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.814639089640689,
+    "three_inst_ratio_change_20": -0.20536091035931037
   }
 ]

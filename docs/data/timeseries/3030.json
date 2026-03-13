@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.321163511362482,
     "three_inst_ratio_change_20": 2.750125986385342
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3030",
+    "name": "德律",
+    "market": "TWSE",
+    "foreign_ratio": 17.95,
+    "trust_ratio": -4.7875664645917295,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.162433535408269,
+    "three_inst_ratio_change_20": 2.3452060825684953
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3030",
+    "name": "德律",
+    "market": "TWSE",
+    "foreign_ratio": 18.14,
+    "trust_ratio": -4.790529854031903,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.349470145968098,
+    "three_inst_ratio_change_20": 2.550606563484269
   }
 ]

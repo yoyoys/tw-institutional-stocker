@@ -1263,5 +1263,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7932354896931697,
     "three_inst_ratio_change_20": -0.42849814762040506
+  },
+  {
+    "date": "2026-03-11",
+    "code": "5292",
+    "name": "華懋",
+    "market": "TWSE",
+    "foreign_ratio": 3.6,
+    "trust_ratio": 0.22561033532820365,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.8256103353282036,
+    "three_inst_ratio_change_20": -0.5137484563503367
+  },
+  {
+    "date": "2026-03-12",
+    "code": "5292",
+    "name": "華懋",
+    "market": "TWSE",
+    "foreign_ratio": 3.47,
+    "trust_ratio": 0.22323548969316992,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.69323548969317,
+    "three_inst_ratio_change_20": -0.7161233019853706
   }
 ]

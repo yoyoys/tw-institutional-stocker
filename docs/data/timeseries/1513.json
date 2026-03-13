@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.956847722323108,
     "three_inst_ratio_change_20": -1.8391691671593584
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1513",
+    "name": "中興電",
+    "market": "TWSE",
+    "foreign_ratio": 17.29,
+    "trust_ratio": 1.6693216228183074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.959321622818308,
+    "three_inst_ratio_change_20": -2.0685459961177877
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1513",
+    "name": "中興電",
+    "market": "TWSE",
+    "foreign_ratio": 17.42,
+    "trust_ratio": 1.6337081179544897,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.053708117954493,
+    "three_inst_ratio_change_20": -2.1726312645989303
   }
 ]

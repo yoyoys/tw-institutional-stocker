@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 33.04,
     "three_inst_ratio_change_20": 0.36999999999999744
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6854",
+    "name": "錼創科技-KY創",
+    "market": "TWSE",
+    "foreign_ratio": 33.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.07,
+    "three_inst_ratio_change_20": 0.4299999999999997
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6854",
+    "name": "錼創科技-KY創",
+    "market": "TWSE",
+    "foreign_ratio": 33.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.12,
+    "three_inst_ratio_change_20": 0.509999999999998
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.18,
     "three_inst_ratio_change_20": -12.86
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00635U",
+    "name": "期元大S&P黃金",
+    "market": "TWSE",
+    "foreign_ratio": 16.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.77,
+    "three_inst_ratio_change_20": -8.5
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00635U",
+    "name": "期元大S&P黃金",
+    "market": "TWSE",
+    "foreign_ratio": 16.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.8,
+    "three_inst_ratio_change_20": 7.4
   }
 ]

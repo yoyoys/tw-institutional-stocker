@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.55,
     "three_inst_ratio_change_20": 0.13000000000000012
+  },
+  {
+    "date": "2026-03-11",
+    "code": "8473",
+    "name": "山林水",
+    "market": "TWSE",
+    "foreign_ratio": 1.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.58,
+    "three_inst_ratio_change_20": 0.06000000000000005
+  },
+  {
+    "date": "2026-03-12",
+    "code": "8473",
+    "name": "山林水",
+    "market": "TWSE",
+    "foreign_ratio": 1.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.64,
+    "three_inst_ratio_change_20": 0.22999999999999998
   }
 ]

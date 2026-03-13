@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.748081801264123,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-03-11",
+    "code": "3679",
+    "name": "新至陞",
+    "market": "TWSE",
+    "foreign_ratio": 8.71,
+    "trust_ratio": 0.03808180126412222,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.748081801264123,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-03-12",
+    "code": "3679",
+    "name": "新至陞",
+    "market": "TWSE",
+    "foreign_ratio": 8.7,
+    "trust_ratio": 0.03808180126412222,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.738081801264121,
+    "three_inst_ratio_change_20": -0.010000000000001563
   }
 ]

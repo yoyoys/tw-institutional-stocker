@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.83416415389504,
     "three_inst_ratio_change_20": 0.3580411531603849
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1434",
+    "name": "福懋",
+    "market": "TWSE",
+    "foreign_ratio": 7.93,
+    "trust_ratio": -0.12583584610495982,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.80416415389504,
+    "three_inst_ratio_change_20": 0.4080411531603847
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1434",
+    "name": "福懋",
+    "market": "TWSE",
+    "foreign_ratio": 7.88,
+    "trust_ratio": -0.12583584610495982,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.75416415389504,
+    "three_inst_ratio_change_20": 0.3913652568882169
   }
 ]

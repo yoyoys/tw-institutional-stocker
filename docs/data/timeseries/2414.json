@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.82,
     "three_inst_ratio_change_20": 0.010000000000000675
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2414",
+    "name": "精技",
+    "market": "TWSE",
+    "foreign_ratio": 4.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.98,
+    "three_inst_ratio_change_20": 0.17000000000000082
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2414",
+    "name": "精技",
+    "market": "TWSE",
+    "foreign_ratio": 5.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.01,
+    "three_inst_ratio_change_20": 0.22999999999999954
   }
 ]

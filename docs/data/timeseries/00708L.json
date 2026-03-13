@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.68708220907943,
     "three_inst_ratio_change_20": 9.068198586177482
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00708L",
+    "name": "期元大S&P黃金正2",
+    "market": "TWSE",
+    "foreign_ratio": 11.58,
+    "trust_ratio": 0.2910484190360403,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.87104841903604,
+    "three_inst_ratio_change_20": 7.12305006606887
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00708L",
+    "name": "期元大S&P黃金正2",
+    "market": "TWSE",
+    "foreign_ratio": 11.14,
+    "trust_ratio": 0.2923949552617212,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.432394955261723,
+    "three_inst_ratio_change_20": 7.232680727175945
   }
 ]

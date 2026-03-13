@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8338848924585562,
     "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-03-11",
+    "code": "5007",
+    "name": "三星",
+    "market": "TWSE",
+    "foreign_ratio": 2.89,
+    "trust_ratio": -0.06611510754144381,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8238848924585565,
+    "three_inst_ratio_change_20": 0.03000000000000025
+  },
+  {
+    "date": "2026-03-12",
+    "code": "5007",
+    "name": "三星",
+    "market": "TWSE",
+    "foreign_ratio": 2.88,
+    "trust_ratio": -0.06611510754144381,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.813884892458556,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

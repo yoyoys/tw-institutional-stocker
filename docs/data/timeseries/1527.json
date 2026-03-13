@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.13,
     "three_inst_ratio_change_20": -0.1399999999999988
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1527",
+    "name": "鑽全",
+    "market": "TWSE",
+    "foreign_ratio": 10.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.14,
+    "three_inst_ratio_change_20": -0.10999999999999943
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1527",
+    "name": "鑽全",
+    "market": "TWSE",
+    "foreign_ratio": 10.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.11,
+    "three_inst_ratio_change_20": -0.14000000000000057
   }
 ]

@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0914123776263813,
     "three_inst_ratio_change_20": -0.20436938226369694
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6756",
+    "name": "威鋒電子",
+    "market": "TWSE",
+    "foreign_ratio": 3.27,
+    "trust_ratio": -0.008587622373618825,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2614123776263813,
+    "three_inst_ratio_change_20": 0.16563061773630272
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6756",
+    "name": "威鋒電子",
+    "market": "TWSE",
+    "foreign_ratio": 3.3,
+    "trust_ratio": -0.008587622373618825,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.291412377626381,
+    "three_inst_ratio_change_20": 0.2956306177363026
   }
 ]

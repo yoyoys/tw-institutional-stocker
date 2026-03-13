@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.214003523258051,
     "three_inst_ratio_change_20": 0.30942403636051674
+  },
+  {
+    "date": "2026-03-11",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 4.21,
+    "trust_ratio": 0.0039344076213127,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.213934407621313,
+    "three_inst_ratio_change_20": 0.30935492072377846
+  },
+  {
+    "date": "2026-03-12",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 4.23,
+    "trust_ratio": 0.007390189458214501,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.237390189458215,
+    "three_inst_ratio_change_20": 0.35283374110625987
   }
 ]

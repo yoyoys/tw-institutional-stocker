@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-03-11",
+    "code": "6742",
+    "name": "澤米",
+    "market": "TWSE",
+    "foreign_ratio": 1.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.56,
+    "three_inst_ratio_change_20": 0.31000000000000005
+  },
+  {
+    "date": "2026-03-12",
+    "code": "6742",
+    "name": "澤米",
+    "market": "TWSE",
+    "foreign_ratio": 1.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.59,
+    "three_inst_ratio_change_20": 0.3800000000000001
   }
 ]

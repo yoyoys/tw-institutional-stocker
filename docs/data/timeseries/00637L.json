@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0,
     "three_inst_ratio_change_20": 2.36
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00637L",
+    "name": "元大滬深300正2",
+    "market": "TWSE",
+    "foreign_ratio": 3.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.61,
+    "three_inst_ratio_change_20": 2.78
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00637L",
+    "name": "元大滬深300正2",
+    "market": "TWSE",
+    "foreign_ratio": 3.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.41,
+    "three_inst_ratio_change_20": 1.9900000000000002
   }
 ]

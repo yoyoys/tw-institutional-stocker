@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.66,
     "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-03-11",
+    "code": "4999",
+    "name": "鑫禾",
+    "market": "TWSE",
+    "foreign_ratio": 1.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7,
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-03-12",
+    "code": "4999",
+    "name": "鑫禾",
+    "market": "TWSE",
+    "foreign_ratio": 1.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.69,
+    "three_inst_ratio_change_20": 0.07999999999999985
   }
 ]

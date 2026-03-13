@@ -1274,5 +1274,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.383588975694732,
     "three_inst_ratio_change_20": -1.623264092952379
+  },
+  {
+    "date": "2026-03-11",
+    "code": "1477",
+    "name": "聚陽",
+    "market": "TWSE",
+    "foreign_ratio": 16.31,
+    "trust_ratio": -3.9479279311832323,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.362072068816767,
+    "three_inst_ratio_change_20": -1.5027216618203827
+  },
+  {
+    "date": "2026-03-12",
+    "code": "1477",
+    "name": "聚陽",
+    "market": "TWSE",
+    "foreign_ratio": 16.12,
+    "trust_ratio": -3.953053720505638,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.166946279494363,
+    "three_inst_ratio_change_20": -1.6910839573767316
   }
 ]

@@ -482,5 +482,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
     "three_inst_ratio_change_20": 0.33
+  },
+  {
+    "date": "2026-03-11",
+    "code": "00982T",
+    "name": "平衡兆豐台美動能",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.68,
+    "three_inst_ratio_change_20": 0.56
+  },
+  {
+    "date": "2026-03-12",
+    "code": "00982T",
+    "name": "平衡兆豐台美動能",
+    "market": "TWSE",
+    "foreign_ratio": 0.84,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.84,
+    "three_inst_ratio_change_20": 0.59
   }
 ]
