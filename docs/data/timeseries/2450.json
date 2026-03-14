@@ -1296,5 +1296,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.22,
     "three_inst_ratio_change_20": 0.09999999999999987
+  },
+  {
+    "date": "2026-03-13",
+    "code": "2450",
+    "name": "神腦",
+    "market": "TWSE",
+    "foreign_ratio": 1.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

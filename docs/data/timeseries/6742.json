@@ -1296,5 +1296,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.59,
     "three_inst_ratio_change_20": 0.3800000000000001
+  },
+  {
+    "date": "2026-03-13",
+    "code": "6742",
+    "name": "澤米",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.75,
+    "three_inst_ratio_change_20": 0.6200000000000001
   }
 ]

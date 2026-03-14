@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
     "three_inst_ratio_change_20": 0.03999999999999998
+  },
+  {
+    "date": "2026-03-13",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.02999999999999997
   }
 ]

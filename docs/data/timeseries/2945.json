@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
     "three_inst_ratio_change_20": 0.05000000000000002
+  },
+  {
+    "date": "2026-03-13",
+    "code": "2945",
+    "name": "三商家購",
+    "market": "TWSE",
+    "foreign_ratio": 0.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.25,
+    "three_inst_ratio_change_20": 0.03
   }
 ]

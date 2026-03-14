@@ -1296,5 +1296,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.481983432444364,
     "three_inst_ratio_change_20": -0.6080165675556355
+  },
+  {
+    "date": "2026-03-13",
+    "code": "6426",
+    "name": "統新",
+    "market": "TWSE",
+    "foreign_ratio": 11.41,
+    "trust_ratio": 0.08198343244436365,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.491983432444364,
+    "three_inst_ratio_change_20": 0.5700000000000003
   }
 ]

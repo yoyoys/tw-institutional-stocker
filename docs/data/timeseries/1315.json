@@ -1131,5 +1131,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.19,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-03-13",
+    "code": "1315",
+    "name": "達新",
+    "market": "TWSE",
+    "foreign_ratio": 1.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.18,
+    "three_inst_ratio_change_20": 0.020000000000000018
   }
 ]

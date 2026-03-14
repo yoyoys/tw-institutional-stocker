@@ -1296,5 +1296,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.061059819576787,
     "three_inst_ratio_change_20": 0.03105981957678594
+  },
+  {
+    "date": "2026-03-13",
+    "code": "2459",
+    "name": "敦吉",
+    "market": "TWSE",
+    "foreign_ratio": 17.07,
+    "trust_ratio": -0.037880360846423405,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.032119639153578,
+    "three_inst_ratio_change_20": -0.007880360846421297
   }
 ]
