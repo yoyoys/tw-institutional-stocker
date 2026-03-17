@@ -1307,5 +1307,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.033740886732935,
     "three_inst_ratio_change_20": -0.7877213824317524
+  },
+  {
+    "date": "2026-03-16",
+    "code": "3380",
+    "name": "明泰",
+    "market": "TWSE",
+    "foreign_ratio": 5.93,
+    "trust_ratio": -0.18625911326706496,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.743740886732935,
+    "three_inst_ratio_change_20": -0.5277213824317526
   }
 ]

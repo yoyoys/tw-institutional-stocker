@@ -1307,5 +1307,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.526077453047336,
     "three_inst_ratio_change_20": 0.20854315300342918
+  },
+  {
+    "date": "2026-03-16",
+    "code": "1210",
+    "name": "大成",
+    "market": "TWSE",
+    "foreign_ratio": 10.64,
+    "trust_ratio": 1.012612864801612,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.652612864801613,
+    "three_inst_ratio_change_20": 0.31988428393725954
   }
 ]

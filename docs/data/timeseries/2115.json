@@ -1274,5 +1274,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.97,
     "three_inst_ratio_change_20": 0.00999999999999801
+  },
+  {
+    "date": "2026-03-16",
+    "code": "2115",
+    "name": "六暉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 44.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.01,
+    "three_inst_ratio_change_20": 0.03999999999999915
   }
 ]

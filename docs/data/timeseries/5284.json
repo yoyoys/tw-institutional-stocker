@@ -1307,5 +1307,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.080096986266724,
     "three_inst_ratio_change_20": -0.6400000000000006
+  },
+  {
+    "date": "2026-03-16",
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.6,
+    "trust_ratio": 0.21009698626672577,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.81009698626673,
+    "three_inst_ratio_change_20": -0.5399999999999991
   }
 ]

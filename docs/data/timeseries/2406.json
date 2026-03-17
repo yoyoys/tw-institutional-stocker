@@ -1307,5 +1307,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.37,
     "three_inst_ratio_change_20": -3.1000000000000014
+  },
+  {
+    "date": "2026-03-16",
+    "code": "2406",
+    "name": "國碩",
+    "market": "TWSE",
+    "foreign_ratio": 11.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.21,
+    "three_inst_ratio_change_20": -1.8899999999999988
   }
 ]

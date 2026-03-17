@@ -1087,5 +1087,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.51,
     "three_inst_ratio_change_20": 0.04999999999999999
+  },
+  {
+    "date": "2026-03-16",
+    "code": "9931",
+    "name": "欣高",
+    "market": "TWSE",
+    "foreign_ratio": 0.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.52,
+    "three_inst_ratio_change_20": 0.06
   }
 ]
