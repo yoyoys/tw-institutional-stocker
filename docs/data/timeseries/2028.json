@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.64,
     "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2026-03-17",
+    "code": "2028",
+    "name": "威致",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.65,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.797477156766604,
     "three_inst_ratio_change_20": -0.04516687318364987
+  },
+  {
+    "date": "2026-03-17",
+    "code": "2466",
+    "name": "冠西電",
+    "market": "TWSE",
+    "foreign_ratio": 10.52,
+    "trust_ratio": 0.2974771567666048,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.817477156766603,
+    "three_inst_ratio_change_20": 0.06483312681634956
   }
 ]

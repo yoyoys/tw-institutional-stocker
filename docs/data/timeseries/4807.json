@@ -1164,5 +1164,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 73.01,
     "three_inst_ratio_change_20": -0.3399999999999892
+  },
+  {
+    "date": "2026-03-17",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 73.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 73.06,
+    "three_inst_ratio_change_20": -0.28999999999999204
   }
 ]

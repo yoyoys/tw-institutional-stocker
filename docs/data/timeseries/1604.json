@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.93,
     "three_inst_ratio_change_20": 0.35999999999999943
+  },
+  {
+    "date": "2026-03-17",
+    "code": "1604",
+    "name": "聲寶",
+    "market": "TWSE",
+    "foreign_ratio": 7.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.92,
+    "three_inst_ratio_change_20": 0.34999999999999964
   }
 ]

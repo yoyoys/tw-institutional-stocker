@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.268566562650193,
     "three_inst_ratio_change_20": 0.8789015640111444
+  },
+  {
+    "date": "2026-03-17",
+    "code": "2208",
+    "name": "台船",
+    "market": "TWSE",
+    "foreign_ratio": 9.21,
+    "trust_ratio": 0.048252723796233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.258252723796234,
+    "three_inst_ratio_change_20": 0.9685877251571853
   }
 ]

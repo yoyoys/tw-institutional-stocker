@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
     "three_inst_ratio_change_20": 0.03999999999999959
+  },
+  {
+    "date": "2026-03-17",
+    "code": "3016",
+    "name": "嘉晶",
+    "market": "TWSE",
+    "foreign_ratio": 2.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.52,
+    "three_inst_ratio_change_20": 0.41000000000000014
   }
 ]

@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.98,
     "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-03-17",
+    "code": "6668",
+    "name": "中揚光",
+    "market": "TWSE",
+    "foreign_ratio": 11.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.06,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

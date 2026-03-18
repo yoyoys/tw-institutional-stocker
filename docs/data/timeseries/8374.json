@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
     "three_inst_ratio_change_20": 0.06999999999999984
+  },
+  {
+    "date": "2026-03-17",
+    "code": "8374",
+    "name": "羅昇",
+    "market": "TWSE",
+    "foreign_ratio": 2.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.28,
+    "three_inst_ratio_change_20": 0.10999999999999988
   }
 ]

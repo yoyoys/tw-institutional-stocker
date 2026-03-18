@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.42,
     "three_inst_ratio_change_20": 0.029999999999999805
+  },
+  {
+    "date": "2026-03-17",
+    "code": "2429",
+    "name": "銘旺科",
+    "market": "TWSE",
+    "foreign_ratio": 2.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2,
+    "three_inst_ratio_change_20": -0.20999999999999996
   }
 ]

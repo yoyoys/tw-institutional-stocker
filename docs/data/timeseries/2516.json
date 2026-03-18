@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.44,
     "three_inst_ratio_change_20": -0.45999999999999996
+  },
+  {
+    "date": "2026-03-17",
+    "code": "2516",
+    "name": "新建",
+    "market": "TWSE",
+    "foreign_ratio": 2.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.52,
+    "three_inst_ratio_change_20": -0.31999999999999984
   }
 ]

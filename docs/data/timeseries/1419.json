@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1789960101490033,
     "three_inst_ratio_change_20": -0.031003989850996616
+  },
+  {
+    "date": "2026-03-17",
+    "code": "1419",
+    "name": "新紡",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.0289960101490035,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1889960101490034,
+    "three_inst_ratio_change_20": -0.021003989850996607
   }
 ]

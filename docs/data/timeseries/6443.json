@@ -1318,5 +1318,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.36,
     "three_inst_ratio_change_20": -4.99
+  },
+  {
+    "date": "2026-03-17",
+    "code": "6443",
+    "name": "元晶",
+    "market": "TWSE",
+    "foreign_ratio": 11.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.61,
+    "three_inst_ratio_change_20": -0.9299999999999997
   }
 ]

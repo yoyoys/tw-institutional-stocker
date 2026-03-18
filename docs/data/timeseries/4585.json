@@ -1197,5 +1197,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.11237354085603113,
     "three_inst_ratio_change_20": -0.027626459143968884
+  },
+  {
+    "date": "2026-03-17",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.12,
+    "trust_ratio": 0.02237354085603113,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.14237354085603113,
+    "three_inst_ratio_change_20": 0.04237354085603112
   }
 ]
